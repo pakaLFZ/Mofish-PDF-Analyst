@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 import time
 # import win32api,win32con #需要Pip安装pywin
