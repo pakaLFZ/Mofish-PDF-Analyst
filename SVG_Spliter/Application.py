@@ -37,7 +37,7 @@ Broken_Matrix = 0    #检测有多少不能处理的Matrix
 
 
 #Other function
-def Space_Eliminator(Name):
+def Space_Eliminator(Name):  #在使用系统cmd复制bug文件的时候，会牵扯到路径。指令中的路径不能直接有空格。这个def的作用是在相关的地方加上""
     Name_Storage_1 = ''
     Name_Storage_2 = ''
 
@@ -76,7 +76,7 @@ def Space_Eliminator(Name):
             Inner_Inspector_Location += 1
     return(Name_Storage_2)
 
-def Bug_File_Copier():
+def Bug_File_Copier():   #将有问题的文件复制到BugFile文件夹内
     global SVGFile_Location_List, SVGFile_Number, Bug_File_Location, SVGFile_Name_List
     File_Location_Storage = ''
     Command_Storage = ''
@@ -87,7 +87,7 @@ def Bug_File_Copier():
     print(Command_Storage)
     os.system(Command_Storage)
 #Rewrite SVG
-def Finding_Elements(SVGFile):
+def Finding_Elements(SVGFile):   #寻找所有的tranformation，并将他们记录下来。为之后修改坐标做准备
     global Inspector_Location, SVGFile_Transformation_Recorder, Broken_Matrix, Blank_Page_Check, Bug_Reporter, SVGFile_Number, SVGFile_Location_List
     SVGFile_Transformation_Recorder.append(SVGFile_Transformation_TagLabel)
     while Inspector_Location <= len(SVGFile) - 1:
@@ -213,7 +213,7 @@ def Finding_Elements(SVGFile):
     
         Inspector_Location += 1
 
-def Coordinate_X_Converter():
+def Coordinate_X_Converter():    #根据Finding_Elements记录下来的transformation记录（SVGFile_Transformation_Recorder）修改坐标值
     global Coordinate_X_List, SVGFile_Transformation_Recorder, SVGFile_Transformation_TagLabel, SVGFile_Product
     Inner_Inspector_Location = -1
     while len(SVGFile_Transformation_Recorder) >= 1:
@@ -238,7 +238,7 @@ def Coordinate_X_Converter():
             if str(SVGFile_Transformation_Recorder[Inner_Inspector_Location]) == '1':
                 break
 
-def Coordinate_X_Analyst():
+def Coordinate_X_Analyst():      #有时坐标是一串的，它的作用是将一串坐标变成一个list
     global Coordinate_X, Coordinate_X_List, SVGFile_Transformation_Recorder, SVGFile_Transformation_TagLabel, SVGFile_Product
     Inner_Inspector_Location = 0
     Coordinate_X_List = []
@@ -320,7 +320,7 @@ def Coordinate_Y_Analyst():
     SVGFile_Product.write('" ')
     SVGFile_Product.flush()
                     
-def Path_Route_Analyst():
+def Path_Route_Analyst():        #将Path里的坐标提炼出来用Coordinate_X_Converter()和Coordinate_Y_Converter()转换坐标
     global Path_Route, SVGFile_Transformation_Recorder, SVGFile_Transformation_TagLabel, SVGFile_Product, Coordinate_X_List, Coordinate_Y_List
     Inner_Inspector_Location = 0
     Path_Route_List = []
@@ -367,7 +367,7 @@ def Path_Route_Analyst():
     SVGFile_Product.write('" ')
     SVGFile_Product.flush()
 
-def Stroke_Width_Analyst():
+def Stroke_Width_Analyst():     #修改线条宽度
     global Stroke_Width, SVGFile_Transformation_Recorder, SVGFile_Transformation_TagLabel, SVGFile_Product
     Inner_Inspector_Location = -1
     while len(SVGFile_Transformation_Recorder) >= 1:
@@ -383,7 +383,7 @@ def Stroke_Width_Analyst():
             if str(SVGFile_Transformation_Recorder[Inner_Inspector_Location]) == '1':
                 break
 
-def Font_Size_Analyst():
+def Font_Size_Analyst():        #修改字体宽度
     global Font_Size, SVGFile_Transformation_Recorder, SVGFile_Transformation_TagLabel, SVGFile_Product
     Inner_Inspector_Location = -1
     while len(SVGFile_Transformation_Recorder) >= 1:
@@ -399,7 +399,7 @@ def Font_Size_Analyst():
             if str(SVGFile_Transformation_Recorder[Inner_Inspector_Location]) == '1':
                 break
 
-def Rewrite_SVG():
+def Rewrite_SVG():              #去除文件中的transformation并利用以上工具转换坐标
     global Inspector_Location, Blank_Page_Check, SVGFile, SVGFile_Product, SVGFile_Taglist, SVGFile_Transformation_TagLabel, SVGFile_Transformation_Recorder, Path_Route, Coordinate_X, Coordinate_Y, SVGFile_Product_Open_Location, Stroke_Width, Font_Size, OutMode_Indicator, SVGFile_Product_Open_Location
     Inspector_Location = 0
     SVGFile_Product_Open_Location = Product_Storage_Location + '/' + SVGFile_Name_List[SVGFile_Number]
@@ -870,7 +870,7 @@ def Separation():
     #print('  Start file separation')
     Start_Separation(SVGFile)
 
-def Relocate_Rewrite_Coordinates():
+def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在页面中的位置，它将它们移上去
     global Question_Number, SVGFile, Target_Height, SVGFile_Number, Product_Storage_Location, SVGFile_Name_List, SVGFile_Upper_Blank
     SVGFile_Open = open(Product_Storage_Location + '/WareHouse' + '/' + SVGFile_Name_List[SVGFile_Number][:-4] + '_' + str(Question_Number) + '.svg', 'r', encoding='utf-8')
     SVGFile = SVGFile_Open.read()
