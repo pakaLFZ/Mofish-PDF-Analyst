@@ -84,7 +84,6 @@ def Space_Eliminator(Name):     #在使用系统cmd复制bug文件的时候，�
             Inner_Inspector_Location += 1
     return(Name_Storage_2)
 
-
 def Bug_File_Copier():      #将有问题的文件复制到BugFile文件夹内
     global SVG_FILE_LOCATION_LIST, SVG_FILE_NUMBER, BUG_FILE_LOCATION, SVG_FILE_NAME_LIST
     File_Location_Storage = ''
@@ -99,8 +98,6 @@ def Bug_File_Copier():      #将有问题的文件复制到BugFile文件夹内
     logging.debug(Command_Storage)
     os.system(Command_Storage)
 # Rewrite SVG
-
-
 def Finding_Elements(SVG_FILE):     #寻找所有的tranformation，并将他们记录下来。为之后修改坐标做准备
     global INSPECTOR_LOCATION, SVG_FILE_TRANSFORMATION_RECORDER, BROKEN_MATRIX, BLACK_PAGE_CHECK, BUG_REPORTER, SVG_FILE_NUMBER, SVG_FILE_LOCATION_LIST
     SVG_FILE_TRANSFORMATION_RECORDER.append(SVG_FILE_TRANSFORMATION_TAG_LABEL)
@@ -240,7 +237,6 @@ def Finding_Elements(SVG_FILE):     #寻找所有的tranformation，并将他们
 
         INSPECTOR_LOCATION += 1
 
-
 def Coordinate_X_Converter():   #根据Finding_Elements记录下来的transformation记录（SVGFile_Transformation_Recorder）修改坐标值
     global COORDINATE_X_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
     Inner_Inspector_Location = -1
@@ -267,7 +263,6 @@ def Coordinate_X_Converter():   #根据Finding_Elements记录下来的transforma
                 Inner_Inspector_Location += -2
             if str(SVG_FILE_TRANSFORMATION_RECORDER[Inner_Inspector_Location]) == '1':
                 break
-
 
 def Coordinate_X_Analyst():     #有时坐标是一串的，它的作用是将一串坐标变成一个list
     global COORDINATE_X, COORDINATE_X_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
@@ -299,7 +294,6 @@ def Coordinate_X_Analyst():     #有时坐标是一串的，它的作用是将�
     SVG_FILE_PRODUCT.write('" ')
     SVG_FILE_PRODUCT.flush()
 
-
 def Coordinate_Y_Converter():
     global COORDINATE_Y_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
     Inner_Inspector_Location = -1
@@ -326,7 +320,6 @@ def Coordinate_Y_Converter():
                 Inner_Inspector_Location += -3
             if str(SVG_FILE_TRANSFORMATION_RECORDER[Inner_Inspector_Location]) == '1':
                 break
-
 
 def Coordinate_Y_Analyst():
     global COORDINATE_Y, COORDINATE_Y_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
@@ -356,7 +349,6 @@ def Coordinate_Y_Analyst():
     SVG_FILE_PRODUCT.write(COORDINATE_Y)
     SVG_FILE_PRODUCT.write('" ')
     SVG_FILE_PRODUCT.flush()
-
 
 def Path_Route_Analyst():        #将Path里的坐标提炼出来用Coordinate_X_Converter()和Coordinate_Y_Converter()转换坐标
     global PATH_ROUTE, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT, COORDINATE_X_LIST, COORDINATE_Y_LIST
@@ -410,7 +402,6 @@ def Path_Route_Analyst():        #将Path里的坐标提炼出来用Coordinate_X
     SVG_FILE_PRODUCT.write('" ')
     SVG_FILE_PRODUCT.flush()
 
-
 def Stroke_Width_Analyst():     #修改线条宽度
     global STROKE_WIDTH, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
     Inner_Inspector_Location = -1
@@ -428,7 +419,6 @@ def Stroke_Width_Analyst():     #修改线条宽度
             if str(SVG_FILE_TRANSFORMATION_RECORDER[Inner_Inspector_Location]) == '1':
                 break
 
-
 def Font_Size_Analyst():        #修改字体宽度
     global FONT_SIZE, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
     Inner_Inspector_Location = -1
@@ -445,7 +435,6 @@ def Font_Size_Analyst():        #修改字体宽度
                 Inner_Inspector_Location += -2
             if str(SVG_FILE_TRANSFORMATION_RECORDER[Inner_Inspector_Location]) == '1':
                 break
-
 
 def Rewrite_SVG():          #去除文件中的transformation并利用以上工具转换坐标
     global INSPECTOR_LOCATION, BLACK_PAGE_CHECK, SVG_FILE, SVG_FILE_PRODUCT, SVG_FILE_TAGLIST, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_TRANSFORMATION_RECORDER, PATH_ROUTE, COORDINATE_X, COORDINATE_Y, SVG_FILE_PRODUCT_OPEN_LOCATION, STROKE_WIDTH, FONT_SIZE, OUT_MODE_INDICATOR, SVG_FILE_PRODUCT_OPEN_LOCATION
@@ -600,8 +589,6 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
             if SVG_FILE[INSPECTOR_LOCATION] != '<':
                 INSPECTOR_LOCATION += 1
 # Separate SVG
-
-
 def Find_Separation_Location(SVG_FILE):  # 寻找分割点
     global SVG_FILE_SEPARATION_POINT
     SU_Inspector_Location = 0
@@ -782,7 +769,6 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                 SVG_FILE_SEPARATION_POINT[SU_Inspector_Location_2])
     SVG_FILE_SEPARATION_POINT = SVGFile_Separation_Point_Storage
 
-
 def Start_Separation(SVG_FILE):
     global SVG_FILE_SEPARATION_POINT, QUESTION_NUMBER, TARGET_HEIGHT, BUG_REPORTER, SVG_FILE_NUMBER, SVG_FILE_NAME_LIST, BROKEN_MATRIX
     Question_Count = len(SVG_FILE_SEPARATION_POINT) - 1
@@ -935,7 +921,6 @@ def Start_Separation(SVG_FILE):
 
         #logging.debug('  ---Finished')
 
-
 def Separation():
     global SVG_FILE, SVG_FILE_SEPARATION_POINT, SVG_FILE_PRODUCT_OPEN_LOCATION
     SVGFile_Open = open(SVG_FILE_PRODUCT_OPEN_LOCATION, 'r', encoding='utf-8')
@@ -946,7 +931,6 @@ def Separation():
     #logging.debug('    ---Success')
     #logging.debug('  Start file separation')
     Start_Separation(SVG_FILE)
-
 
 def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在页面中的位置，它将它们移上去
     global QUESTION_NUMBER, SVG_FILE, TARGET_HEIGHT, SVG_FILE_NUMBER, PRODUCT_STORAGE_LOCATION, SVG_FILE_NAME_LIST, SVG_FILE_UPPER_BLANK
@@ -1051,7 +1035,6 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
         INSPECTOR_LOCATION += 1
 # Print time
 
-
 def Print_Time():
     global SVG_FILE_NUMBER, TIME_START
     os.system("cls")
@@ -1099,7 +1082,6 @@ def Print_Time():
         Percentage_Left_Block += 0.02
     logging.debug('|', end='  ')
     logging.debug(str(round(Percentage * 100, 2)) + '%', end='\n\n')
-
 
 os.system("cls")
 # 获取所有文件地址
