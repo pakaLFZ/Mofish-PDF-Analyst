@@ -1,0 +1,753 @@
+Start rewriting: 0439_w17_qp_11-10.svg  ---Complete
+Separate: 0439_w17_qp_11-10.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-11.svg  ---Complete
+Separate: 0439_w17_qp_11-11.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-12.svg  ---Complete
+Separate: 0439_w17_qp_11-12.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-13.svg  ---Complete
+Separate: 0439_w17_qp_11-13.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-14.svg  ---Complete
+Separate: 0439_w17_qp_11-14.svg
+0439_w17_qp_11-14.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-15.svg  ---Complete
+--BLANK PAGE--
+Start rewriting: 0439_w17_qp_11-16.svgFile: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 9.8095 -9.8012 0 92.3537 407.2182)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 121.1767 359.45)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 133.6572 357.4285)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 142.352 350.3347)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 150.1133 359.45)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 133.6572 752.4453)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 142.352 751.4325)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 150.1133 757.3623)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 9.6816 -9.6735 0 107.9532 81.2867)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 160.4704 80.8627)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 78.549)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 75.079)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 80.8627)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 116.1353)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 112.0885)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 120.7636)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 208.5369)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 9.8095 -9.8012 0 148.9915 232.8024)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 235.2909)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 213.338)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 200.2462 79.3578)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 75.947)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 74.2101)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 79.1267)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 115.2701)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 109.0491)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 119.0276)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 79.1286)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 70.7381)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 79.1267)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 115.8479)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 113.6793)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 119.0276)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 75.947)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 72.6192)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 79.1267)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 117.2955)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 111.7982)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 119.0276)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 76.2382)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 74.3571)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 77.3888)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 116.1353)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 114.5455)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 117.2898)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 77.6878)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 72.6201)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 80.8627)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 115.8479)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 114.5455)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 120.7636)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 556.6724)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 553.4878)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 556.9025)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 555.2161)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 548.8623)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 556.6704)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 553.2004)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 551.8998)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 556.6704)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 555.0586)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 552.4775)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 555.1655)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 555.5083)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 551.176)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 554.9335)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 596.1999)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 592.0012)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 596.4844)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 595.33)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 592.726)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 596.4844)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 593.0153)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 586.9403)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 596.4844)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 593.5921)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 597.2101)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 594.9796)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 593.5921)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 595.0378)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 594.7484)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 197.9032)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 192.934)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 198.5735)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 197.1345)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 190.9106)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 198.5735)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 196.8414)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 192.7879)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 196.8356)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 196.8414)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 186.5697)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 200.3095)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 238.3303)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 230.5183)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 238.3283)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 235.1486)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 232.6879)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 238.3283)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 236.3049)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 231.8208)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 236.5914)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 235.1486)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 231.8189)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 240.0653)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 276.0627)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 270.1309)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 278.0812)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 274.3248)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 266.655)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 278.0812)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 276.6423)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 271.5708)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 276.3443)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 275.1889)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 267.9566)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 279.8182)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 314.1415)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 307.7715)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 317.8981)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 316.1669)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 308.6414)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 319.635)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 314.7183)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 311.9692)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 316.1612)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 315.0058)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 311.9692)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 319.635)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 355.1129)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 356.847)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 357.714)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 354.5343)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 349.6147)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 355.9761)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 354.5361)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 352.0773)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 355.9761)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 354.8255)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 351.4968)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 359.45)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 394.3502)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 394.0589)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 397.5299)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 394.3502)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 391.6011)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 395.793)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 397.0792)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 393.339)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 395.793)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 395.221)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 388.132)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 399.266)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 435.8476)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 434.1088)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 437.2895)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 434.3962)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 429.6227)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 435.5526)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 435.8448)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 430.9261)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 435.5526)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 434.401)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 424.9982)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 439.0264)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 473.8598)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 472.5554)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 477.0396)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 474.1462)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 474.4404)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 475.3026)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 474.1462)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 475.5929)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 475.3026)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 473.8598)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 466.045)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 478.7765)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 514.2171)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 515.6638)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 516.8182)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 513.6747)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 509.7711)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 515.3505)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 513.6747)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 510.9304)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 515.1185)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 513.6747)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 506.2982)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 518.5924)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 595.3223)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 589.4011)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 598.2214)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 371.8367 674.0289)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 380.5323 666.0795)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 388.2928 677.7892)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 636.0148)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 630.3686)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 636.3004)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 636.3958)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 626.1729)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 636.3004)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 633.6992)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 631.3837)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 636.3004)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 633.407)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 629.2131)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 634.5634)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 635.1459)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 630.6608)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 634.5634)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 675.4784)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 671.1346)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 676.0532)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 676.0551)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 673.1628)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 676.0532)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 673.1599)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 669.1112)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 676.0532)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 674.0289)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 669.6918)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 674.3163)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 673.1599)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 668.9651)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 677.7892)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 716.1044)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 710.7482)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 715.8102)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 714.0684)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 710.17)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 713.2058)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 714.0786)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 709.8815)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 715.8102)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 717.0929)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 712.3376)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 714.0735)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 714.3658)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 710.1686)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 717.5471)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 172.9507 752.4453)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 181.6453 753.3096)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 189.4059 755.6255)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 212.7276 753.8939)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 221.4231 752.4429)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 229.1837 755.6255)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 753.8939)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 750.5648)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 755.6255)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 752.7324)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 752.0083)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 753.8887)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 332.0599 752.4453)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 340.7545 752.4429)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 348.515 757.3623)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 252.5053 156.1575)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 261.1999 151.0937)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 268.9604 158.7576)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 292.2821 158.8541)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 300.9777 154.4234)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 308.7372 158.7576)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 328.775 148.9175)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 359.3563 151.8089)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 368.5528 151.9579)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 431.8125 158.8837)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 156.5671)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 150.2037)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 157.1467)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 156.2826)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 9.8095 -9.8012 0 444.2928 65.6992)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 4.9047 -9.8012 0 526.2708 242.3838)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 9.8095 -9.8012 0 526.2708 243.7464)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.7189 -5.7141 0 523.0069 257.3745)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 9.8095 -9.8012 0 526.2708 260.5543)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 152.6664)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 160.6197)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 195.3928)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 194.2374)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 196.8356)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 195.9724)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 193.3685)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 196.8356)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 236.5952)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 224.7327)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 236.5895)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 235.4341)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 227.625)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 236.5895)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 275.0209)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 268.222)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 276.4637)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 277.915)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 272.2717)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 276.4637)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 313.624)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 307.6913)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 319.6942)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 314.7785)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 309.2783)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 319.6942)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 353.3798)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 349.7637)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 355.9761)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 354.8207)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 349.903)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 359.45)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 394.6376)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 390.1534)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 395.793)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 393.1957)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 389.0009)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 399.266)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 433.8195)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 428.1761)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 435.5526)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 432.6679)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 432.9543)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 439.0264)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 474.4384)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 471.8354)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 475.3026)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 474.4384)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 469.2314)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 478.7765)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 513.9077)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 506.9628)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 515.0593)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 515.0641)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 507.6857)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 518.5322)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 553.4907)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 550.3099)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 554.9335)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 554.0703)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 546.9802)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 558.4073)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 594.7532)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 592.0032)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 594.7484)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 592.4434)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 590.5593)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 598.2214)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 632.2583)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 631.3837)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 634.5634)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 632.5428)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 624.2955)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 638.0373)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 673.1599)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 668.8238)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 674.3163)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 672.8725)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 668.9651)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 677.7892)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 444.2928 713.4944)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 452.9894 710.1714)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 460.749 714.0735)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 10.4103 -10.4015 0 484.0706 714.6559)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 5.2051 -5.2007 0 492.7653 706.1224)
+File: ./SVGs/0439_w17_qp_11-16.svg
+##Unexpected matrix attribute: Matrix(0 6.246 -6.2408 0 500.5258 717.5471)
+  ---Complete
+Separate: 0439_w17_qp_11-16.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-6.svg  ---Complete
+Separate: 0439_w17_qp_11-6.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-7.svg  ---Complete
+Separate: 0439_w17_qp_11-7.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-8.svg  ---Complete
+Separate: 0439_w17_qp_11-8.svg
+Finished one page
+Start rewriting: 0439_w17_qp_11-9.svg  ---Complete
+Separate: 0439_w17_qp_11-9.svg
+Finished one page
