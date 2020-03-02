@@ -568,8 +568,50 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
             if SVG_FILE[INSPECTOR_LOCATION] != '<':
                 INSPECTOR_LOCATION += 1
 # Separate SVG
+def Page_Ending_Detecter():
+    global SVG_FILE, SU_Inspector_Location, Page_Ending_Indicator, Paper_End_Type, SVG_FILE_SEPARATION_POINT
+    if SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 10] == 'Permission':
+        Paper_End_Type = 1
+        Page_Ending_Indicator = 1
+
+    #0625/01/M/J/0
+    if SVG_FILE[SU_Inspector_Location + 4] == '/' and  SVG_FILE[SU_Inspector_Location + 7] == '/':
+        if Paper_End_Type == 1:
+            pass
+        else:
+            Page_Ending_Indicator = 1
+            Paper_End_Type = 2
+
+    if SVG_FILE[SU_Inspector_Location] == '©':
+        if Paper_End_Type == 1 or Paper_End_Type == 2:
+            pass
+        else:
+            Page_Ending_Indicator = 1
+
+    if Page_Ending_Indicator == 1:
+        SU_Inspector_Location_1 = SU_Inspector_Location
+        SU_Inspector_Location += 1
+        Coordinate_Storage = ''
+        Block_End = 1
+        while Block_End:
+            if SVG_FILE[SU_Inspector_Location_1: SU_Inspector_Location_1 + 3] == 'y="' and SVG_FILE[SU_Inspector_Location_1 - 1] == ' ':
+                SU_Inspector_Location_1 += 3
+                while True:
+                    if SVG_FILE[SU_Inspector_Location_1] == '"':
+                        #将坐标写入表
+                        if Paper_End_Type == 1:
+                            SVG_FILE_SEPARATION_POINT.append(str(float(Coordinate_Storage) - 50))
+                        else:
+                            SVG_FILE_SEPARATION_POINT.append(str(float(Coordinate_Storage) - 20))
+                        Block_End = 0
+                        break
+                    Coordinate_Storage = Coordinate_Storage + SVG_FILE[SU_Inspector_Location_1]
+                    SU_Inspector_Location_1 += 1
+            SU_Inspector_Location_1 += -1
+        Page_Ending_Indicator = 0
+
 def Find_Separation_Location(SVG_FILE):  # 寻找分割点
-    global SVG_FILE_SEPARATION_POINT, QUESTION_NUMBER_LIST
+    global SVG_FILE_SEPARATION_POINT, QUESTION_NUMBER_LIST, Page_Ending_Indicator, Paper_End_Type, SU_Inspector_Location
     SU_Inspector_Location = 0
     QUESTION_NUMBER_LIST = []
     Paper_End_Type = 0
@@ -617,16 +659,17 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                     if SVG_FILE[SU_Inspector_Location_1] == '<':
                         First_Task = 1
                         break
-                # Get rid of </svg:tspan>
-                while First_Task:
+                while First_Task:# Get rid of </svg:tspan>
                     if SVG_FILE[SU_Inspector_Location_1] == '>':
                         First_Block = 1
                         SU_Inspector_Location_1 += 1
                         break
                     SU_Inspector_Location_1 += 1
+                #对比字体   --->第二部检测
                 while First_Task:
                     if SVG_FILE[SU_Inspector_Location_1] == '>':
                         break
+
                     if SVG_FILE[SU_Inspector_Location_1: SU_Inspector_Location_1 + 7] == 'g_font_' and First_Block == 1:
                         SU_Inspector_Location_3 = SU_Inspector_Location_1 + 7
                         Font_Type_No_2 = ''
@@ -649,25 +692,9 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                     if SVG_FILE[SU_Inspector_Location_1] == '>':
                         SU_Inspector_Location_1 += 1
                         while True:
-                            if SVG_FILE[SU_Inspector_Location] == '©' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 5] == '0620/':
-                                SU_Inspector_Location_1 = SU_Inspector_Location
-                                SU_Inspector_Location += 1
-                                Coordinate_Storage = ''
-                                Block_End = 1
-                                while Block_End:
-                                    if SVG_FILE[SU_Inspector_Location_1: SU_Inspector_Location_1 + 3] == 'y="':
-                                        SU_Inspector_Location_1 += 3
-                                        while True:
-                                            if SVG_FILE[SU_Inspector_Location_1] == '"':
-                                                SVG_FILE_SEPARATION_POINT.append(
-                                                    Coordinate_Storage)
-                                                Block_End = 0
-                                                break
-                                            Coordinate_Storage = Coordinate_Storage + \
-                                                SVG_FILE[SU_Inspector_Location_1]
-                                            SU_Inspector_Location_1 += 1
-                                    SU_Inspector_Location_1 += -1
-
+                            Page_Ending_Indicator = 0
+                            if SU_Inspector_Location <= len(SVG_FILE) - 5:
+                                Page_Ending_Detecter() #---------->检测页尾标识
                             if SVG_FILE[SU_Inspector_Location_1] == ' ':
                                 SU_Inspector_Location_1 += 1
                             else:
@@ -679,7 +706,7 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                                 break
                     SU_Inspector_Location_1 += 1
                 #满足了最终条件，开始记录坐标
-                if It_Is_Question_Number == 1 and Sentence_Length >= 4:
+                if It_Is_Question_Number == 1 and Sentence_Length >= 15:
                     QUESTION_NUMBER_LIST.append(QUESTION_NUMBER_STORAGE)
                     Block_End = 1
                     while Block_End:
@@ -697,61 +724,24 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                                     SVG_FILE[SU_Inspector_Location]
                                 SU_Inspector_Location += 1
                         SU_Inspector_Location += 1
-
-        if SVG_FILE[SU_Inspector_Location] == '©' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 5] == '0620/' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 10] == 'Permission':
-            if SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 10] == 'Permission':
-                Paper_End_Type = 1
-                Page_Ending_Indicator = 1
-            if SVG_FILE[SU_Inspector_Location] == '©' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 5] == '0620/':
-                if Paper_End_Type == 1:
-                    pass
-                else:
-                    Page_Ending_Indicator = 1
-        if Page_Ending_Indicator == 1:
-            SU_Inspector_Location_1 = SU_Inspector_Location
-            SU_Inspector_Location += 1
-            Coordinate_Storage = ''
-            Block_End = 1
-            while Block_End:
-                if SVG_FILE[SU_Inspector_Location_1: SU_Inspector_Location_1 + 3] == 'y="':
-                    SU_Inspector_Location_1 += 3
-                    while True:
-                        if SVG_FILE[SU_Inspector_Location_1] == '"':
-                            #将坐标写入表
-                            if Paper_End_Type == 1:
-                                SVG_FILE_SEPARATION_POINT.append(str(float(Coordinate_Storage)-45))
-                            else:
-                                SVG_FILE_SEPARATION_POINT.append(Coordinate_Storage)
-                            Block_End = 0
-                            break
-                        Coordinate_Storage = Coordinate_Storage + \
-                            SVG_FILE[SU_Inspector_Location_1]
-                        SU_Inspector_Location_1 += 1
-                SU_Inspector_Location_1 += -1
-            Page_Ending_Indicator = 0
-
+        # 页尾检测
+        if SU_Inspector_Location <= len(SVG_FILE) - 5:
+            Page_Ending_Detecter()
         SU_Inspector_Location += 1
-    # 排序 从左到右按从小到大排序
-    SVGFile_Separation_Point_Storage = ''
-    SU_Inspector_Location_2 = 0
-    while True:
-        Sequence_Check = 0  # 如果为0，则表示顺序已经正确
-        if SU_Inspector_Location_2 <= len(SVG_FILE_SEPARATION_POINT) - 2:
-            if float(SVG_FILE_SEPARATION_POINT[SU_Inspector_Location_2]) - float(SVG_FILE_SEPARATION_POINT[SU_Inspector_Location_2 + 1]) > 0:
-                SVGFile_Separation_Point_Storage = SVG_FILE_SEPARATION_POINT[SU_Inspector_Location_2]
-                SVG_FILE_SEPARATION_POINT[SU_Inspector_Location_2] = SVG_FILE_SEPARATION_POINT[SU_Inspector_Location_2 + 1]
-                SVG_FILE_SEPARATION_POINT[SU_Inspector_Location_2 +
-                                         1] = SVGFile_Separation_Point_Storage
-                SU_Inspector_Location_2 += 1
-                Sequence_Check = 1
-            else:
-                SU_Inspector_Location_2 += 1
 
-        if SU_Inspector_Location_2 >= len(SVG_FILE_SEPARATION_POINT) - 1:
-            if Sequence_Check == 1:
-                SU_Inspector_Location_2 = 0
-            else:
-                break
+    #保4为有效数字
+    SU_Inspector_Location = 0
+    while SU_Inspector_Location <= len(SVG_FILE_SEPARATION_POINT) - 1:
+        SVG_FILE_SEPARATION_POINT[SU_Inspector_Location] = round(float(SVG_FILE_SEPARATION_POINT[SU_Inspector_Location]), 4)
+        SU_Inspector_Location += 1
+    
+    # 排序 从左到右按从小到大排序
+    length = len(SVG_FILE_SEPARATION_POINT)
+    for i in range(length - 1):
+        for j in range(0, length - i - 1):  
+            if SVG_FILE_SEPARATION_POINT[j] > SVG_FILE_SEPARATION_POINT[j+1]:
+                SVG_FILE_SEPARATION_POINT[j], SVG_FILE_SEPARATION_POINT[j+1] = SVG_FILE_SEPARATION_POINT[j+1], SVG_FILE_SEPARATION_POINT[j]
+
     if len(SVG_FILE_SEPARATION_POINT) <= 1:
         SVG_FILE_SEPARATION_POINT = []
     # 过滤，去除重复的点
