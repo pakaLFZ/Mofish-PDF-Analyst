@@ -14,9 +14,9 @@ def Speculate_Question_Paper():
     File_Name_Storage = File_Name_List[File_Number]
     File_Identity = []
     if File_Name_Storage[0 : 4] == '0620': 
-        File_Identity.append('IGCSE/Chemistry')
+        File_Identity.append('IGCSE/0620')
     if File_Name_Storage[0 : 4] == '0439':
-        File_Identity.append('IGCSE/Chemistry(US)')
+        File_Identity.append('IGCSE/0439')
     if File_Name_Storage[9 : 11] == 'qp':
         File_Identity.append('Paper ' + str(File_Name_Storage[12]))
     if File_Name_Storage[13 : 15] == 'qp':
@@ -60,7 +60,7 @@ for root, dirs, files in os.walk(File_Storage_Location, topdown=True):
 
 while File_Number <= len(File_Name_List) - 1:
     print(File_Number)
-    LogFile.write('@' + File_Name_List[File_Number] + ':')
+    LogFile.write('>' + File_Name_List[File_Number] + ';')
     LogFile.flush()
     Paper_Identity = Speculate_Question_Paper()
     #IGCSE/Chemistry(US);Paper 1;October/November;2017;
