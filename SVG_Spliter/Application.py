@@ -780,8 +780,12 @@ def Start_Separation(SVG_FILE):
     # Find the number of questions
     while QUESTION_NUMBER <= Question_Count - 1 and BROKEN_MATRIX <= 4:
         SU_Inspector_Location = 1
-        Product = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
+        try:
+            Product = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
                        SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' +str(QUESTION_NUMBER) + '@' + str(QUESTION_NUMBER_LIST[QUESTION_NUMBER]) + '.svg', 'w', encoding='utf-8')
+        except:
+            QUESTION_NUMBER += 1
+            continue
         Product.write(SVG_FILE_HEADER)
         Product.flush()
         Upper_Boundary = float(
@@ -924,15 +928,20 @@ def Separation():
 
 def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在页面中的位置，它将它们移上去
     global QUESTION_NUMBER, SVG_FILE, TARGET_HEIGHT, SVG_FILE_NUMBER, PRODUCT_STORAGE_LOCATION, SVG_FILE_NAME_LIST, SVG_FILE_UPPER_BLANK, QUESTION_NUMBER_LIST
-    SVGFile_Open = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
+    Functioning_Indicator = 1
+    try:
+        SVGFile_Open = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
                        SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' +str(QUESTION_NUMBER) + '@' + str(QUESTION_NUMBER_LIST[QUESTION_NUMBER]) + '.svg', 'r', encoding='utf-8')
-    SVG_FILE = SVGFile_Open.read()
-    TARGET_HEIGHT = float(SVG_FILE_SEPARATION_POINT[QUESTION_NUMBER])
+        SVG_FILE = SVGFile_Open.read()
+        TARGET_HEIGHT = float(SVG_FILE_SEPARATION_POINT[QUESTION_NUMBER])
 
-    Product = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
-                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' +str(QUESTION_NUMBER) + '@' + str(QUESTION_NUMBER_LIST[QUESTION_NUMBER]) + '.svg', 'w', encoding='utf-8')
+        Product = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
+                        SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' +str(QUESTION_NUMBER) + '@' + str(QUESTION_NUMBER_LIST[QUESTION_NUMBER]) + '.svg', 'w', encoding='utf-8')
+    except:
+        Functioning_Indicator = 0
+    
     INSPECTOR_LOCATION = 0
-    while INSPECTOR_LOCATION <= len(SVG_FILE) - 1:
+    while INSPECTOR_LOCATION <= len(SVG_FILE) - 1 and Functioning_Indicator == 1:
         if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 3] == 'y="' and SVG_FILE[INSPECTOR_LOCATION - 1] == ' ':
             INSPECTOR_LOCATION += 3
             Y_Value_Storage = ''
