@@ -23,7 +23,8 @@ COORDINATE_X = ''
 COORDINATE_Y = ''
 COORDINATE_X_LIST = []
 COORDINATE_Y_LIST = []
-
+SVG_FILE_STORAGE = ''
+QUESTION_NUMBER_LIST = []
 # File indicators
 # 0 means that the tag is not finished and the words between will be recorded
 SVG_FILE_TAG_END_INDICATOR = 1
@@ -236,7 +237,7 @@ def Finding_Elements(SVG_FILE):     #寻找所有的tranformation，并将他们
         INSPECTOR_LOCATION += 1
 
 def Coordinate_X_Converter():   #根据Finding_Elements记录下来的transformation记录（SVGFile_Transformation_Recorder）修改坐标值
-    global COORDINATE_X_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
+    global COORDINATE_X_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT, SVG_FILE_STORAGE
     Inner_Inspector_Location = -1
     while len(SVG_FILE_TRANSFORMATION_RECORDER) >= 1:
         if str(SVG_FILE_TRANSFORMATION_RECORDER[Inner_Inspector_Location]).isdigit():
@@ -263,7 +264,7 @@ def Coordinate_X_Converter():   #根据Finding_Elements记录下来的transforma
                 break
 
 def Coordinate_X_Analyst():     #有时坐标是一串的，它的作用是将一串坐标变成一个list
-    global COORDINATE_X, COORDINATE_X_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
+    global COORDINATE_X, COORDINATE_X_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT, SVG_FILE_STORAGE
     Inner_Inspector_Location = 0
     COORDINATE_X_LIST = []
     # 将坐标由字符串转换成list
@@ -287,11 +288,10 @@ def Coordinate_X_Analyst():     #有时坐标是一串的，它的作用是将�
     for List_Component in COORDINATE_X_LIST:
         COORDINATE_X = COORDINATE_X + str(List_Component) + ' '
     COORDINATE_X = COORDINATE_X[:-1]
-    SVG_FILE_PRODUCT.write('x="')
-    SVG_FILE_PRODUCT.write(COORDINATE_X)
-    SVG_FILE_PRODUCT.write('" ')
-    SVG_FILE_PRODUCT.flush()
-
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + 'x="'
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + COORDINATE_X
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + '" '
+    
 def Coordinate_Y_Converter():
     global COORDINATE_Y_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
     Inner_Inspector_Location = -1
@@ -320,7 +320,7 @@ def Coordinate_Y_Converter():
                 break
 
 def Coordinate_Y_Analyst():
-    global COORDINATE_Y, COORDINATE_Y_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
+    global COORDINATE_Y, COORDINATE_Y_LIST, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_STORAGE
     Inner_Inspector_Location = 0
     COORDINATE_Y_LIST = []
     # 将坐标由字符串转换成list
@@ -343,13 +343,12 @@ def Coordinate_Y_Analyst():
     for List_Component in COORDINATE_Y_LIST:
         COORDINATE_Y = COORDINATE_Y + str(List_Component) + ' '
     COORDINATE_Y = COORDINATE_Y[:-1]
-    SVG_FILE_PRODUCT.write('y="')
-    SVG_FILE_PRODUCT.write(COORDINATE_Y)
-    SVG_FILE_PRODUCT.write('" ')
-    SVG_FILE_PRODUCT.flush()
-
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + 'y="'
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + COORDINATE_Y
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + '" '
+    
 def Path_Route_Analyst():        #将Path里的坐标提炼出来用Coordinate_X_Converter()和Coordinate_Y_Converter()转换坐标
-    global PATH_ROUTE, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT, COORDINATE_X_LIST, COORDINATE_Y_LIST
+    global PATH_ROUTE, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, COORDINATE_X_LIST, COORDINATE_Y_LIST, SVG_FILE_STORAGE
     Inner_Inspector_Location = 0
     Path_Route_List = []
     # 将坐标由字符串转换成list
@@ -395,13 +394,12 @@ def Path_Route_Analyst():        #将Path里的坐标提炼出来用Coordinate_X
     for List_Component in Path_Route_List:
         PATH_ROUTE = PATH_ROUTE + str(List_Component) + ' '
     PATH_ROUTE = PATH_ROUTE[:-1]
-    SVG_FILE_PRODUCT.write('d="')
-    SVG_FILE_PRODUCT.write(PATH_ROUTE)
-    SVG_FILE_PRODUCT.write('" ')
-    SVG_FILE_PRODUCT.flush()
-
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + 'd="'
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + PATH_ROUTE
+    SVG_FILE_STORAGE = SVG_FILE_STORAGE + '" '
+    
 def Stroke_Width_Analyst():     #修改线条宽度
-    global STROKE_WIDTH, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
+    global STROKE_WIDTH, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_STORAGE
     Inner_Inspector_Location = -1
     while len(SVG_FILE_TRANSFORMATION_RECORDER) >= 1:
         if str(SVG_FILE_TRANSFORMATION_RECORDER[Inner_Inspector_Location]).isdigit():
@@ -418,7 +416,7 @@ def Stroke_Width_Analyst():     #修改线条宽度
                 break
 
 def Font_Size_Analyst():        #修改字体宽度
-    global FONT_SIZE, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_PRODUCT
+    global FONT_SIZE, SVG_FILE_TRANSFORMATION_RECORDER, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_STORAGE
     Inner_Inspector_Location = -1
     while len(SVG_FILE_TRANSFORMATION_RECORDER) >= 1:
         if str(SVG_FILE_TRANSFORMATION_RECORDER[Inner_Inspector_Location]).isdigit():
@@ -435,15 +433,12 @@ def Font_Size_Analyst():        #修改字体宽度
                 break
 
 def Rewrite_SVG():          #去除文件中的transformation并利用以上工具转换坐标
-    global INSPECTOR_LOCATION, BLACK_PAGE_CHECK, SVG_FILE, SVG_FILE_PRODUCT, SVG_FILE_TAGLIST, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_TRANSFORMATION_RECORDER, PATH_ROUTE, COORDINATE_X, COORDINATE_Y, SVG_FILE_PRODUCT_OPEN_LOCATION, STROKE_WIDTH, FONT_SIZE, OUT_MODE_INDICATOR, SVG_FILE_PRODUCT_OPEN_LOCATION
+    global INSPECTOR_LOCATION, BLACK_PAGE_CHECK, SVG_FILE, SVG_FILE_PRODUCT, SVG_FILE_TAGLIST, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_TRANSFORMATION_RECORDER, PATH_ROUTE, COORDINATE_X, COORDINATE_Y, STROKE_WIDTH, FONT_SIZE, OUT_MODE_INDICATOR, SVG_FILE_STORAGE
     INSPECTOR_LOCATION = 0
-    SVG_FILE_PRODUCT_OPEN_LOCATION = PRODUCT_STORAGE_LOCATION + \
-        '/' + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER]
     SVGFile_Open = open(
         SVG_FILE_LOCATION_LIST[SVG_FILE_NUMBER], 'r', encoding='utf-8')
     SVG_FILE = SVGFile_Open.read()
-    SVG_FILE_PRODUCT = open(SVG_FILE_PRODUCT_OPEN_LOCATION,
-                           'w', encoding='utf-8')
+    SVG_FILE_STORAGE = ''
     while INSPECTOR_LOCATION <= len(SVG_FILE) - 1:
         if SVG_FILE[INSPECTOR_LOCATION] == '<' and SVG_FILE[INSPECTOR_LOCATION + 1] != '/':
             InTag_Transform_Exist = 0
@@ -494,8 +489,7 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
 
                 if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 13] == 'stroke-width=' and SVG_FILE[INSPECTOR_LOCATION - 1] == ' ':
                     INSPECTOR_LOCATION += 14
-                    SVG_FILE_PRODUCT.write('stroke-width="')
-                    SVG_FILE_PRODUCT.flush()
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + 'stroke-width="'
                     Stroke_Width_Recorder = ''
                     while True:
                         if SVG_FILE[INSPECTOR_LOCATION] == '"':
@@ -506,13 +500,13 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
                         INSPECTOR_LOCATION += 1
                     STROKE_WIDTH = float(Stroke_Width_Recorder[:-2])
                     Stroke_Width_Analyst()
-                    SVG_FILE_PRODUCT.write(str(STROKE_WIDTH) + 'px')
-                    SVG_FILE_PRODUCT.write('" ')
-                    SVG_FILE_PRODUCT.flush()
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + str(STROKE_WIDTH) + 'px'
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + '" '
+                    
                 if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 11] == 'font-size="' and SVG_FILE[INSPECTOR_LOCATION - 1] == ' ':
                     INSPECTOR_LOCATION += 11
-                    SVG_FILE_PRODUCT.write('font-size="')
-                    SVG_FILE_PRODUCT.flush()
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + 'font-size="'
+                    
                     Font_Size_Recorder = ''
                     while True:
                         if SVG_FILE[INSPECTOR_LOCATION] == '"':
@@ -523,12 +517,12 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
                         INSPECTOR_LOCATION += 1
                     FONT_SIZE = float(Font_Size_Recorder[:-2])
                     Font_Size_Analyst()
-                    SVG_FILE_PRODUCT.write(str(FONT_SIZE) + 'px')
-                    SVG_FILE_PRODUCT.write('" ')
-                    SVG_FILE_PRODUCT.flush()
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + str(FONT_SIZE) + 'px'
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + '" '
+                    
                 if SVG_FILE[INSPECTOR_LOCATION] == '>':
-                    SVG_FILE_PRODUCT.write('>')
-                    SVG_FILE_PRODUCT.flush()
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + '>'
+                    
                     INSPECTOR_LOCATION += 1
                     while True:
                         if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 10] == 'BLANK PAGE':
@@ -536,8 +530,8 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
                             break
                         if SVG_FILE[INSPECTOR_LOCATION] == '<':
                             break
-                        SVG_FILE_PRODUCT.write(SVG_FILE[INSPECTOR_LOCATION])
-                        SVG_FILE_PRODUCT.flush()
+                        SVG_FILE_STORAGE = SVG_FILE_STORAGE + SVG_FILE[INSPECTOR_LOCATION]
+                        
                         INSPECTOR_LOCATION += 1
                     # Record for Taglist
                     if InTag_Transform_Exist == 0:
@@ -546,8 +540,7 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
                     # 结束循环
                     break
                 # Writing for the tag content
-                SVG_FILE_PRODUCT.write(SVG_FILE[INSPECTOR_LOCATION])
-                SVG_FILE_PRODUCT.flush()
+                SVG_FILE_STORAGE = SVG_FILE_STORAGE + SVG_FILE[INSPECTOR_LOCATION]     
                 INSPECTOR_LOCATION += 1
 
         if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 2] == '</':
@@ -566,24 +559,24 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
             # Filling the tag content
             while INSPECTOR_LOCATION <= len(SVG_FILE) - 1:
                 if SVG_FILE[INSPECTOR_LOCATION] == '>':
-                    SVG_FILE_PRODUCT.write('>')
-                    SVG_FILE_PRODUCT.flush()
+                    SVG_FILE_STORAGE = SVG_FILE_STORAGE + '>'
                     INSPECTOR_LOCATION += 1
                     break
-                SVG_FILE_PRODUCT.write(SVG_FILE[INSPECTOR_LOCATION])
-                SVG_FILE_PRODUCT.flush()
+                SVG_FILE_STORAGE = SVG_FILE_STORAGE + SVG_FILE[INSPECTOR_LOCATION]
                 INSPECTOR_LOCATION += 1
-
         if INSPECTOR_LOCATION <= len(SVG_FILE) - 1:
             if SVG_FILE[INSPECTOR_LOCATION] != '<':
                 INSPECTOR_LOCATION += 1
 # Separate SVG
 def Find_Separation_Location(SVG_FILE):  # 寻找分割点
-    global SVG_FILE_SEPARATION_POINT
+    global SVG_FILE_SEPARATION_POINT, QUESTION_NUMBER_LIST
     SU_Inspector_Location = 0
+    QUESTION_NUMBER_LIST = []
+    Paper_End_Type = 0
+    Page_Ending_Indicator= 0
     while SU_Inspector_Location < len(SVG_FILE) - 1:
         if SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 10] == '<svg:tspan':
-            if SVG_FILE[SU_Inspector_Location + 24: SU_Inspector_Location + 31] == 'g_font_' or SVG_FILE[SU_Inspector_Location + 24: SU_Inspector_Location + 33] == 'Helvetica':
+            if SVG_FILE[SU_Inspector_Location + 24: SU_Inspector_Location + 31] == 'g_font_' or SVG_FILE[SU_Inspector_Location + 24: SU_Inspector_Location + 33] == 'Helvetica':        #找到目标
                 SU_Inspector_Location_3 = SU_Inspector_Location + 31
                 Font_Type_No_1 = ''
                 while True:
@@ -603,23 +596,27 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                         SU_Inspector_Location_1 += 1
                         break
                     SU_Inspector_Location_1 += 1
+                #题号位置  --->分析是不是题号数字
                 First_Number = 0
+                QUESTION_NUMBER_STORAGE = ''
                 while True:
                     if First_Number == 0:
                         if SVG_FILE[SU_Inspector_Location_1].isdigit() and SVG_FILE[SU_Inspector_Location_1] != ' ':
+                            QUESTION_NUMBER_STORAGE = QUESTION_NUMBER_STORAGE + str(SVG_FILE[SU_Inspector_Location_1])
                             SU_Inspector_Location_1 += 1
                             First_Number = 1
                         else:
                             break
                     else:
                         if SVG_FILE[SU_Inspector_Location_1].isdigit() or SVG_FILE[SU_Inspector_Location_1] == ' ':
+                            if SVG_FILE[SU_Inspector_Location_1].isdigit():
+                                QUESTION_NUMBER_STORAGE = QUESTION_NUMBER_STORAGE + str(SVG_FILE[SU_Inspector_Location_1])
                             SU_Inspector_Location_1 += 1
                         else:
                             break
                     if SVG_FILE[SU_Inspector_Location_1] == '<':
                         First_Task = 1
                         break
-
                 # Get rid of </svg:tspan>
                 while First_Task:
                     if SVG_FILE[SU_Inspector_Location_1] == '>':
@@ -681,7 +678,9 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                                 Second_Task = 0
                                 break
                     SU_Inspector_Location_1 += 1
+                #满足了最终条件，开始记录坐标
                 if It_Is_Question_Number == 1 and Sentence_Length >= 4:
+                    QUESTION_NUMBER_LIST.append(QUESTION_NUMBER_STORAGE)
                     Block_End = 1
                     while Block_End:
                         Coordinate_Storage = ''
@@ -699,7 +698,16 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                                 SU_Inspector_Location += 1
                         SU_Inspector_Location += 1
 
-        if SVG_FILE[SU_Inspector_Location] == '©' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 5] == '0620/':
+        if SVG_FILE[SU_Inspector_Location] == '©' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 5] == '0620/' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 10] == 'Permission':
+            if SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 10] == 'Permission':
+                Paper_End_Type = 1
+                Page_Ending_Indicator = 1
+            if SVG_FILE[SU_Inspector_Location] == '©' or SVG_FILE[SU_Inspector_Location: SU_Inspector_Location + 5] == '0620/':
+                if Paper_End_Type == 1:
+                    pass
+                else:
+                    Page_Ending_Indicator = 1
+        if Page_Ending_Indicator == 1:
             SU_Inspector_Location_1 = SU_Inspector_Location
             SU_Inspector_Location += 1
             Coordinate_Storage = ''
@@ -709,13 +717,19 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
                     SU_Inspector_Location_1 += 3
                     while True:
                         if SVG_FILE[SU_Inspector_Location_1] == '"':
-                            SVG_FILE_SEPARATION_POINT.append(Coordinate_Storage)
+                            #将坐标写入表
+                            if Paper_End_Type == 1:
+                                SVG_FILE_SEPARATION_POINT.append(str(float(Coordinate_Storage)-45))
+                            else:
+                                SVG_FILE_SEPARATION_POINT.append(Coordinate_Storage)
                             Block_End = 0
                             break
                         Coordinate_Storage = Coordinate_Storage + \
                             SVG_FILE[SU_Inspector_Location_1]
                         SU_Inspector_Location_1 += 1
                 SU_Inspector_Location_1 += -1
+            Page_Ending_Indicator = 0
+
         SU_Inspector_Location += 1
     # 排序 从左到右按从小到大排序
     SVGFile_Separation_Point_Storage = ''
@@ -754,7 +768,7 @@ def Find_Separation_Location(SVG_FILE):  # 寻找分割点
     SVG_FILE_SEPARATION_POINT = SVGFile_Separation_Point_Storage
 
 def Start_Separation(SVG_FILE):
-    global SVG_FILE_SEPARATION_POINT, QUESTION_NUMBER, TARGET_HEIGHT, BUG_REPORTER, SVG_FILE_NUMBER, SVG_FILE_NAME_LIST, BROKEN_MATRIX
+    global SVG_FILE_SEPARATION_POINT, QUESTION_NUMBER, TARGET_HEIGHT, BUG_REPORTER, SVG_FILE_NUMBER, SVG_FILE_NAME_LIST, BROKEN_MATRIX, QUESTION_NUMBER_LIST
     Question_Count = len(SVG_FILE_SEPARATION_POINT) - 1
     if Question_Count <= 1 or Question_Count > 6:
         if BROKEN_MATRIX <= 3:
@@ -767,7 +781,7 @@ def Start_Separation(SVG_FILE):
     while QUESTION_NUMBER <= Question_Count - 1 and BROKEN_MATRIX <= 4:
         SU_Inspector_Location = 1
         Product = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
-                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' + str(QUESTION_NUMBER) + '.svg', 'w', encoding='utf-8')
+                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' +str(QUESTION_NUMBER) + '@' + str(QUESTION_NUMBER_LIST[QUESTION_NUMBER]) + '.svg', 'w', encoding='utf-8')
         Product.write(SVG_FILE_HEADER)
         Product.flush()
         Upper_Boundary = float(
@@ -902,22 +916,21 @@ def Start_Separation(SVG_FILE):
         QUESTION_NUMBER += 1
 
 def Separation():
-    global SVG_FILE, SVG_FILE_SEPARATION_POINT, SVG_FILE_PRODUCT_OPEN_LOCATION
-    SVGFile_Open = open(SVG_FILE_PRODUCT_OPEN_LOCATION, 'r', encoding='utf-8')
-    SVG_FILE = SVGFile_Open.read()
+    global SVG_FILE, SVG_FILE_SEPARATION_POINT, SVG_FILE_STORAGE
+    SVG_FILE = SVG_FILE_STORAGE
     SVG_FILE_SEPARATION_POINT = []
     Find_Separation_Location(SVG_FILE)
     Start_Separation(SVG_FILE)
 
 def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在页面中的位置，它将它们移上去
-    global QUESTION_NUMBER, SVG_FILE, TARGET_HEIGHT, SVG_FILE_NUMBER, PRODUCT_STORAGE_LOCATION, SVG_FILE_NAME_LIST, SVG_FILE_UPPER_BLANK
+    global QUESTION_NUMBER, SVG_FILE, TARGET_HEIGHT, SVG_FILE_NUMBER, PRODUCT_STORAGE_LOCATION, SVG_FILE_NAME_LIST, SVG_FILE_UPPER_BLANK, QUESTION_NUMBER_LIST
     SVGFile_Open = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
-                        SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' + str(QUESTION_NUMBER) + '.svg', 'r', encoding='utf-8')
+                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' +str(QUESTION_NUMBER) + '@' + str(QUESTION_NUMBER_LIST[QUESTION_NUMBER]) + '.svg', 'r', encoding='utf-8')
     SVG_FILE = SVGFile_Open.read()
     TARGET_HEIGHT = float(SVG_FILE_SEPARATION_POINT[QUESTION_NUMBER])
 
     Product = open(PRODUCT_STORAGE_LOCATION + '/WareHouse' + '/' +
-                   SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' + str(QUESTION_NUMBER) + '.svg', 'w', encoding='utf-8')
+                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][:-4] + '_' +str(QUESTION_NUMBER) + '@' + str(QUESTION_NUMBER_LIST[QUESTION_NUMBER]) + '.svg', 'w', encoding='utf-8')
     INSPECTOR_LOCATION = 0
     while INSPECTOR_LOCATION <= len(SVG_FILE) - 1:
         if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 3] == 'y="' and SVG_FILE[INSPECTOR_LOCATION - 1] == ' ':
@@ -1012,7 +1025,7 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
 def Print_Time():
     global SVG_FILE_NUMBER, TIME_START
     os.system("cls")
-    logging.debug(
+    print(
         "Mofish Pastpaper Separator [For Chemistry Multiple Choice]   Ver.15\n")
     if SVG_FILE_NUMBER >= 1:
         # 时间计算
@@ -1022,40 +1035,40 @@ def Print_Time():
         if time.perf_counter() - TIME_START > 60:
             Second_left = (time.perf_counter() - TIME_START) - \
                 ((time.perf_counter() - TIME_START) // 60) * 60
-            logging.debug('Total time taken: ' + str(int((time.perf_counter() - TIME_START) //
+            print('Total time taken: ' + str(int((time.perf_counter() - TIME_START) //
                                                  60)) + 'min ' + str(round(Second_left, 2)) + 's', end='')
         else:
-            logging.debug('Total time taken: ' +
+            print('Total time taken: ' +
                   str(round(time.perf_counter() - TIME_START, 2)) + 's', end='')
-        logging.debug('    Average Time taken: ' + str(round((time.perf_counter() -
+        print('    Average Time taken: ' + str(round((time.perf_counter() -
                                                       TIME_START) / SVG_FILE_NUMBER, 2)) + 's per file', end='')
         if Average_Time_Left > 60:
             Second_left = Average_Time_Left - (Average_Time_Left // 60) * 60
-            logging.debug('    Averge time left: ' + str(int(Average_Time_Left // 60)
+            print('    Averge time left: ' + str(int(Average_Time_Left // 60)
                                                  ) + 'min ' + str(round(Second_left, 2)) + 's', end='\n\n')
         else:
-            logging.debug('    Averge time left: ' +
+            print('    Averge time left: ' +
                   str(round(Average_Time_Left, 2)) + 's', end='\n\n')
     else:
-        logging.debug('Total time taken: ' +
+        print('Total time taken: ' +
               str(round(time.perf_counter() - TIME_START, 2)) + 's', end='')
 
-    logging.debug('    Processed ' + str(SVG_FILE_NUMBER) + ' files; ' +
+    print('    Processed ' + str(SVG_FILE_NUMBER) + ' files; ' +
           str(len(SVG_FILE_NAME_LIST) - SVG_FILE_NUMBER) + ' File(s) left', end='')
     Percentage = (SVG_FILE_NUMBER + 1) / len(SVG_FILE_NAME_LIST)
     Percentage_Left = 1 - Percentage
     Percentage_Block = 0
     Percentage_Left_Block = 0
-    logging.debug('    Processing file: ' + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER], end='')
-    logging.debug('\n      |', end='')
+    print('    Processing file: ' + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER], end='')
+    print('\n      |', end='')
     while Percentage_Block <= Percentage:
-        logging.debug('#', end='')
+        print('#', end='')
         Percentage_Block += 0.02
     while Percentage_Left_Block <= Percentage_Left:
-        logging.debug(' ', end='')
+        print(' ', end='')
         Percentage_Left_Block += 0.02
-    logging.debug('|', end='  ')
-    logging.debug(str(round(Percentage * 100, 2)) + '%', end='\n\n')
+    print('|', end='  ')
+    print(str(round(Percentage * 100, 2)) + '%', end='\n\n')
 
 os.system("cls")
 # 获取所有文件地址
@@ -1075,7 +1088,6 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
         SVG_FILE_NUMBER += 1
     # 显示部分
     Print_Time()
-
     #logging.debug("Start rewriting: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER], end='  ')
     BUG_REPORTER.write("Start rewriting: " +
                        SVG_FILE_NAME_LIST[SVG_FILE_NUMBER])  # writing logfile
