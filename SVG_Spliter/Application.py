@@ -3,7 +3,7 @@ import os
 import time
 import re
 import threading
-import logging # python logging
+#import logging # python logging
 
 
 # File storage information
@@ -36,6 +36,7 @@ SVG_FILE_UPPER_BLANK = 15  # 分割后SVG顶部留白区域
 TIME_START = time.perf_counter()
 TIME_STORAGE = time.perf_counter()
 BLACK_PAGE_CHECK = 1
+Location_Indicator = 0
 # Bug Storage
 BROKEN_MATRIX = 0  # 检测有多少不能处理的Matrix
 
@@ -94,7 +95,7 @@ def Bug_File_Copier():      #将有问题的文件复制到BugFile文件夹内
     File_Product_Location_Storage = Space_Eliminator(Bug_File_Location_Storage)
     Command_Storage = 'copy ' + File_Location_Storage + \
         ' ' + File_Product_Location_Storage
-    logging.debug(Command_Storage)
+    #logging.debug(Command_Storage)
     os.system(Command_Storage)
 # Rewrite SVG
 def Finding_Elements(SVG_FILE):     #寻找所有的tranformation，并将他们记录下来。为之后修改坐标做准备
@@ -433,7 +434,7 @@ def Font_Size_Analyst():        #修改字体宽度
                 break
 
 def Rewrite_SVG():          #去除文件中的transformation并利用以上工具转换坐标
-    global INSPECTOR_LOCATION, BLACK_PAGE_CHECK, SVG_FILE, SVG_FILE_PRODUCT, SVG_FILE_TAGLIST, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_TRANSFORMATION_RECORDER, PATH_ROUTE, COORDINATE_X, COORDINATE_Y, STROKE_WIDTH, FONT_SIZE, OUT_MODE_INDICATOR, SVG_FILE_STORAGE
+    global INSPECTOR_LOCATION, BLACK_PAGE_CHECK, SVG_FILE, SVG_FILE_PRODUCT, SVG_FILE_TAGLIST, SVG_FILE_TRANSFORMATION_TAG_LABEL, SVG_FILE_TRANSFORMATION_RECORDER, PATH_ROUTE, COORDINATE_X, COORDINATE_Y, STROKE_WIDTH, FONT_SIZE, OUT_MODE_INDICATOR, SVG_FILE_STORAGE, BUG_REPORTER
     INSPECTOR_LOCATION = 0
     SVGFile_Open = open(
         SVG_FILE_LOCATION_LIST[SVG_FILE_NUMBER], 'r', encoding='utf-8')
@@ -542,7 +543,6 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
                 # Writing for the tag content
                 SVG_FILE_STORAGE = SVG_FILE_STORAGE + SVG_FILE[INSPECTOR_LOCATION]     
                 INSPECTOR_LOCATION += 1
-
         if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 2] == '</':
             # Dealing with the recording of Tags
             if len(SVG_FILE_TAGLIST) != 0:
@@ -910,10 +910,12 @@ def Start_Separation(SVG_FILE):
         QUESTION_NUMBER += 1
 
 def Separation():
-    global SVG_FILE, SVG_FILE_SEPARATION_POINT, SVG_FILE_STORAGE
+    global SVG_FILE, SVG_FILE_SEPARATION_POINT, SVG_FILE_STORAGE, BUG_REPORTER
     SVG_FILE = SVG_FILE_STORAGE
     SVG_FILE_SEPARATION_POINT = []
     Find_Separation_Location(SVG_FILE)
+    BUG_REPORTER.write('--Finished finding separation points\n')
+    BUG_REPORTER.flush()
     Start_Separation(SVG_FILE)
 
 def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在页面中的位置，它将它们移上去
@@ -1022,7 +1024,7 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
         INSPECTOR_LOCATION += 1
 # Print time
 def Print_Time():
-    global SVG_FILE_NUMBER, TIME_START
+    global SVG_FILE_NUMBER, TIME_START, INSPECTOR_LOCATION
     os.system("cls")
     print(
         "Mofish Pastpaper Separator [For Chemistry Multiple Choice]   Ver.15\n")
@@ -1068,6 +1070,13 @@ def Print_Time():
         Percentage_Left_Block += 0.02
     print('|', end='  ')
     print(str(round(Percentage * 100, 2)) + '%', end='\n\n')
+    
+    # print(INSPECTOR_LOCATION)
+    # Location_Indicator_Storage = 0
+    # print('>',end='')
+    # while Location_Indicator_Storage <= Location_Indicator:
+    #     print('=',end='')
+    #     Location_Indicator_Storage += 1
 
 os.system("cls")
 # 获取所有文件地址
@@ -1089,11 +1098,11 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
     Print_Time()
     #logging.debug("Start rewriting: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER], end='  ')
     BUG_REPORTER.write("Start rewriting: " +
-                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER])  # writing logfile
+                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + '\n')  # writing logfile
     BUG_REPORTER.flush()
     Rewrite_SVG()  # 去除Matrix
     #logging.debug("  ---Complete")
-    BUG_REPORTER.write('  ---Complete' + '\n')
+    BUG_REPORTER.write('---Complete' + '\n')
     BUG_REPORTER.flush()
     if BLACK_PAGE_CHECK == 0:
         #logging.debug('--BLANK PAGE--')
@@ -1102,7 +1111,7 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
     else:
         #logging.debug("Separate: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER])
         BUG_REPORTER.write(
-            "Separate: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + '\n')
+            "Separate: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER])
         BUG_REPORTER.flush()
         Separation()
         #logging.debug("Finished one page")
@@ -1114,5 +1123,5 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
 
 
 TIME_END = time.perf_counter()
-logging.debug('End of process. Total time taken: ' +
+print('End of process. Total time taken: ' +
       str(round(TIME_END - TIME_START, 3)) + 's')
