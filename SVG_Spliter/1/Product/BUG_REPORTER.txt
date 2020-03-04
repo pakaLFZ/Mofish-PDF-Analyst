@@ -1,0 +1,36 @@
+2020-03-04 17:06:22 Start rewriting: 0439_w17_qp_11-10.svg
+2020-03-04 17:06:22 ---Complete
+2020-03-04 17:06:22 Separate: 0439_w17_qp_11-10.svg
+2020-03-04 17:06:25 --Finished finding separation points
+---Unable to create file---
+2020-03-04 17:06:33 ********Finished one page
+2020-03-04 17:06:33 Start rewriting: 0439_w17_qp_11-11.svg
+2020-03-04 17:06:34 ---Complete
+2020-03-04 17:06:34 Separate: 0439_w17_qp_11-11.svg
+2020-03-04 17:06:37 --Finished finding separation points
+---Unable to create file---
+2020-03-04 17:06:54 ********Finished one page
+2020-03-04 17:06:54 Start rewriting: 0439_w17_qp_11-12.svg
+2020-03-04 17:06:54 ---Complete
+2020-03-04 17:06:54 Separate: 0439_w17_qp_11-12.svg
+2020-03-04 17:06:59 --Finished finding separation points
+---Unable to create file---
+2020-03-04 17:07:11 ********Finished one page
+2020-03-04 17:07:11 Start rewriting: 0439_w17_qp_11-7.svg
+2020-03-04 17:07:11 ---Complete
+2020-03-04 17:07:11 Separate: 0439_w17_qp_11-7.svg
+2020-03-04 17:07:16 --Finished finding separation points
+---Unable to create file---
+2020-03-04 17:07:24 ********Finished one page
+2020-03-04 17:07:24 Start rewriting: 0439_w17_qp_11-8.svg
+2020-03-04 17:07:24 ---Complete
+2020-03-04 17:07:24 Separate: 0439_w17_qp_11-8.svg
+2020-03-04 17:07:29 --Finished finding separation points
+---Unable to create file---
+2020-03-04 17:07:39 ********Finished one page
+2020-03-04 17:07:39 Start rewriting: 0439_w17_qp_11-9.svg
+2020-03-04 17:07:39 ---Complete
+2020-03-04 17:07:39 Separate: 0439_w17_qp_11-9.svg
+2020-03-04 17:07:41 --Finished finding separation points
+---Unable to create file---
+2020-03-04 17:07:47 ********Finished one page
