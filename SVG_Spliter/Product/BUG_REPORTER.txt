@@ -1,0 +1,23 @@
+2020-03-04 10:54:13 Start rewriting: 0438_s12_qp_13-16.svg
+2020-03-04 10:54:13 ---Complete
+--BLANK PAGE--
+2020-03-04 10:54:13 Start rewriting: 0438_s13_qp_11-2.svg
+2020-03-04 10:54:15 ---Complete
+2020-03-04 10:54:15 Separate: 0438_s13_qp_11-2.svg
+2020-03-04 10:54:16 --Finished finding separation points
+2020-03-04 10:54:21 ********Finished one page
+2020-03-04 10:54:22 Start rewriting: 0438_s13_qp_11-3.svg
+2020-03-04 10:54:22 ---Complete
+2020-03-04 10:54:22 Separate: 0438_s13_qp_11-3.svg
+2020-03-04 10:54:22 --Finished finding separation points
+2020-03-04 10:54:24 ********Finished one page
+2020-03-04 10:54:24 Start rewriting: 0438_s13_qp_11-4.svg
+2020-03-04 10:54:25 ---Complete
+2020-03-04 10:54:25 Separate: 0438_s13_qp_11-4.svg
+2020-03-04 10:54:25 --Finished finding separation points
+2020-03-04 10:54:26 ********Finished one page
+2020-03-04 10:54:26 Start rewriting: 0438_s13_qp_11-5.svg
+2020-03-04 10:54:26 ---Complete
+2020-03-04 10:54:26 Separate: 0438_s13_qp_11-5.svg
+2020-03-04 10:54:27 --Finished finding separation points
+2020-03-04 10:54:28 ********Finished one page
