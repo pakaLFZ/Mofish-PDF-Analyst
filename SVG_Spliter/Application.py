@@ -7,6 +7,7 @@ import threading
 
 
 # File storage information
+Service_Type = 0
 SVG_STORAGE = "./SVGs"
 SVG_FILE_LOCATION_LIST = []
 SVG_FILE_NAME_LIST = []
@@ -85,18 +86,18 @@ def Space_Eliminator(Name):     #在使用系统cmd复制bug文件的时候，�
     return(Name_Storage_2)
 
 def Bug_File_Copier():      #将有问题的文件复制到BugFile文件夹内
-    global SVG_FILE_LOCATION_LIST, SVG_FILE_NUMBER, BUG_FILE_LOCATION, SVG_FILE_NAME_LIST
-    File_Location_Storage = ''
-    Command_Storage = ''
-    File_Location_Storage = Space_Eliminator(
-        SVG_FILE_LOCATION_LIST[SVG_FILE_NUMBER])
-    Bug_File_Location_Storage = BUG_FILE_LOCATION + \
-        '/' + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER]
-    File_Product_Location_Storage = Space_Eliminator(Bug_File_Location_Storage)
-    Command_Storage = 'copy ' + File_Location_Storage + \
-        ' ' + File_Product_Location_Storage
-    #logging.debug(Command_Storage)
-    os.system(Command_Storage)
+    global SVG_FILE_LOCATION_LIST, SVG_FILE_NUMBER, BUG_FILE_LOCATION, SVG_FILE_NAME_LIST, Service_Type, SVG_STORAGE
+    if Service_Type == 0:
+        File_Location_Storage = ''
+        Command_Storage = ''
+        File_Location_Storage = Space_Eliminator(SVG_FILE_LOCATION_LIST[SVG_FILE_NUMBER])
+        Bug_File_Location_Storage = BUG_FILE_LOCATION + '/' + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER]
+        File_Product_Location_Storage = Space_Eliminator(Bug_File_Location_Storage)
+        Command_Storage = 'copy ' + File_Location_Storage + ' ' + File_Product_Location_Storage
+        os.system(Command_Storage)
+    if Service_Type == 1:
+        Command_Storage = 'cp ' + SVG_STORAGE + '/' + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + ' ' + BUG_FILE_LOCATION
+        os.system(Command_Storage)
 # Rewrite SVG
 def Finding_Elements(SVG_FILE):     #寻找所有的tranformation，并将他们记录下来。为之后修改坐标做准备
     global INSPECTOR_LOCATION, SVG_FILE_TRANSFORMATION_RECORDER, BROKEN_MATRIX, BLACK_PAGE_CHECK, BUG_REPORTER, SVG_FILE_NUMBER, SVG_FILE_LOCATION_LIST
@@ -975,19 +976,6 @@ def Start_Separation(SVG_FILE):
         Relocate_Rewrite_Coordinates()
         QUESTION_NUMBER += 1
 
-def Separation():
-    global SVG_FILE, SVG_FILE_SEPARATION_POINT, SVG_FILE_STORAGE, BUG_REPORTER
-    # a = open("./Product/1.svg", 'w', encoding='utf-8')
-    # a.write(SVG_FILE_STORAGE)
-    # a.flush()
-    SVG_FILE = SVG_FILE_STORAGE
-    SVG_FILE_SEPARATION_POINT = []
-    Find_Separation_Location(SVG_FILE)
-    BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
-    BUG_REPORTER.write('--Finished finding separation points\n')
-    BUG_REPORTER.flush()
-    Start_Separation(SVG_FILE)
-
 def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在页面中的位置，它将它们移上去
     global QUESTION_NUMBER, SVG_FILE, TARGET_HEIGHT, SVG_FILE_NUMBER, PRODUCT_STORAGE_LOCATION, SVG_FILE_NAME_LIST, SVG_FILE_UPPER_BLANK, QUESTION_NUMBER_LIST
     Functioning_Indicator = 1
@@ -1004,13 +992,28 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
     
     INSPECTOR_LOCATION = 0
     while INSPECTOR_LOCATION <= len(SVG_FILE) - 1 and Functioning_Indicator == 1:
+
+        if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 9] == '<svg:defs':
+            End_Location_Storage = SVG_FILE.find("</svg:defs>", INSPECTOR_LOCATION)
+            Product.write(SVG_FILE[INSPECTOR_LOCATION : End_Location_Storage + 11])
+            INSPECTOR_LOCATION = End_Location_Storage + 11
+
+        if SVG_FILE[INSPECTOR_LOCATION : INSPECTOR_LOCATION + 10] == '<svg:image':
+            Location_Storage = SVG_FILE.find('y="', INSPECTOR_LOCATION)
+            Product.write(SVG_FILE[INSPECTOR_LOCATION : Location_Storage])
+            Product.flush()
+            INSPECTOR_LOCATION = Location_Storage
+            Location_Storage = SVG_FILE.find('"', INSPECTOR_LOCATION + 3)
+            Y_Value_Storage = SVG_FILE[INSPECTOR_LOCATION + 3 : Location_Storage]
+            Product.write(' y="' + str(float(Y_Value_Storage) - (TARGET_HEIGHT - SVG_FILE_UPPER_BLANK)))
+            INSPECTOR_LOCATION = Location_Storage
+
         if SVG_FILE[INSPECTOR_LOCATION: INSPECTOR_LOCATION + 3] == 'y="' and SVG_FILE[INSPECTOR_LOCATION - 1] == ' ':
             INSPECTOR_LOCATION += 3
             Y_Value_Storage = ''
             while 1:
                 if SVG_FILE[INSPECTOR_LOCATION] == '"':
-                    Product.write(
-                        'y="' + str(float(Y_Value_Storage) - (TARGET_HEIGHT - SVG_FILE_UPPER_BLANK)))
+                    Product.write('y="' + str(float(Y_Value_Storage) - (TARGET_HEIGHT - SVG_FILE_UPPER_BLANK)))
                     Product.flush()
                     break
                 Y_Value_Storage = Y_Value_Storage + SVG_FILE[INSPECTOR_LOCATION]
@@ -1061,8 +1064,7 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
                         INSPECTOR_LOCATION += 1
                     while 1:
                         if SVG_FILE[INSPECTOR_LOCATION] == ' ' or SVG_FILE[INSPECTOR_LOCATION] == '"':
-                            Product.write(
-                                str(float(Y_Value_Storage) - (TARGET_HEIGHT - SVG_FILE_UPPER_BLANK)))
+                            Product.write(str(float(Y_Value_Storage) - (TARGET_HEIGHT - SVG_FILE_UPPER_BLANK)))
                             Product.flush()
                             if SVG_FILE[INSPECTOR_LOCATION] == ' ':
                                 Product.write(' ')
@@ -1086,18 +1088,25 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
                                 INSPECTOR_LOCATION += 2
                             break
 
-                        Y_Value_Storage = Y_Value_Storage + \
-                            SVG_FILE[INSPECTOR_LOCATION]
+                        Y_Value_Storage = Y_Value_Storage + SVG_FILE[INSPECTOR_LOCATION]
                         INSPECTOR_LOCATION += 1
         Product.write(SVG_FILE[INSPECTOR_LOCATION])
         Product.flush()
         INSPECTOR_LOCATION += 1
 # Print time
 def Print_Time(Start_Time, Stage):
-    global SVG_FILE_NUMBER, TIME_START, INSPECTOR_LOCATION
-    os.system("cls")
+    global SVG_FILE_NUMBER, TIME_START, INSPECTOR_LOCATION, Service_Type
+    if Service_Type == 0:
+        os.system("cls")
+    if Service_Type == 1:
+        os.system("clear")
     print(Start_Time)
-    print("Mofish Pastpaper Separator   Ver.15     stage " + str(Stage) + "\n")
+    print("Mofish Pastpaper Separator   Ver.15  |", end='')
+    Stage_Counter = 0
+    while Stage_Counter <= Stage:
+        print('>>', end='')
+        Stage_Counter += 1
+    print('\n')
     if SVG_FILE_NUMBER >= 1:
         # 时间计算
         Average_Time = (time.perf_counter() - TIME_START) / SVG_FILE_NUMBER
@@ -1148,7 +1157,33 @@ def Print_Time(Start_Time, Stage):
     #     print('=',end='')
     #     Location_Indicator_Storage += 1
 
-os.system("cls")
+while 1:
+    print('\n------------------------\n')
+    print('Please choose the service type: \n ---- on Windows (Type "W") or Ubuntu (Type "U")')
+    Answer = input()
+    if Answer == 'W':
+        Service_Type = 0
+        SVG_STORAGE = "./SVGs"
+        PRODUCT_STORAGE_LOCATION = "./Product"
+        BUG_FILE_LOCATION = './Product/BugFile'
+        break
+    if Answer == 'U':
+        Service_Type = 1
+        SVG_STORAGE = "/home/PDFs/SVGs"
+        PRODUCT_STORAGE_LOCATION = "/home/PDFs/Product"
+        SVG_FILE_NUMBER = 0
+        BUG_FILE_LOCATION = '/home/PDFs/Product/BugFile'
+        break
+
+    print('\n\n')
+
+
+print('Please type in folder number: \n ----Default: SVGs / Product')
+Answer = input()
+SVG_STORAGE = SVG_STORAGE + Answer
+PRODUCT_STORAGE_LOCATION = PRODUCT_STORAGE_LOCATION + Answer
+BUG_FILE_LOCATION = PRODUCT_STORAGE_LOCATION + '/BugFile'
+
 # 获取所有文件地址
 for root, dirs, files in os.walk(SVG_STORAGE, topdown=True):
     for name in files:
@@ -1159,6 +1194,7 @@ for root, dirs, files in os.walk(SVG_STORAGE, topdown=True):
 
 Bug_Reporter_Open_Location = PRODUCT_STORAGE_LOCATION + '/' + 'BUG_REPORTER.txt'
 BUG_REPORTER = open(Bug_Reporter_Open_Location, 'w', encoding='utf-8')
+
 
 while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
     Stage = 0
@@ -1190,7 +1226,16 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
         BUG_REPORTER.write(
             "Separate: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + '\n')
         BUG_REPORTER.flush()
-        Separation()
+        #---------------------> Start separation
+        SVG_FILE = SVG_FILE_STORAGE
+        SVG_FILE_SEPARATION_POINT = []
+
+        Find_Separation_Location(SVG_FILE)
+        BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
+        BUG_REPORTER.write('--Finished finding separation points\n')
+        BUG_REPORTER.flush()
+        Stage += 1
+        Start_Separation(SVG_FILE)
         #logging.debug("Finished one page")
         BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
         BUG_REPORTER.write("********Finished one page" + '\n\n')
