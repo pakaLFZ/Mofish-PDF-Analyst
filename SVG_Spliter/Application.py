@@ -1094,13 +1094,13 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
         Product.flush()
         INSPECTOR_LOCATION += 1
 # Print time
-def Print_Time(Start_Time, Stage):
-    global SVG_FILE_NUMBER, TIME_START, INSPECTOR_LOCATION, Service_Type
+def Print_Time(Start_Time, Stage, Service_Type, SVG_FILE_STORAGE):
+    global SVG_FILE_NUMBER, TIME_START, INSPECTOR_LOCATION
     if Service_Type == 0:
         os.system("cls")
     if Service_Type == 1:
         os.system("clear")
-    print(Start_Time)
+    print(Start_Time + '    Processing files in : ' + SVG_STORAGE)
     print("Mofish Pastpaper Separator   Ver.15  |", end='')
     Stage_Counter = 0
     while Stage_Counter <= Stage:
@@ -1203,7 +1203,7 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
     if SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][-6: -4] == '-1':  # 不处理试卷封面
         SVG_FILE_NUMBER += 1
     # 显示部分
-    Print_Time(Start_Time, Stage)
+    Print_Time(Start_Time, Stage, Service_Type, SVG_FILE_STORAGE)
     #logging.debug("Start rewriting: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER], end='  ')
     BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
     BUG_REPORTER.write("Start rewriting: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + '\n')  # writing logfile
@@ -1214,7 +1214,7 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
     BUG_REPORTER.flush()
 
     Stage += 1
-    Print_Time(Start_Time, Stage)
+    Print_Time(Start_Time, Stage, Service_Type, SVG_FILE_STORAGE)
 
     if BLACK_PAGE_CHECK == 0:
         #logging.debug('--BLANK PAGE--')
@@ -1235,6 +1235,7 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
         BUG_REPORTER.write('--Finished finding separation points\n')
         BUG_REPORTER.flush()
         Stage += 1
+        Print_Time(Start_Time, Stage, Service_Type, SVG_FILE_STORAGE)
         Start_Separation(SVG_FILE)
         #logging.debug("Finished one page")
         BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
