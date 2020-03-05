@@ -170,11 +170,7 @@ def Finding_Elements(SVG_FILE):     #寻找所有的tranformation，并将他们
             SVG_FILE_TRANSFORMATION_RECORDER.append('End_Translation')
             SVG_FILE_TRANSFORMATION_RECORDER.append('Start_Scale')
             SVG_FILE_TRANSFORMATION_RECORDER.append(First_Number)
-            if Last_Number[0] != '-':
-                SVG_FILE_TRANSFORMATION_RECORDER.append(float(First_Number))
-            if Last_Number[0] == '-':
-                SVG_FILE_TRANSFORMATION_RECORDER.append(
-                    float(First_Number) * -1)
+            SVG_FILE_TRANSFORMATION_RECORDER.append(Last_Number) 
             SVG_FILE_TRANSFORMATION_RECORDER.append('End_Scale')
 
         # Translation
@@ -459,7 +455,8 @@ def Rewrite_SVG():          #去除文件中的transformation并利用以上工�
                     
                     # print(SVG_FILE[INSPECTOR_LOCATION-30 : INSPECTOR_LOCATION+20])
                     # input()
-                    End_Location_Storage = SVG_FILE.find('transform=', INSPECTOR_LOCATION)
+                    End_Location_Storage_2 = SVG_FILE.find('>', INSPECTOR_LOCATION)
+                    End_Location_Storage = SVG_FILE.find('transform=', INSPECTOR_LOCATION, End_Location_Storage_2)
                     # print(SVG_FILE[INSPECTOR_LOCATION-30 : INSPECTOR_LOCATION+20])
                     # input()
                     if End_Location_Storage != -1:
@@ -871,12 +868,18 @@ def Start_Separation(SVG_FILE):
             SU_Inspector_Location = SVG_FILE.find(' y="', SU_Inspector_Location)
             if SU_Inspector_Location == -1:
                 break
+
+            Location_Storage = SVG_FILE.rfind('<',0, SU_Inspector_Location)
+            Location_Storage = SVG_FILE.find('tspan',Location_Storage, SU_Inspector_Location)
+            if Location_Storage == -1:
+                SU_Inspector_Location += 2
+                continue
+
             Location_Storage = SVG_FILE.find('"', SU_Inspector_Location + 4)
             Coordinate_Y_Storage = SVG_FILE[SU_Inspector_Location + 4 : Location_Storage]
             SU_Inspector_Location = Location_Storage + 1
             # 假如Y值在区间内
-            print(SVG_FILE[SU_Inspector_Location -25 : Location_Storage + 20] + '    :' + SVG_FILE[SU_Inspector_Location] + '\n\n')
-            
+         
             if float(Coordinate_Y_Storage) >= Upper_Boundary - 5.5 and float(Coordinate_Y_Storage) < Lower_Boundary - 5.5:
                 # Record the label
                 Location_Storage = SVG_FILE.rfind('<', 0, SU_Inspector_Location)
@@ -886,7 +889,36 @@ def Start_Separation(SVG_FILE):
                 Product.flush()
         Product.write('</svg:text>')
         Product.flush()
-        SU_Inspector_Location = 0
+        SU_Inspector_Location = 1
+
+        #提取其它东西 -->图片
+        while 1:
+            #取Y值
+            SU_Inspector_Location = SVG_FILE.find(' y="', SU_Inspector_Location)
+            if SU_Inspector_Location == -1:
+                break
+
+            Location_Storage = SVG_FILE.rfind('<',0, SU_Inspector_Location)
+            Location_Storage = SVG_FILE.find('tspan',Location_Storage, SU_Inspector_Location)
+            if Location_Storage != -1:
+                SU_Inspector_Location += 2
+                continue
+
+            Location_Storage = SVG_FILE.find('"', SU_Inspector_Location + 4)
+            Coordinate_Y_Storage = SVG_FILE[SU_Inspector_Location + 4 : Location_Storage]
+            SU_Inspector_Location = Location_Storage + 1
+            # 假如Y值在区间内
+            
+            
+            if float(Coordinate_Y_Storage) >= Upper_Boundary - 5.5 and float(Coordinate_Y_Storage) < Lower_Boundary - 5.5:
+                # Record the label
+                Location_Storage = SVG_FILE.rfind('<', 0, SU_Inspector_Location)
+                Location_Storage_1 = SVG_FILE.find('>', Location_Storage) + 1
+                Location_Storage_1 = SVG_FILE.find('>', Location_Storage_1) + 1
+                Product.write(SVG_FILE[Location_Storage : Location_Storage_1])
+                Product.flush()
+        
+        SU_Inspector_Location = 1
         #提取线条
         while 1:
             SU_Inspector_Location = SVG_FILE.find('<svg:path', SU_Inspector_Location) 
@@ -1061,12 +1093,11 @@ def Relocate_Rewrite_Coordinates():     #分割后的文件的坐标仍然是在
         Product.flush()
         INSPECTOR_LOCATION += 1
 # Print time
-def Print_Time():
+def Print_Time(Start_Time, Stage):
     global SVG_FILE_NUMBER, TIME_START, INSPECTOR_LOCATION
     os.system("cls")
-    print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
-    print(
-        "Mofish Pastpaper Separator [For Chemistry Multiple Choice]   Ver.15\n")
+    print(Start_Time)
+    print("Mofish Pastpaper Separator   Ver.15     stage " + Stage + "\n")
     if SVG_FILE_NUMBER >= 1:
         # 时间计算
         Average_Time = (time.perf_counter() - TIME_START) / SVG_FILE_NUMBER
@@ -1130,21 +1161,25 @@ Bug_Reporter_Open_Location = PRODUCT_STORAGE_LOCATION + '/' + 'BUG_REPORTER.txt'
 BUG_REPORTER = open(Bug_Reporter_Open_Location, 'w', encoding='utf-8')
 
 while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
+    Stage = 0
+    Start_Time = str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
     BLACK_PAGE_CHECK = 1
     if SVG_FILE_NAME_LIST[SVG_FILE_NUMBER][-6: -4] == '-1':  # 不处理试卷封面
         SVG_FILE_NUMBER += 1
     # 显示部分
-    Print_Time()
+    Print_Time(Start_Time, Stage)
     #logging.debug("Start rewriting: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER], end='  ')
     BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
-    BUG_REPORTER.write("Start rewriting: " +
-                       SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + '\n')  # writing logfile
+    BUG_REPORTER.write("Start rewriting: " + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + '\n')  # writing logfile
     BUG_REPORTER.flush()
     Rewrite_SVG()  # 去除Matrix
-    #logging.debug("  ---Complete")
     BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
     BUG_REPORTER.write('---Complete' + '\n')
     BUG_REPORTER.flush()
+
+    Stage += 1
+    Print_Time(Start_Time, Stage)
+
     if BLACK_PAGE_CHECK == 0:
         #logging.debug('--BLANK PAGE--')
         BUG_REPORTER.write('--BLANK PAGE--' + '\n')
