@@ -977,9 +977,9 @@ def Start_Separation(SVG_FILE):
 
 def Separation():
     global SVG_FILE, SVG_FILE_SEPARATION_POINT, SVG_FILE_STORAGE, BUG_REPORTER
-    a = open("./Product/1.svg", 'w', encoding='utf-8')
-    a.write(SVG_FILE_STORAGE)
-    a.flush()
+    # a = open("./Product/1.svg", 'w', encoding='utf-8')
+    # a.write(SVG_FILE_STORAGE)
+    # a.flush()
     SVG_FILE = SVG_FILE_STORAGE
     SVG_FILE_SEPARATION_POINT = []
     Find_Separation_Location(SVG_FILE)
