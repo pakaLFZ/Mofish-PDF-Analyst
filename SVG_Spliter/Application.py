@@ -1097,7 +1097,7 @@ def Print_Time(Start_Time, Stage):
     global SVG_FILE_NUMBER, TIME_START, INSPECTOR_LOCATION
     os.system("cls")
     print(Start_Time)
-    print("Mofish Pastpaper Separator   Ver.15     stage " + Stage + "\n")
+    print("Mofish Pastpaper Separator   Ver.15     stage " + str(Stage) + "\n")
     if SVG_FILE_NUMBER >= 1:
         # 时间计算
         Average_Time = (time.perf_counter() - TIME_START) / SVG_FILE_NUMBER
