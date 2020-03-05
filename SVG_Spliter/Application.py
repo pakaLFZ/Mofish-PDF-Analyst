@@ -1104,7 +1104,7 @@ def Print_Time(Start_Time, Stage, Service_Type, SVG_FILE_STORAGE):
     print("Mofish Pastpaper Separator   Ver.15  |", end='')
     Stage_Counter = 0
     while Stage_Counter <= Stage:
-        print('>>', end='')
+        print('||', end='')
         Stage_Counter += 1
     print('\n')
     if SVG_FILE_NUMBER >= 1:
@@ -1234,8 +1234,6 @@ while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
         BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
         BUG_REPORTER.write('--Finished finding separation points\n')
         BUG_REPORTER.flush()
-        Stage += 1
-        Print_Time(Start_Time, Stage, Service_Type, SVG_FILE_STORAGE)
         Start_Separation(SVG_FILE)
         #logging.debug("Finished one page")
         BUG_REPORTER.write(str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) + ' ')
