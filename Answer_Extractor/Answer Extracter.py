@@ -282,7 +282,6 @@ def A_Print_Time():
     else:
         print('Total time taken: ' + str(round(time.perf_counter() - Time_Start, 2)) + 's', end='')
 
-
 def Print_Information():
     global File_Name_List, File_Number, Finished_File_List
     os.system("cls")
