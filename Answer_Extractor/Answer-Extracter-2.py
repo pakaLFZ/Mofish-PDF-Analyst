@@ -147,7 +147,7 @@ def Answer_Extractor_Launcher(File, File_Name_List, File_Number, LogFile):
     #Sort
     Inspector_Location = 0
     Execution = 0
-    while len(Answer) >= 2:
+    while len(Answer) >= 4:
         if int(Answer[Inspector_Location]) > int(Answer[Inspector_Location + 2]):
             Number_Storage = Answer[Inspector_Location]
             Answer_Storage = Answer[Inspector_Location + 1]
