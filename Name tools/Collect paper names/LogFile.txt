@@ -1,0 +1,7632 @@
+{
+	#Paper name:"0438_s12_qp_13.pdf",
+	#Syllabus:"0438",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0438_s12_qp_23.pdf",
+	#Syllabus:"0438",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0438_s13_qp_11.pdf",
+	#Syllabus:"0438",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_s13_qp_13.pdf",
+	#Syllabus:"0438",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0438_s13_qp_21.pdf",
+	#Syllabus:"0438",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_s13_qp_23.pdf",
+	#Syllabus:"0438",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0438_s14_qp_11.pdf",
+	#Syllabus:"0438",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_s14_qp_13.pdf",
+	#Syllabus:"0438",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0438_s14_qp_21.pdf",
+	#Syllabus:"0438",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_s14_qp_23.pdf",
+	#Syllabus:"0438",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0438_w12_qp_11.pdf",
+	#Syllabus:"0438",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_w12_qp_21.pdf",
+	#Syllabus:"0438",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_w13_qp_11.pdf",
+	#Syllabus:"0438",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_w13_qp_21.pdf",
+	#Syllabus:"0438",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_w14_qp_11.pdf",
+	#Syllabus:"0438",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_w14_qp_21.pdf",
+	#Syllabus:"0438",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_w17_qp_11.pdf",
+	#Syllabus:"0438",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0438_w17_qp_21.pdf",
+	#Syllabus:"0438",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_m15_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_m15_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_m16_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_m16_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_m17_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_m17_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_m18_1_2_qp.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_m18_2_2_qp.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_m18_3_2_qp.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_m18_4_2_qp.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_m18_5_2_qp.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_m18_6_2_qp.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_m19_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_m19_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s06_qp_1.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0610_s06_qp_2.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0610_s06_qp_3.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_s06_qp_5.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_s06_qp_6.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_s10_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s10_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s10_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s10_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s10_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s11_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s11_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s11_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s11_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s11_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s12_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s12_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s12_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s12_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s12_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s12_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s13_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s13_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s13_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s13_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s13_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s13_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s14_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s14_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s14_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s14_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s14_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s14_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s15_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s15_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s15_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s15_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s15_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s15_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s16_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s16_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s16_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s16_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s16_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s16_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s17_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s17_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s17_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s17_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s17_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s17_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s18_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s18_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s18_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s18_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s18_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s18_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s19_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s19_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s19_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_s19_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_s19_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_s19_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w06_qp_1.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0610_w06_qp_2.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0610_w06_qp_3.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_w06_qp_5.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_w06_qp_6.pdf",
+	#Syllabus:"0610",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0610_w10_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w10_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w10_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w10_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w10_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w10_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w11_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w11_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w11_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w11_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w11_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w11_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w12_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w12_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w12_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w12_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w12_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w12_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w13_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w13_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w13_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w13_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w13_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w13_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w14_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w14_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w14_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w14_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w14_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w14_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w15_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w15_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w15_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w15_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w15_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w15_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w16_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w16_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w16_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w16_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w16_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w16_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w17_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w17_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w17_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w17_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w17_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w17_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w18_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w18_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w18_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w18_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w18_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w18_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w19_qp_11.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w19_qp_12.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w19_qp_13.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0610_w19_qp_21.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0610_w19_qp_22.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0610_w19_qp_23.pdf",
+	#Syllabus:"0610",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"5090_s03_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s03_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s03_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s03_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s04_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s04_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s04_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s04_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s05_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s05_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s05_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s05_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s06_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s06_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s06_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s06_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s07_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s07_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s07_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s07_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s08_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s08_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s08_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s08_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s09_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s09_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_s09_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s09_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_s10_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s10_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s10_qp_13.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"5090_s10_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s10_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s10_qp_23.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"5090_s11_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s11_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s11_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s11_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s12_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s12_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s12_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s12_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s13_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s13_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s13_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s13_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s14_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s14_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s14_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s14_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s15_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s15_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s15_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s15_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s16_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s16_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s16_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s16_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s17_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s17_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s17_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s17_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s18_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s18_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s18_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s18_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s19_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s19_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_s19_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_s19_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w02_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w02_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w02_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w02_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w03_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w03_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w03_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w03_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w04_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w04_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w04_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w04_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w05_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w05_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w05_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w05_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w06_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w06_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w06_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w06_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w07_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w07_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w07_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w07_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w08_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w08_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w08_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w08_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w09_qp_1.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w09_qp_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5090_w09_qp_3.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w09_qp_6.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w09_qp_et_2.pdf",
+	#Syllabus:"5090",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5090_w10_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w10_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w10_qp_13.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"5090_w10_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w10_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w10_qp_23.pdf",
+	#Syllabus:"5090",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"5090_w11_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w11_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w11_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w11_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w11_qp_22_Erratum-1.pdf",
+	#Syllabus:"5090",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w12_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w12_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w12_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w12_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w13_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w13_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w13_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w13_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w14_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w14_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w14_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w14_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w15_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w15_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w15_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w15_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w16_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w16_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w16_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w16_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w17_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w17_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w17_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w17_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w18_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w18_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w18_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w18_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w19_qp_11.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w19_qp_12.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5090_w19_qp_21.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5090_w19_qp_22.pdf",
+	#Syllabus:"5090",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m15_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m15_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m16_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m16_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m17_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m17_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m18_1_2_qp.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_m18_2_2_qp.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_m18_3_2_qp.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_m18_4_2_qp.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_m18_5_2_qp.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_m18_6_2_qp.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_m19_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_m19_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s03_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s03_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s03_qp_3.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s03_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s03_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s06_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s06_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s06_qp_3.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s06_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s06_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s07_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s07_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s07_qp_3.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s07_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s07_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s08_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s08_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_s08_qp_3.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s08_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s08_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_s10_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s10_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s10_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s10_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s10_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s10_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s11_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s11_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s11_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s11_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s11_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s13_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s13_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s13_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s14_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s14_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s14_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s14_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s14_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s14_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s15_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s15_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s15_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s15_qp_14.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"4",
+}
+{
+	#Paper name:"0625_s15_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s15_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s15_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s16_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s16_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s16_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s16_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s16_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s16_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s17_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s17_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s17_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s17_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s17_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s17_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s18_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s18_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s18_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s18_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s18_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s18_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s19_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s19_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s19_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_s19_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_s19_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_s19_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w03_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w03_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w03_qp_3.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w03_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w03_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w06_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w06_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w06_qp_3.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w06_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w06_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w07_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w07_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w07_qp_3.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w07_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w07_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w08_qp_03.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w08_qp_1.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w08_qp_2.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0625_w08_qp_5.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w08_qp_6.pdf",
+	#Syllabus:"0625",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0625_w10_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w10_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w10_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w10_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w10_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w10_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w11_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w11_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w11_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w11_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w11_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w11_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w12_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w12_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w12_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w14_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w14_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w14_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w14_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w14_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w14_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w15_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w15_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w15_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w15_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w15_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w15_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w16_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w16_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w16_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w16_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w16_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w16_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w17_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w17_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w17_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w17_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w17_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w17_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w18_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w18_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w18_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w18_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w18_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w18_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w19_qp_11.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w19_qp_12.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w19_qp_13.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0625_w19_qp_21.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0625_w19_qp_22.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0625_w19_qp_23.pdf",
+	#Syllabus:"0625",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"5054_s03_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s03_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s03_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s03_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s04_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s04_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s04_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s04_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s05_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s05_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s05_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s05_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s06_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s06_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s06_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s06_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s07_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s07_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s07_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s07_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s08_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s08_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s08_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s08_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s09_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s09_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_s09_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s09_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_s10_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s10_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s10_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s10_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s11_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s11_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s11_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s11_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s12_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s12_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s12_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s12_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s13_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s13_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s13_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s13_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s14_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s14_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s14_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s14_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s15_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s15_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s15_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s15_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s16_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s16_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s16_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s16_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s17_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s17_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s17_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s17_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s18_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s18_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s18_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s18_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s19_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s19_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_s19_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_s19_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w02_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w02_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w02_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w02_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w03_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w03_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w03_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w03_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w04_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w04_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w04_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w04_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w05_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w05_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w05_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w05_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w06_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w06_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w06_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w06_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w07_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w07_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w07_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w07_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w08_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w08_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w08_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w08_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w09_qp_1.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w09_qp_2.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5054_w09_qp_3.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w09_qp_4.pdf",
+	#Syllabus:"5054",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5054_w10_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w10_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w10_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w10_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w11_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w11_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w11_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w11_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w12_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w12_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w12_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w12_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w13_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w13_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w13_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w13_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w14_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w14_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w14_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w14_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w15_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w15_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w15_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w15_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w16_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w16_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w16_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w16_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w17_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w17_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w18_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w18_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w18_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w18_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w19_qp_11.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w19_qp_12.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5054_w19_qp_21.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5054_w19_qp_22.pdf",
+	#Syllabus:"5054",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0439_w17_qp_11.pdf",
+	#Syllabus:"0439",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0439_w17_qp_21.pdf",
+	#Syllabus:"0439",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_m15_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_m15_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_m16_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_m16_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_m17_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_m17_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_m18_1_2_qp.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_m18_2_2_qp.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_m18_3_2_qp.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_m18_4_2_qp.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_m18_5_2_qp.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_m18_6_2_qp.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"m",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_m19_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"m",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_m19_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"m",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s03_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s03_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s03_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s03_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s03_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s04_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s04_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s04_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s04_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s04_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s05_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s05_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s05_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s05_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s05_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s06_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s06_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s06_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s06_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s06_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s07_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s07_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s07_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s07_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s07_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s08_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s08_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s08_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s08_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_S08_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"S",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s09_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s09_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_s09_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s09_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s09_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_s10_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s10_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s10_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s10_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s10_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s10_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s11_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s11_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s11_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s11_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s11_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s12_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s12_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s12_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s12_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s12_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s12_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s13_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s13_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s13_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s13_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s13_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s13_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s14_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s14_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s14_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s14_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s14_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s14_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s15_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s15_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s15_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s15_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s15_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s15_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s16_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s16_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s16_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s16_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s16_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s16_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s17_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s17_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s17_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s17_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s17_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s17_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s18_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s18_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s18_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s18_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s18_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s18_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s19_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s19_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s19_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_s19_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_s19_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_s19_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w02_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w02_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w02_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w02_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w02_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w03_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w03_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w03_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w03_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w03_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w04_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w04_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w04_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w04_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w04_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w05_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w05_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w05_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w05_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w05_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w06_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w06_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w06_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w06_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w06_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w07_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w07_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w07_qp_3.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w07_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w07_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w08_qp_03.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w08_qp_1.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w08_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w08_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w08_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w09_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w09_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w09_qp_2.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"0620_w09_qp_5.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w09_qp_6.pdf",
+	#Syllabus:"0620",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"0620_w10_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w10_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w10_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w10_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w10_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w10_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w11_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w11_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w11_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w11_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w11_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w11_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w12_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w12_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w12_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w12_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w12_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w12_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w13_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w13_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w13_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w13_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w13_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w13_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w14_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w14_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w14_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w14_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w14_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w14_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w15_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w15_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w15_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w15_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w15_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w15_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w16_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w16_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w16_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w16_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w16_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w16_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w17_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w17_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w17_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w17_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w17_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w17_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w18_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w18_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w18_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w18_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w18_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w18_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w19_qp_11.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w19_qp_12.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w19_qp_13.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"0620_w19_qp_21.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"0620_w19_qp_22.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"0620_w19_qp_23.pdf",
+	#Syllabus:"0620",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"5070_s03_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s03_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s03_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s03_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s04_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s04_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s04_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s04_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s05_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s05_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s05_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s05_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s06_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s06_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s06_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s06_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s07_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s07_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s07_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s07_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s08_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s08_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s08_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s08_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s09_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s09_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_s09_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s09_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"s",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_s10_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s10_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s10_qp_13.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"5070_s10_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s10_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s10_qp_23.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"5070_s11_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s11_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s11_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s11_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s12_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s12_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s12_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s12_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s13_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s13_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s13_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s13_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s14_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s14_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s14_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s14_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s15_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s15_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s15_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s15_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s16_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s16_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s16_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s16_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s17_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s17_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s17_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s17_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s18_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s18_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s18_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s18_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s19_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s19_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_s19_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_s19_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"s",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w02_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w02_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w02_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w02_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2002",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w03_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w03_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w03_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w03_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2003",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w04_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w04_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w04_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w04_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2004",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w05_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w05_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w05_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w05_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2005",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w06_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w06_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w06_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w06_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2006",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w07_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w07_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w07_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w07_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2007",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w08_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w08_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w08_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w08_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2008",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w09_qp_1.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w09_qp_2.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:".",
+}
+{
+	#Paper name:"5070_w09_qp_3.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w09_qp_4.pdf",
+	#Syllabus:"5070",
+	#Year:"2009",
+	#Month:"w",
+	#Paper_type:"0",
+	#Varient:"None",
+}
+{
+	#Paper name:"5070_w10_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w10_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w10_qp_13.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"3",
+}
+{
+	#Paper name:"5070_w10_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w10_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w10_qp_23.pdf",
+	#Syllabus:"5070",
+	#Year:"2010",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"3",
+}
+{
+	#Paper name:"5070_w11_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w11_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w11_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w11_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2011",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w12_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w12_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w12_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w12_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2012",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w13_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w13_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w13_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w13_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2013",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w14_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w14_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w14_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w14_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2014",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w15_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w15_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w15_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w15_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2015",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w16_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w16_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w16_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w16_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2016",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w17_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w17_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w17_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w17_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2017",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w18_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w18_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w18_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w18_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2018",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w19_qp_11.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w19_qp_12.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"1",
+	#Varient:"2",
+}
+{
+	#Paper name:"5070_w19_qp_21.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"1",
+}
+{
+	#Paper name:"5070_w19_qp_22.pdf",
+	#Syllabus:"5070",
+	#Year:"2019",
+	#Month:"w",
+	#Paper_type:"2",
+	#Varient:"2",
+}
