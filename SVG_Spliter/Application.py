@@ -44,67 +44,68 @@ BROKEN_MATRIX = 0  # 检测有多少不能处理的Matrix
 
 
 # Other function
-def Space_Eliminator(Name):  # 在使用系统cmd复制bug文件的时候，会牵扯到路径。指令中的路径不能直接有空格。这个def的作用是在相关的地方加上""
-    Name_Storage_1 = ''
-    Name_Storage_2 = ''
+def Space_Eliminator(name: str):
+    """在使用系统cmd复制bug文件的时候，会牵扯到路径。指令中的路径不能直接有空格。这个def的作用是在相关的地方加上\"\""""
+    name_storage_1 = ''
+    name_storage_2 = ''
 
-    Inner_Inspector_Location = 0
-    while Inner_Inspector_Location <= len(Name) - 1:
-        if Name[Inner_Inspector_Location] == '/':
-            Name_Storage_1 = Name_Storage_1 + '\\'
-            Inner_Inspector_Location += 1
-        if Inner_Inspector_Location <= len(Name) - 1:
-            Name_Storage_1 = Name_Storage_1 + Name[Inner_Inspector_Location]
-            Inner_Inspector_Location += 1
+    inner_inspector_location = 0
+    while inner_inspector_location <= len(name) - 1:
+        if name[inner_inspector_location] == '/':
+            name_storage_1 = name_storage_1 + '\\'
+            inner_inspector_location += 1
+        if inner_inspector_location <= len(name) - 1:
+            name_storage_1 = name_storage_1 + name[inner_inspector_location]
+            inner_inspector_location += 1
 
-    Inner_Inspector_Location = 0
-    while Inner_Inspector_Location <= len(Name_Storage_1) - 1:
-        if Name_Storage_1[Inner_Inspector_Location] == ' ':
-            Space_Check = 1
-            while Space_Check:
-                if Name_Storage_1[Inner_Inspector_Location] == '\\':
-                    Inner_Inspector_Location += 1
-                    Name_Storage_2 = Name_Storage_1[:
-                                                    Inner_Inspector_Location] + '"'
+    inner_inspector_location = 0
+    while inner_inspector_location <= len(name_storage_1) - 1:
+        if name_storage_1[inner_inspector_location] == ' ':
+            space_check = 1
+            while space_check:
+                if name_storage_1[inner_inspector_location] == '\\':
+                    inner_inspector_location += 1
+                    name_storage_2 = name_storage_1[:
+                                                    inner_inspector_location] + '"'
                     while 1:
-                        if Inner_Inspector_Location >= len(Name_Storage_1):
-                            Space_Check = 0
+                        if inner_inspector_location >= len(name_storage_1):
+                            space_check = 0
                             break
-                        if Name_Storage_1[Inner_Inspector_Location] == '\\':
-                            Name_Storage_2 = Name_Storage_2 + '"\\'
-                            Inner_Inspector_Location += 1
-                            Space_Check = 0
+                        if name_storage_1[inner_inspector_location] == '\\':
+                            name_storage_2 = name_storage_2 + '"\\'
+                            inner_inspector_location += 1
+                            space_check = 0
                             break
-                        Name_Storage_2 = Name_Storage_2 + \
-                            Name_Storage_1[Inner_Inspector_Location]
-                        Inner_Inspector_Location += 1
-                if Space_Check == 1:
-                    Inner_Inspector_Location += -1
-        if Inner_Inspector_Location <= len(Name_Storage_1) - 1:
-            Name_Storage_2 = Name_Storage_2 + \
-                Name_Storage_1[Inner_Inspector_Location]
-            Inner_Inspector_Location += 1
-    return(Name_Storage_2)
+                        name_storage_2 = name_storage_2 + \
+                            name_storage_1[inner_inspector_location]
+                        inner_inspector_location += 1
+                if space_check == 1:
+                    inner_inspector_location += -1
+        if inner_inspector_location <= len(name_storage_1) - 1:
+            name_storage_2 = name_storage_2 + \
+                name_storage_1[inner_inspector_location]
+            inner_inspector_location += 1
+    return name_storage_2
 
 
-def Bug_File_Copier():  # 将有问题的文件复制到BugFile文件夹内
-    global SVG_FILE_LOCATION_LIST, SVG_FILE_NUMBER, BUG_FILE_LOCATION, SVG_FILE_NAME_LIST, SERVICE_TYPE, SVG_STORAGE
-    if SERVICE_TYPE == 0:
-        File_Location_Storage = ''
-        Command_Storage = ''
-        File_Location_Storage = Space_Eliminator(
-            SVG_FILE_LOCATION_LIST[SVG_FILE_NUMBER])
-        Bug_File_Location_Storage = BUG_FILE_LOCATION + \
-            '/' + SVG_FILE_NAME_LIST[SVG_FILE_NUMBER]
-        File_Product_Location_Storage = Space_Eliminator(
-            Bug_File_Location_Storage)
-        Command_Storage = 'copy ' + File_Location_Storage + \
-            ' ' + File_Product_Location_Storage
-        os.system(Command_Storage)
-    if SERVICE_TYPE == 1:
-        Command_Storage = 'cp ' + SVG_STORAGE + '/' + \
-            SVG_FILE_NAME_LIST[SVG_FILE_NUMBER] + ' ' + BUG_FILE_LOCATION
-        os.system(Command_Storage)
+def Bug_File_Copier(svg_file_location_list, svg_file_number, bug_file_location, svg_file_name_list, service_type, svg_storage):  #
+    """将有问题的文件复制到BugFile文件夹内"""
+    if service_type == 0:
+        file_location_storage = ''
+        command_storage = ''
+        file_location_storage = Space_Eliminator(
+            svg_file_location_list[svg_file_number])
+        bug_file_location_storage = bug_file_location + \
+            '/' + svg_file_name_list[svg_file_number]
+        file_product_location_storage = Space_Eliminator(
+            bug_file_location_storage)
+        command_storage = 'copy ' + file_location_storage + \
+            ' ' + file_product_location_storage
+        os.system(command_storage)
+    if service_type == 1:
+        command_storage = 'cp ' + svg_storage + '/' + \
+            svg_file_name_list[svg_file_number] + ' ' + bug_file_location
+        os.system(command_storage)
 # Rewrite SVG
 
 
@@ -893,7 +894,8 @@ def Start_Separation(SVG_FILE):
             BUG_REPORTER.write('---BUG FILE---')
             BUG_REPORTER.write('\n')
             BUG_REPORTER.flush()
-            Bug_File_Copier()
+            Bug_File_Copier(SVG_FILE_LOCATION_LIST, SVG_FILE_NUMBER,
+                            BUG_FILE_LOCATION, SVG_FILE_NAME_LIST, SERVICE_TYPE, SVG_STORAGE)
     QUESTION_NUMBER = 0
     # Find the number of questions
     while QUESTION_NUMBER <= Question_Count - 1 and BROKEN_MATRIX <= 4:
