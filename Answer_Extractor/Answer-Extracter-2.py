@@ -17,7 +17,7 @@ def Answer_Extractor_Launcher(File, File_Name_List, File_Number, LogFile):
     global File_Required
     #Paper_Name = Speculate_Question_Paper()
     Answer = []
-    LogFile.write('File used: ' + File_Name_List[File_Number] + '\n')
+    #LogFile.write('File used: ' + File_Name_List[File_Number] + '%\n')
     Inspector_Location = 0
     while Inspector_Location <= len(File) - 1:
         First_Font_Size = ''
@@ -173,7 +173,7 @@ def Answer_Extractor_Launcher(File, File_Name_List, File_Number, LogFile):
     if len(Answer) >= 1:
         Inspector_Location = 0
         while Inspector_Location <= len(Answer) - 1:
-            LogFile.write(Answer[Inspector_Location] + ':' + Answer[Inspector_Location + 1] + '\n')
+            LogFile.write('<' + Answer[Inspector_Location] + ':' + Answer[Inspector_Location + 1] + '>\n')
             Inspector_Location += 2
         LogFile.flush()
         #0620_m16_ms_12-1.svg
@@ -274,11 +274,12 @@ while len(File_Name_List) > 0:
                 Inspector_Location += 1
             LogFile.flush()
             break
-
+        
         File_Number = Inspector_Location
         File_Location = File_Storage_Location + '/' + File_Name_List[File_Number]
         File_open = open(File_Location, 'r', encoding='utf-8')
         File = File_open.read()
+        LogFile.write('+File used: ' + File_Name_List[File_Number] + '%\n')
         Answer_Extractor_Launcher(File, File_Name_List, File_Number, LogFile)
         del File_Name_List[File_Number]
     else:
