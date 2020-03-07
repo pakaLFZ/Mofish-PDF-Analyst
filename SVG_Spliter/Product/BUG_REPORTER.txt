@@ -1,6 +1,1 @@
-2020-03-05 15:17:27 Start rewriting: 0610_s13_qp_13-8.svg
-2020-03-05 15:18:04 ---Complete
-2020-03-05 15:18:05 Separate: 0610_s13_qp_13-8.svg
-2020-03-05 15:18:05 --Finished finding separation points
-2020-03-05 15:18:05 ********Finished one page
-
+2020-03-07 21:11:11 Start rewriting: 0439_w17_qp_11-10.svg
