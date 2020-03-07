@@ -1267,15 +1267,15 @@ PRODUCT_STORAGE_LOCATION = PRODUCT_STORAGE_LOCATION + ANSWER
 BUG_FILE_LOCATION = PRODUCT_STORAGE_LOCATION + '/BugFile'
 
 # 获取所有文件地址
-for root, dirs, files in os.walk(SVG_STORAGE, topdown=True):
+for root, _, files in os.walk(SVG_STORAGE, topdown=True):
     for name in files:
         if re.match('.*(.svg)', os.path.join(name)) is not None:
             SVG_FILE_LOCATION_LIST.append(
                 os.path.join(root) + '/' + os.path.join(name))
             SVG_FILE_NAME_LIST.append(os.path.join(name))
 
-Bug_Reporter_Open_Location = PRODUCT_STORAGE_LOCATION + '/' + 'BUG_REPORTER.txt'
-BUG_REPORTER = open(Bug_Reporter_Open_Location, 'w', encoding='utf-8')
+BUG_REPORTER_OPEN_LOCATION = PRODUCT_STORAGE_LOCATION + '/' + 'BUG_REPORTER.txt'
+BUG_REPORTER = open(BUG_REPORTER_OPEN_LOCATION, 'w', encoding='utf-8')
 
 
 while SVG_FILE_NUMBER <= len(SVG_FILE_NAME_LIST) - 1:
