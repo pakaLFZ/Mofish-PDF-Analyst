@@ -1242,14 +1242,14 @@ def Print_Time(Start_Time, Stage, SERVICE_TYPE, SVG_FILE_STORAGE):
 while 1:
     print('\n------------------------\n')
     print('Please choose the service type: \n ---- on Windows (Type "W") or Ubuntu (Type "U")')
-    Answer = input()
-    if Answer == 'W':
+    ANSWER = input()
+    if ANSWER == 'W':
         SERVICE_TYPE = 0
         SVG_STORAGE = "./SVGs"
         PRODUCT_STORAGE_LOCATION = "./Product"
         BUG_FILE_LOCATION = './Product/BugFile'
         break
-    if Answer == 'U':
+    if ANSWER == 'U':
         SERVICE_TYPE = 1
         SVG_STORAGE = "/home/PDFs/SVGs"
         PRODUCT_STORAGE_LOCATION = "/home/PDFs/Product"
@@ -1261,9 +1261,9 @@ while 1:
 
 
 print('Please type in folder number: \n ----Default: SVGs / Product')
-Answer = input()
-SVG_STORAGE = SVG_STORAGE + Answer
-PRODUCT_STORAGE_LOCATION = PRODUCT_STORAGE_LOCATION + Answer
+ANSWER = input()
+SVG_STORAGE = SVG_STORAGE + ANSWER
+PRODUCT_STORAGE_LOCATION = PRODUCT_STORAGE_LOCATION + ANSWER
 BUG_FILE_LOCATION = PRODUCT_STORAGE_LOCATION + '/BugFile'
 
 # 获取所有文件地址
