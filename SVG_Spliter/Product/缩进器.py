@@ -1,5 +1,6 @@
 import os
 import time
+
 # MHTML 选项
 File_Name = '1'
 MHTML_File_Location = './' + File_Name + '.svg'
@@ -18,6 +19,7 @@ Inspector_Location = 0
 Tab_Number = 0
 End_Tag = 0
 Last_Tab_Recorder = 0
+
 
 def Tab_Write():
     global Tab_Number, HTML_File
@@ -64,7 +66,7 @@ def Find_Labels():
             HTML_File.write(MHTML_File[Inspector_Location])
             HTML_File.flush()
             Inspector_Location += 1
+
+
 Find_Labels()
 print('Finish')
-
-                
