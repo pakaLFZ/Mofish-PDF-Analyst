@@ -12,7 +12,7 @@ Database = mysql.connector.connect(
 cursor = Database.cursor()
 
 def Send_Command(Instructor):
-  command = 'insert into API_mcq_bank (svg_name, question_no, answer, chapter, source_id)value('
+  command = 'insert into API_mcq_bank (svg_name, syllabus, year, month, paper_type, varient, question_no, answer, chapter, source)value('
   Counter = 0
   while Counter <= len(Instructor) - 2:
     command = command + '"' + str(Instructor[Counter]) + '", '
@@ -26,13 +26,13 @@ def Send_Command(Instructor):
   cursor.execute('COMMIT;')
 
 Instructor_File = open('/home/Python_MySQL/MCQ_Bank/Instructor.mofish', 'r')
-# Instructor_File = open('./Instructor.mofish', 'r')
+#Instructor_File = open('./Instructor.mofish', 'r')
 Instructor = Instructor_File.read()
 Command = []
 Location_1 = 0
 
+'''svg_name, syllabus, year, month, paper_type, varient, question_no, answer, chapter, source'''
 
-'''svg_name, question_no, answer, chapter, source_id'''
 while Location_1 <= len(Instructor) - 1:
   Command = []
   Location_1 = Instructor.find('{', Location_1)
@@ -41,7 +41,7 @@ while Location_1 <= len(Instructor) - 1:
     break
   Counter = 1
   Location_3 = Location_1
-  while Counter <= 5: # original 7
+  while Counter <= 10: # original 7
     Location_3 = Instructor.find('"', Location_3 + 1, Location_2)
     Location_4 = Instructor.find('"', Location_3 + 1, Location_2)
     Command.append(Instructor[Location_3 + 1 : Location_4])

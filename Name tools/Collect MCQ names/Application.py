@@ -56,13 +56,47 @@ def Analysis_PDF_Names(Instructor_Location_MCQ, Instructor_Location_Paper, Log):
         Question_No = Instructor[Location_3 + 1 : Location_4]
 
 
+        Location_3 = File_Name.find('-')
+        Source = File_Name[0 : Location_3] + '.pdf'
+        Syllabus = Source[0 : 4]
+        Year = '20' + Source[6 : 8]
+        Month = Source[5]
+        Paper_type = 0
+        Varient = None
+
+        if Source[8 : 11] == '_2_':
+            Paper_type = 2
+        if Source[12 : 15] == '_2':
+            Paper_type = 2
+            Varient = Source[15]
+        if Source[11 : 13] == '_2':
+            Paper_type = 2
+            Varient = Source[13]
+
+        if Source[8 : 11] == '_1_':
+            Paper_type = 1
+        if Source[12 : 15] == '_1':
+            Paper_type = 1
+            Varient = Source[15]
+        if Source[11 : 13] == '_1':
+            Paper_type = 1
+            Varient = Source[13]
+        if Varient == '.':
+            Varient = None
+
+
         Log.write('{\n')
         #Log.write('\t#ID:"' + str(ID_Count) + '",\n')
         Log.write('\t#Paper name:"' + str(File_Name) + '",\n')
+        Log.write('\t#Syllabus:"' + str(Syllabus) + '",\n')
+        Log.write('\t#Year:"' + str(Year) + '",\n')
+        Log.write('\t#Month:"' + str(Month) + '",\n')
+        Log.write('\t#Paper_type:"' + str(Paper_type) + '",\n')
+        Log.write('\t#Varient:"' + str(Varient) + '",\n')
         Log.write('\t#Question_No:"' + str(Question_No) + '",\n')
         Log.write('\t#Answer:"' + str(Answer) + '",\n')
         Log.write('\t#Chapter:"None",\n')
-        Log.write('\t#Source:"' + str(ID) + '",\n')
+        Log.write('\t#Source:"' + str(Source) + '",\n')
         Log.write('}\n')
         Log.flush()
 
