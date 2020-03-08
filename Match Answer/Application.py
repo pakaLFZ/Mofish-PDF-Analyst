@@ -86,7 +86,7 @@ while len(File_Name_List) != 0:
 
     Location_1 = Instructor.find(Paper_Name)
     if Location_1 == -1:
-        LogFile.write('#Cannot find "' + Paper_Name + '"#>\n')
+        LogFile.write(':#Cannot find "' + Paper_Name + '"#>\n')
         LogFile.flush()
         del File_Name_List[0]
 
@@ -105,7 +105,7 @@ while len(File_Name_List) != 0:
     # input()
     Location_3 = Instructor.find(Question_Number, Location_1, Location_2)
     if Location_3 == -1:
-        LogFile.write('#Cannot find question "' + Question_Number + '"#>\n')
+        LogFile.write(':#Cannot find question "' + Question_Number + '"#>\n')
         LogFile.flush()
         del File_Name_List[0]
 
@@ -119,6 +119,8 @@ while len(File_Name_List) != 0:
     Location_4 = Instructor.find(':', Location_3)
     Location_5 = Instructor.find('>', Location_3)
     Answer = Instructor[Location_4 + 1 : Location_5]
+    if Answer[0] != '#' and Answer[0] != 'A' and Answer[0] != 'B' and Answer[0] != 'C' and Answer[0] != 'D':
+        Answer = '##Bug--"' + Answer + '"##'
     LogFile.write(':' + Answer + '>\n')
     del File_Name_List[0]
 

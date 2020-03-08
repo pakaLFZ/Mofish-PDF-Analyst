@@ -25,6 +25,7 @@ def Collect_PDF_Names(File_Storage_Location, Log):
 def Analysis_PDF_Names(Instructor_Storage_Location, Log):
     Instructor = open(Instructor_Storage_Location, 'r').read()
     Location = 0
+    Id_Count = 1
     while Location <= len(Instructor) - 1:
         #0620_m18_2_2_ms  0620_m15_ms_22 0439_w17_ms_21 0439_w17_gt  0625_s03_ms_1.pdf
         #<0438_s13_qp_53.pdf>
@@ -63,7 +64,10 @@ def Analysis_PDF_Names(Instructor_Storage_Location, Log):
         if File_Name[11 : 13] == '_1':
             Paper_type = 1
             Varient = File_Name[13]
+        if Varient == '.':
+            Varient = None
         Log.write('{\n')
+        Log.write('\t#ID:"' + str(Id_Count) + '",\n')
         Log.write('\t#Paper name:"' + str(File_Name) + '",\n')
         Log.write('\t#Syllabus:"' + str(Syllabus) + '",\n')
         Log.write('\t#Year:"' + str(Year) + '",\n')
@@ -73,6 +77,7 @@ def Analysis_PDF_Names(Instructor_Storage_Location, Log):
         Log.write('}\n')
 
         Location = Location_1
+        Id_Count += 1
 
 while 1:
     print('Please choose function:\n\tCollect_PDF_Names: 1\n\tAnalysis_PDF_Names: 2')
