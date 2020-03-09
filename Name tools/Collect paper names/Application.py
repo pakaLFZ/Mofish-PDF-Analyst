@@ -45,7 +45,7 @@ def Analysis_PDF_Names(Instructor_Storage_Location, Log):
         Year = '20' + File_Name[6 : 8]
         Month = File_Name[5]
         Paper_type = 0
-        Varient = None
+        Varient = ''
 
         if File_Name[8 : 11] == '_2_':
             Paper_type = 2
@@ -65,7 +65,9 @@ def Analysis_PDF_Names(Instructor_Storage_Location, Log):
             Paper_type = 1
             Varient = File_Name[13]
         if Varient == '.':
-            Varient = None
+            Varient = ''
+        Varient = str(Paper_type) + str(Varient)
+
         Log.write('{\n')
         Log.write('\t#ID:"' + str(Id_Count) + '",\n')
         Log.write('\t#Paper name:"' + str(File_Name) + '",\n')

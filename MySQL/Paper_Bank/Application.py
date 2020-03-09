@@ -12,7 +12,7 @@ Database = mysql.connector.connect(
 cursor = Database.cursor()
 
 def Send_Command(Instructor):
-  command = 'insert into API_paper_bank (paper_name, syllabus, year, month, paper_type, varient, source)value('
+  command = 'insert into API_paper_bank (paper_name, syllabus, year, month, paper_type, varient)value('
   Counter = 0
   while Counter <= len(Instructor) - 2:
     command = command + '"' + str(Instructor[Counter]) + '", '
@@ -26,13 +26,13 @@ def Send_Command(Instructor):
   cursor.execute('COMMIT;')
 
 Instructor_File = open('/home/Python_MySQL/Paper_Bank/Instructor.mofish', 'r')
-#Instructor_File = open('./Instructor.mofish', 'r')
+# Instructor_File = open('./Instructor.mofish', 'r')
 Instructor = Instructor_File.read()
 Command = []
 Location_1 = 0
 
 
-'''paper_name, syllabus, year, month, paper_type, varient, source'''
+'''paper_name, syllabus, year, month, paper_type, varient'''
 while Location_1 <= len(Instructor) - 1:
   Command = []
   Location_1 = Instructor.find('{', Location_1)
@@ -47,8 +47,7 @@ while Location_1 <= len(Instructor) - 1:
     Command.append(Instructor[Location_3 + 1 : Location_4])
     Location_3 = Location_4
     Counter += 1
-    if Counter > 6:
-      Command.append(Command[0])
+
   Send_Command(Command)
   Location_1 = Location_2
 

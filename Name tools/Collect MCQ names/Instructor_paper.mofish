@@ -5,7 +5,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"2",
@@ -14,7 +14,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"3",
@@ -23,7 +23,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"4",
@@ -32,7 +32,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"5",
@@ -41,7 +41,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"6",
@@ -50,7 +50,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"7",
@@ -59,7 +59,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"8",
@@ -68,7 +68,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"9",
@@ -77,7 +77,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"10",
@@ -86,7 +86,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"11",
@@ -95,7 +95,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"12",
@@ -104,7 +104,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"13",
@@ -113,7 +113,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"14",
@@ -122,7 +122,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"15",
@@ -131,7 +131,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"16",
@@ -140,7 +140,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"17",
@@ -149,7 +149,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"18",
@@ -158,7 +158,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"19",
@@ -167,7 +167,7 @@
 	#Year:"2015",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"20",
@@ -176,7 +176,7 @@
 	#Year:"2015",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"21",
@@ -185,7 +185,7 @@
 	#Year:"2016",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"22",
@@ -194,7 +194,7 @@
 	#Year:"2016",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"23",
@@ -203,7 +203,7 @@
 	#Year:"2017",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"24",
@@ -212,7 +212,7 @@
 	#Year:"2017",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"25",
@@ -221,7 +221,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"26",
@@ -230,7 +230,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"27",
@@ -239,7 +239,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"28",
@@ -248,7 +248,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"29",
@@ -257,7 +257,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"30",
@@ -266,7 +266,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"31",
@@ -275,7 +275,7 @@
 	#Year:"2019",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"32",
@@ -284,7 +284,7 @@
 	#Year:"2019",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"33",
@@ -293,7 +293,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"34",
@@ -302,7 +302,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"35",
@@ -311,7 +311,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"36",
@@ -320,7 +320,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"37",
@@ -329,7 +329,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"38",
@@ -338,7 +338,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"39",
@@ -347,7 +347,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"40",
@@ -356,7 +356,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"41",
@@ -365,7 +365,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"42",
@@ -374,7 +374,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"43",
@@ -383,7 +383,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"44",
@@ -392,7 +392,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"45",
@@ -401,7 +401,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"46",
@@ -410,7 +410,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"47",
@@ -419,7 +419,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"48",
@@ -428,7 +428,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"49",
@@ -437,7 +437,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"50",
@@ -446,7 +446,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"51",
@@ -455,7 +455,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"52",
@@ -464,7 +464,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"53",
@@ -473,7 +473,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"54",
@@ -482,7 +482,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"55",
@@ -491,7 +491,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"56",
@@ -500,7 +500,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"57",
@@ -509,7 +509,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"58",
@@ -518,7 +518,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"59",
@@ -527,7 +527,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"60",
@@ -536,7 +536,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"61",
@@ -545,7 +545,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"62",
@@ -554,7 +554,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"63",
@@ -563,7 +563,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"64",
@@ -572,7 +572,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"65",
@@ -581,7 +581,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"66",
@@ -590,7 +590,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"67",
@@ -599,7 +599,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"68",
@@ -608,7 +608,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"69",
@@ -617,7 +617,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"70",
@@ -626,7 +626,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"71",
@@ -635,7 +635,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"72",
@@ -644,7 +644,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"73",
@@ -653,7 +653,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"74",
@@ -662,7 +662,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"75",
@@ -671,7 +671,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"76",
@@ -680,7 +680,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"77",
@@ -689,7 +689,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"78",
@@ -698,7 +698,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"79",
@@ -707,7 +707,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"80",
@@ -716,7 +716,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"81",
@@ -725,7 +725,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"82",
@@ -734,7 +734,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"83",
@@ -743,7 +743,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"84",
@@ -752,7 +752,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"85",
@@ -761,7 +761,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"86",
@@ -770,7 +770,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"87",
@@ -779,7 +779,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"88",
@@ -788,7 +788,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"89",
@@ -797,7 +797,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"90",
@@ -806,7 +806,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"91",
@@ -815,7 +815,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"92",
@@ -824,7 +824,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"93",
@@ -833,7 +833,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"94",
@@ -842,7 +842,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"95",
@@ -851,7 +851,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"96",
@@ -860,7 +860,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"97",
@@ -869,7 +869,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"98",
@@ -878,7 +878,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"99",
@@ -887,7 +887,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"100",
@@ -896,7 +896,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"101",
@@ -905,7 +905,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"102",
@@ -914,7 +914,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"103",
@@ -923,7 +923,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"104",
@@ -932,7 +932,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"105",
@@ -941,7 +941,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"106",
@@ -950,7 +950,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"107",
@@ -959,7 +959,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"108",
@@ -968,7 +968,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"109",
@@ -977,7 +977,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"110",
@@ -986,7 +986,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"111",
@@ -995,7 +995,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"112",
@@ -1004,7 +1004,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"113",
@@ -1013,7 +1013,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"114",
@@ -1022,7 +1022,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"115",
@@ -1031,7 +1031,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"116",
@@ -1040,7 +1040,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"117",
@@ -1049,7 +1049,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"118",
@@ -1058,7 +1058,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"119",
@@ -1067,7 +1067,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"120",
@@ -1076,7 +1076,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"121",
@@ -1085,7 +1085,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"122",
@@ -1094,7 +1094,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"123",
@@ -1103,7 +1103,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"124",
@@ -1112,7 +1112,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"125",
@@ -1121,7 +1121,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"126",
@@ -1130,7 +1130,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"127",
@@ -1139,7 +1139,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"128",
@@ -1148,7 +1148,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"129",
@@ -1157,7 +1157,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"130",
@@ -1166,7 +1166,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"131",
@@ -1175,7 +1175,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"132",
@@ -1184,7 +1184,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"133",
@@ -1193,7 +1193,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"134",
@@ -1202,7 +1202,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"135",
@@ -1211,7 +1211,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"136",
@@ -1220,7 +1220,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"137",
@@ -1229,7 +1229,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"138",
@@ -1238,7 +1238,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"139",
@@ -1247,7 +1247,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"140",
@@ -1256,7 +1256,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"141",
@@ -1265,7 +1265,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"142",
@@ -1274,7 +1274,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"143",
@@ -1283,7 +1283,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"144",
@@ -1292,7 +1292,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"145",
@@ -1301,7 +1301,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"146",
@@ -1310,7 +1310,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"147",
@@ -1319,7 +1319,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"148",
@@ -1328,7 +1328,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"149",
@@ -1337,7 +1337,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"150",
@@ -1346,7 +1346,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"151",
@@ -1355,7 +1355,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"152",
@@ -1364,7 +1364,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"153",
@@ -1373,7 +1373,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"154",
@@ -1382,7 +1382,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"155",
@@ -1391,7 +1391,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"156",
@@ -1400,7 +1400,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"157",
@@ -1409,7 +1409,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"158",
@@ -1418,7 +1418,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"159",
@@ -1427,7 +1427,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"160",
@@ -1436,7 +1436,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"161",
@@ -1445,7 +1445,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"162",
@@ -1454,7 +1454,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"163",
@@ -1463,7 +1463,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"164",
@@ -1472,7 +1472,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"165",
@@ -1481,7 +1481,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"166",
@@ -1490,7 +1490,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"167",
@@ -1499,7 +1499,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"168",
@@ -1508,7 +1508,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"169",
@@ -1517,7 +1517,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"170",
@@ -1526,7 +1526,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"171",
@@ -1535,7 +1535,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"172",
@@ -1544,7 +1544,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"173",
@@ -1553,7 +1553,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"174",
@@ -1562,7 +1562,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"175",
@@ -1571,7 +1571,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"176",
@@ -1580,7 +1580,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"177",
@@ -1589,7 +1589,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"178",
@@ -1598,7 +1598,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"179",
@@ -1607,7 +1607,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"180",
@@ -1616,7 +1616,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"181",
@@ -1625,7 +1625,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"182",
@@ -1634,7 +1634,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"183",
@@ -1643,7 +1643,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"184",
@@ -1652,7 +1652,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"185",
@@ -1661,7 +1661,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"186",
@@ -1670,7 +1670,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"187",
@@ -1679,7 +1679,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"188",
@@ -1688,7 +1688,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"189",
@@ -1697,7 +1697,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"190",
@@ -1706,7 +1706,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"191",
@@ -1715,7 +1715,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"192",
@@ -1724,7 +1724,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"193",
@@ -1733,7 +1733,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"194",
@@ -1742,7 +1742,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"195",
@@ -1751,7 +1751,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"196",
@@ -1760,7 +1760,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"197",
@@ -1769,7 +1769,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"198",
@@ -1778,7 +1778,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"199",
@@ -1787,7 +1787,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"200",
@@ -1796,7 +1796,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"201",
@@ -1805,7 +1805,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"202",
@@ -1814,7 +1814,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"203",
@@ -1823,7 +1823,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"204",
@@ -1832,7 +1832,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"205",
@@ -1841,7 +1841,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"206",
@@ -1850,7 +1850,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"207",
@@ -1859,7 +1859,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"208",
@@ -1868,7 +1868,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"209",
@@ -1877,7 +1877,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"210",
@@ -1886,7 +1886,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"211",
@@ -1895,7 +1895,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"212",
@@ -1904,7 +1904,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"213",
@@ -1913,7 +1913,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"214",
@@ -1922,7 +1922,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"215",
@@ -1931,7 +1931,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"216",
@@ -1940,7 +1940,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"217",
@@ -1949,7 +1949,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"218",
@@ -1958,7 +1958,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"219",
@@ -1967,7 +1967,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"220",
@@ -1976,7 +1976,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"221",
@@ -1985,7 +1985,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"222",
@@ -1994,7 +1994,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"223",
@@ -2003,7 +2003,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"224",
@@ -2012,7 +2012,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"225",
@@ -2021,7 +2021,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"226",
@@ -2030,7 +2030,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"227",
@@ -2039,7 +2039,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"228",
@@ -2048,7 +2048,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"229",
@@ -2057,7 +2057,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"230",
@@ -2066,7 +2066,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"231",
@@ -2075,7 +2075,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"232",
@@ -2084,7 +2084,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"233",
@@ -2093,7 +2093,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"234",
@@ -2102,7 +2102,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"235",
@@ -2111,7 +2111,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"236",
@@ -2120,7 +2120,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"237",
@@ -2129,7 +2129,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"238",
@@ -2138,7 +2138,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"239",
@@ -2147,7 +2147,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"240",
@@ -2156,7 +2156,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"241",
@@ -2165,7 +2165,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"242",
@@ -2174,7 +2174,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"243",
@@ -2183,7 +2183,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"244",
@@ -2192,7 +2192,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"245",
@@ -2201,7 +2201,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"246",
@@ -2210,7 +2210,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"247",
@@ -2219,7 +2219,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"248",
@@ -2228,7 +2228,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"249",
@@ -2237,7 +2237,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"250",
@@ -2246,7 +2246,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"251",
@@ -2255,7 +2255,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"252",
@@ -2264,7 +2264,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"253",
@@ -2273,7 +2273,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"254",
@@ -2282,7 +2282,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"255",
@@ -2291,7 +2291,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"256",
@@ -2300,7 +2300,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"257",
@@ -2309,7 +2309,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"258",
@@ -2318,7 +2318,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"259",
@@ -2327,7 +2327,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"260",
@@ -2336,7 +2336,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"261",
@@ -2345,7 +2345,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"262",
@@ -2354,7 +2354,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"263",
@@ -2363,7 +2363,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"264",
@@ -2372,7 +2372,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"265",
@@ -2381,7 +2381,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"266",
@@ -2390,7 +2390,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"267",
@@ -2399,7 +2399,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"268",
@@ -2408,7 +2408,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"269",
@@ -2417,7 +2417,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"270",
@@ -2426,7 +2426,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"271",
@@ -2435,7 +2435,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"272",
@@ -2444,7 +2444,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"273",
@@ -2453,7 +2453,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"274",
@@ -2462,7 +2462,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"275",
@@ -2471,7 +2471,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"276",
@@ -2480,7 +2480,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"277",
@@ -2489,7 +2489,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"278",
@@ -2498,7 +2498,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"279",
@@ -2507,7 +2507,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"280",
@@ -2516,7 +2516,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"281",
@@ -2525,7 +2525,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"282",
@@ -2534,7 +2534,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"283",
@@ -2543,7 +2543,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"284",
@@ -2552,7 +2552,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"285",
@@ -2561,7 +2561,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"286",
@@ -2570,7 +2570,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"287",
@@ -2579,7 +2579,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"288",
@@ -2588,7 +2588,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"289",
@@ -2597,7 +2597,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"290",
@@ -2606,7 +2606,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"291",
@@ -2615,7 +2615,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"292",
@@ -2624,7 +2624,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"293",
@@ -2633,7 +2633,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"294",
@@ -2642,7 +2642,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"295",
@@ -2651,7 +2651,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"296",
@@ -2660,7 +2660,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"297",
@@ -2669,7 +2669,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"298",
@@ -2678,7 +2678,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"299",
@@ -2687,7 +2687,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"300",
@@ -2696,7 +2696,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"301",
@@ -2705,7 +2705,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"302",
@@ -2714,7 +2714,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"303",
@@ -2723,7 +2723,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"304",
@@ -2732,7 +2732,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"305",
@@ -2741,7 +2741,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"306",
@@ -2750,7 +2750,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"307",
@@ -2759,7 +2759,7 @@
 	#Year:"2015",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"308",
@@ -2768,7 +2768,7 @@
 	#Year:"2015",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"309",
@@ -2777,7 +2777,7 @@
 	#Year:"2016",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"310",
@@ -2786,7 +2786,7 @@
 	#Year:"2016",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"311",
@@ -2795,7 +2795,7 @@
 	#Year:"2017",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"312",
@@ -2804,7 +2804,7 @@
 	#Year:"2017",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"313",
@@ -2813,7 +2813,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"314",
@@ -2822,7 +2822,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"315",
@@ -2831,7 +2831,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"316",
@@ -2840,7 +2840,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"317",
@@ -2849,7 +2849,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"318",
@@ -2858,7 +2858,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"319",
@@ -2867,7 +2867,7 @@
 	#Year:"2019",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"320",
@@ -2876,7 +2876,7 @@
 	#Year:"2019",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"321",
@@ -2885,7 +2885,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"322",
@@ -2894,7 +2894,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"323",
@@ -2903,7 +2903,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"324",
@@ -2912,7 +2912,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"325",
@@ -2921,7 +2921,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"326",
@@ -2930,7 +2930,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"327",
@@ -2939,7 +2939,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"328",
@@ -2948,7 +2948,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"329",
@@ -2957,7 +2957,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"330",
@@ -2966,7 +2966,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"331",
@@ -2975,7 +2975,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"332",
@@ -2984,7 +2984,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"333",
@@ -2993,7 +2993,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"334",
@@ -3002,7 +3002,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"335",
@@ -3011,7 +3011,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"336",
@@ -3020,7 +3020,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"337",
@@ -3029,7 +3029,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"338",
@@ -3038,7 +3038,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"339",
@@ -3047,7 +3047,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"340",
@@ -3056,7 +3056,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"341",
@@ -3065,7 +3065,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"342",
@@ -3074,7 +3074,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"343",
@@ -3083,7 +3083,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"344",
@@ -3092,7 +3092,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"345",
@@ -3101,7 +3101,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"346",
@@ -3110,7 +3110,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"347",
@@ -3119,7 +3119,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"348",
@@ -3128,7 +3128,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"349",
@@ -3137,7 +3137,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"350",
@@ -3146,7 +3146,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"351",
@@ -3155,7 +3155,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"352",
@@ -3164,7 +3164,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"353",
@@ -3173,7 +3173,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"354",
@@ -3182,7 +3182,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"355",
@@ -3191,7 +3191,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"356",
@@ -3200,7 +3200,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"357",
@@ -3209,7 +3209,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"358",
@@ -3218,7 +3218,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"359",
@@ -3227,7 +3227,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"360",
@@ -3236,7 +3236,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"361",
@@ -3245,7 +3245,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"362",
@@ -3254,7 +3254,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"363",
@@ -3263,7 +3263,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"364",
@@ -3272,7 +3272,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"4",
+	#Varient:"14",
 }
 {
 	#ID:"365",
@@ -3281,7 +3281,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"366",
@@ -3290,7 +3290,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"367",
@@ -3299,7 +3299,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"368",
@@ -3308,7 +3308,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"369",
@@ -3317,7 +3317,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"370",
@@ -3326,7 +3326,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"371",
@@ -3335,7 +3335,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"372",
@@ -3344,7 +3344,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"373",
@@ -3353,7 +3353,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"374",
@@ -3362,7 +3362,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"375",
@@ -3371,7 +3371,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"376",
@@ -3380,7 +3380,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"377",
@@ -3389,7 +3389,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"378",
@@ -3398,7 +3398,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"379",
@@ -3407,7 +3407,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"380",
@@ -3416,7 +3416,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"381",
@@ -3425,7 +3425,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"382",
@@ -3434,7 +3434,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"383",
@@ -3443,7 +3443,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"384",
@@ -3452,7 +3452,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"385",
@@ -3461,7 +3461,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"386",
@@ -3470,7 +3470,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"387",
@@ -3479,7 +3479,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"388",
@@ -3488,7 +3488,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"389",
@@ -3497,7 +3497,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"390",
@@ -3506,7 +3506,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"391",
@@ -3515,7 +3515,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"392",
@@ -3524,7 +3524,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"393",
@@ -3533,7 +3533,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"394",
@@ -3542,7 +3542,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"395",
@@ -3551,7 +3551,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"396",
@@ -3560,7 +3560,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"397",
@@ -3569,7 +3569,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"398",
@@ -3578,7 +3578,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"399",
@@ -3587,7 +3587,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"400",
@@ -3596,7 +3596,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"401",
@@ -3605,7 +3605,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"402",
@@ -3614,7 +3614,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"403",
@@ -3623,7 +3623,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"404",
@@ -3632,7 +3632,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"405",
@@ -3641,7 +3641,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"406",
@@ -3650,7 +3650,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"407",
@@ -3659,7 +3659,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"408",
@@ -3668,7 +3668,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"409",
@@ -3677,7 +3677,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"410",
@@ -3686,7 +3686,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"411",
@@ -3695,7 +3695,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"412",
@@ -3704,7 +3704,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"413",
@@ -3713,7 +3713,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"414",
@@ -3722,7 +3722,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"415",
@@ -3731,7 +3731,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"416",
@@ -3740,7 +3740,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"417",
@@ -3749,7 +3749,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"418",
@@ -3758,7 +3758,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"419",
@@ -3767,7 +3767,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"420",
@@ -3776,7 +3776,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"421",
@@ -3785,7 +3785,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"422",
@@ -3794,7 +3794,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"423",
@@ -3803,7 +3803,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"424",
@@ -3812,7 +3812,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"425",
@@ -3821,7 +3821,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"426",
@@ -3830,7 +3830,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"427",
@@ -3839,7 +3839,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"428",
@@ -3848,7 +3848,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"429",
@@ -3857,7 +3857,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"430",
@@ -3866,7 +3866,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"431",
@@ -3875,7 +3875,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"432",
@@ -3884,7 +3884,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"433",
@@ -3893,7 +3893,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"434",
@@ -3902,7 +3902,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"435",
@@ -3911,7 +3911,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"436",
@@ -3920,7 +3920,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"437",
@@ -3929,7 +3929,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"438",
@@ -3938,7 +3938,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"439",
@@ -3947,7 +3947,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"440",
@@ -3956,7 +3956,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"441",
@@ -3965,7 +3965,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"442",
@@ -3974,7 +3974,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"443",
@@ -3983,7 +3983,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"444",
@@ -3992,7 +3992,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"445",
@@ -4001,7 +4001,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"446",
@@ -4010,7 +4010,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"447",
@@ -4019,7 +4019,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"448",
@@ -4028,7 +4028,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"449",
@@ -4037,7 +4037,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"450",
@@ -4046,7 +4046,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"451",
@@ -4055,7 +4055,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"452",
@@ -4064,7 +4064,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"453",
@@ -4073,7 +4073,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"454",
@@ -4082,7 +4082,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"455",
@@ -4091,7 +4091,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"456",
@@ -4100,7 +4100,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"457",
@@ -4109,7 +4109,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"458",
@@ -4118,7 +4118,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"459",
@@ -4127,7 +4127,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"460",
@@ -4136,7 +4136,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"461",
@@ -4145,7 +4145,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"462",
@@ -4154,7 +4154,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"463",
@@ -4163,7 +4163,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"464",
@@ -4172,7 +4172,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"465",
@@ -4181,7 +4181,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"466",
@@ -4190,7 +4190,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"467",
@@ -4199,7 +4199,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"468",
@@ -4208,7 +4208,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"469",
@@ -4217,7 +4217,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"470",
@@ -4226,7 +4226,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"471",
@@ -4235,7 +4235,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"472",
@@ -4244,7 +4244,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"473",
@@ -4253,7 +4253,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"474",
@@ -4262,7 +4262,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"475",
@@ -4271,7 +4271,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"476",
@@ -4280,7 +4280,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"477",
@@ -4289,7 +4289,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"478",
@@ -4298,7 +4298,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"479",
@@ -4307,7 +4307,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"480",
@@ -4316,7 +4316,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"481",
@@ -4325,7 +4325,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"482",
@@ -4334,7 +4334,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"483",
@@ -4343,7 +4343,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"484",
@@ -4352,7 +4352,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"485",
@@ -4361,7 +4361,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"486",
@@ -4370,7 +4370,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"487",
@@ -4379,7 +4379,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"488",
@@ -4388,7 +4388,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"489",
@@ -4397,7 +4397,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"490",
@@ -4406,7 +4406,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"491",
@@ -4415,7 +4415,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"492",
@@ -4424,7 +4424,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"493",
@@ -4433,7 +4433,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"494",
@@ -4442,7 +4442,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"495",
@@ -4451,7 +4451,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"496",
@@ -4460,7 +4460,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"497",
@@ -4469,7 +4469,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"498",
@@ -4478,7 +4478,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"499",
@@ -4487,7 +4487,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"500",
@@ -4496,7 +4496,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"501",
@@ -4505,7 +4505,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"502",
@@ -4514,7 +4514,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"503",
@@ -4523,7 +4523,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"504",
@@ -4532,7 +4532,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"505",
@@ -4541,7 +4541,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"506",
@@ -4550,7 +4550,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"507",
@@ -4559,7 +4559,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"508",
@@ -4568,7 +4568,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"509",
@@ -4577,7 +4577,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"510",
@@ -4586,7 +4586,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"511",
@@ -4595,7 +4595,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"512",
@@ -4604,7 +4604,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"513",
@@ -4613,7 +4613,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"514",
@@ -4622,7 +4622,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"515",
@@ -4631,7 +4631,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"516",
@@ -4640,7 +4640,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"517",
@@ -4649,7 +4649,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"518",
@@ -4658,7 +4658,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"519",
@@ -4667,7 +4667,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"520",
@@ -4676,7 +4676,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"521",
@@ -4685,7 +4685,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"522",
@@ -4694,7 +4694,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"523",
@@ -4703,7 +4703,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"524",
@@ -4712,7 +4712,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"525",
@@ -4721,7 +4721,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"526",
@@ -4730,7 +4730,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"527",
@@ -4739,7 +4739,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"528",
@@ -4748,7 +4748,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"529",
@@ -4757,7 +4757,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"530",
@@ -4766,7 +4766,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"531",
@@ -4775,7 +4775,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"532",
@@ -4784,7 +4784,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"533",
@@ -4793,7 +4793,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"534",
@@ -4802,7 +4802,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"535",
@@ -4811,7 +4811,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"536",
@@ -4820,7 +4820,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"537",
@@ -4829,7 +4829,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"538",
@@ -4838,7 +4838,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"539",
@@ -4847,7 +4847,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"540",
@@ -4856,7 +4856,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"541",
@@ -4865,7 +4865,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"542",
@@ -4874,7 +4874,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"543",
@@ -4883,7 +4883,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"544",
@@ -4892,7 +4892,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"545",
@@ -4901,7 +4901,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"546",
@@ -4910,7 +4910,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"547",
@@ -4919,7 +4919,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"548",
@@ -4928,7 +4928,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"549",
@@ -4937,7 +4937,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"550",
@@ -4946,7 +4946,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"551",
@@ -4955,7 +4955,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"552",
@@ -4964,7 +4964,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"553",
@@ -4973,7 +4973,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"554",
@@ -4982,7 +4982,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"555",
@@ -4991,7 +4991,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"556",
@@ -5000,7 +5000,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"557",
@@ -5009,7 +5009,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"558",
@@ -5018,7 +5018,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"559",
@@ -5027,7 +5027,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"560",
@@ -5036,7 +5036,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"561",
@@ -5045,7 +5045,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"562",
@@ -5054,7 +5054,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"563",
@@ -5063,7 +5063,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"564",
@@ -5072,7 +5072,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"565",
@@ -5081,7 +5081,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"566",
@@ -5090,7 +5090,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"567",
@@ -5099,7 +5099,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"568",
@@ -5108,7 +5108,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"569",
@@ -5117,7 +5117,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"570",
@@ -5126,7 +5126,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"571",
@@ -5135,7 +5135,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"572",
@@ -5144,7 +5144,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"573",
@@ -5153,7 +5153,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"574",
@@ -5162,7 +5162,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"575",
@@ -5171,7 +5171,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"576",
@@ -5180,7 +5180,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"577",
@@ -5189,7 +5189,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"578",
@@ -5198,7 +5198,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"579",
@@ -5207,7 +5207,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"580",
@@ -5216,7 +5216,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"581",
@@ -5225,7 +5225,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"582",
@@ -5234,7 +5234,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"583",
@@ -5243,7 +5243,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"584",
@@ -5252,7 +5252,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"585",
@@ -5261,7 +5261,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"586",
@@ -5270,7 +5270,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"587",
@@ -5279,7 +5279,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"588",
@@ -5288,7 +5288,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"589",
@@ -5297,7 +5297,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"590",
@@ -5306,7 +5306,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"591",
@@ -5315,7 +5315,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"592",
@@ -5324,7 +5324,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"593",
@@ -5333,7 +5333,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"594",
@@ -5342,7 +5342,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"595",
@@ -5351,7 +5351,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"596",
@@ -5360,7 +5360,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"597",
@@ -5369,7 +5369,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"598",
@@ -5378,7 +5378,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"599",
@@ -5387,7 +5387,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"600",
@@ -5396,7 +5396,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"601",
@@ -5405,7 +5405,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"602",
@@ -5414,7 +5414,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"603",
@@ -5423,7 +5423,7 @@
 	#Year:"2015",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"604",
@@ -5432,7 +5432,7 @@
 	#Year:"2015",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"605",
@@ -5441,7 +5441,7 @@
 	#Year:"2016",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"606",
@@ -5450,7 +5450,7 @@
 	#Year:"2016",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"607",
@@ -5459,7 +5459,7 @@
 	#Year:"2017",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"608",
@@ -5468,7 +5468,7 @@
 	#Year:"2017",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"609",
@@ -5477,7 +5477,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"610",
@@ -5486,7 +5486,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"611",
@@ -5495,7 +5495,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"612",
@@ -5504,7 +5504,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"613",
@@ -5513,7 +5513,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"614",
@@ -5522,7 +5522,7 @@
 	#Year:"2018",
 	#Month:"m",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"615",
@@ -5531,7 +5531,7 @@
 	#Year:"2019",
 	#Month:"m",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"616",
@@ -5540,7 +5540,7 @@
 	#Year:"2019",
 	#Month:"m",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"617",
@@ -5549,7 +5549,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"618",
@@ -5558,7 +5558,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"619",
@@ -5567,7 +5567,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"620",
@@ -5576,7 +5576,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"621",
@@ -5585,7 +5585,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"622",
@@ -5594,7 +5594,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"623",
@@ -5603,7 +5603,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"624",
@@ -5612,7 +5612,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"625",
@@ -5621,7 +5621,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"626",
@@ -5630,7 +5630,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"627",
@@ -5639,7 +5639,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"628",
@@ -5648,7 +5648,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"629",
@@ -5657,7 +5657,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"630",
@@ -5666,7 +5666,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"631",
@@ -5675,7 +5675,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"632",
@@ -5684,7 +5684,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"633",
@@ -5693,7 +5693,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"634",
@@ -5702,7 +5702,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"635",
@@ -5711,7 +5711,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"636",
@@ -5720,7 +5720,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"637",
@@ -5729,7 +5729,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"638",
@@ -5738,7 +5738,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"639",
@@ -5747,7 +5747,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"640",
@@ -5756,7 +5756,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"641",
@@ -5765,7 +5765,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"642",
@@ -5774,7 +5774,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"643",
@@ -5783,7 +5783,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"644",
@@ -5792,7 +5792,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"645",
@@ -5801,7 +5801,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"646",
@@ -5810,7 +5810,7 @@
 	#Year:"2008",
 	#Month:"S",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"647",
@@ -5819,7 +5819,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"648",
@@ -5828,7 +5828,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"649",
@@ -5837,7 +5837,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"650",
@@ -5846,7 +5846,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"651",
@@ -5855,7 +5855,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"652",
@@ -5864,7 +5864,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"653",
@@ -5873,7 +5873,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"654",
@@ -5882,7 +5882,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"655",
@@ -5891,7 +5891,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"656",
@@ -5900,7 +5900,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"657",
@@ -5909,7 +5909,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"658",
@@ -5918,7 +5918,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"659",
@@ -5927,7 +5927,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"660",
@@ -5936,7 +5936,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"661",
@@ -5945,7 +5945,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"662",
@@ -5954,7 +5954,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"663",
@@ -5963,7 +5963,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"664",
@@ -5972,7 +5972,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"665",
@@ -5981,7 +5981,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"666",
@@ -5990,7 +5990,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"667",
@@ -5999,7 +5999,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"668",
@@ -6008,7 +6008,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"669",
@@ -6017,7 +6017,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"670",
@@ -6026,7 +6026,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"671",
@@ -6035,7 +6035,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"672",
@@ -6044,7 +6044,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"673",
@@ -6053,7 +6053,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"674",
@@ -6062,7 +6062,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"675",
@@ -6071,7 +6071,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"676",
@@ -6080,7 +6080,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"677",
@@ -6089,7 +6089,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"678",
@@ -6098,7 +6098,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"679",
@@ -6107,7 +6107,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"680",
@@ -6116,7 +6116,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"681",
@@ -6125,7 +6125,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"682",
@@ -6134,7 +6134,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"683",
@@ -6143,7 +6143,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"684",
@@ -6152,7 +6152,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"685",
@@ -6161,7 +6161,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"686",
@@ -6170,7 +6170,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"687",
@@ -6179,7 +6179,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"688",
@@ -6188,7 +6188,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"689",
@@ -6197,7 +6197,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"690",
@@ -6206,7 +6206,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"691",
@@ -6215,7 +6215,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"692",
@@ -6224,7 +6224,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"693",
@@ -6233,7 +6233,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"694",
@@ -6242,7 +6242,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"695",
@@ -6251,7 +6251,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"696",
@@ -6260,7 +6260,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"697",
@@ -6269,7 +6269,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"698",
@@ -6278,7 +6278,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"699",
@@ -6287,7 +6287,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"700",
@@ -6296,7 +6296,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"701",
@@ -6305,7 +6305,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"702",
@@ -6314,7 +6314,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"703",
@@ -6323,7 +6323,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"704",
@@ -6332,7 +6332,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"705",
@@ -6341,7 +6341,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"706",
@@ -6350,7 +6350,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"707",
@@ -6359,7 +6359,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"708",
@@ -6368,7 +6368,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"709",
@@ -6377,7 +6377,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"710",
@@ -6386,7 +6386,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"711",
@@ -6395,7 +6395,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"712",
@@ -6404,7 +6404,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"713",
@@ -6413,7 +6413,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"714",
@@ -6422,7 +6422,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"715",
@@ -6431,7 +6431,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"716",
@@ -6440,7 +6440,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"717",
@@ -6449,7 +6449,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"718",
@@ -6458,7 +6458,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"719",
@@ -6467,7 +6467,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"720",
@@ -6476,7 +6476,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"721",
@@ -6485,7 +6485,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"722",
@@ -6494,7 +6494,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"723",
@@ -6503,7 +6503,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"724",
@@ -6512,7 +6512,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"725",
@@ -6521,7 +6521,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"726",
@@ -6530,7 +6530,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"727",
@@ -6539,7 +6539,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"728",
@@ -6548,7 +6548,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"729",
@@ -6557,7 +6557,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"730",
@@ -6566,7 +6566,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"731",
@@ -6575,7 +6575,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"732",
@@ -6584,7 +6584,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"733",
@@ -6593,7 +6593,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"734",
@@ -6602,7 +6602,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"735",
@@ -6611,7 +6611,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"736",
@@ -6620,7 +6620,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"737",
@@ -6629,7 +6629,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"738",
@@ -6638,7 +6638,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"739",
@@ -6647,7 +6647,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"740",
@@ -6656,7 +6656,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"741",
@@ -6665,7 +6665,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"742",
@@ -6674,7 +6674,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"743",
@@ -6683,7 +6683,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"744",
@@ -6692,7 +6692,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"745",
@@ -6701,7 +6701,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"746",
@@ -6710,7 +6710,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"747",
@@ -6719,7 +6719,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"748",
@@ -6728,7 +6728,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"749",
@@ -6737,7 +6737,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"750",
@@ -6746,7 +6746,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"751",
@@ -6755,7 +6755,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"752",
@@ -6764,7 +6764,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"753",
@@ -6773,7 +6773,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"754",
@@ -6782,7 +6782,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"755",
@@ -6791,7 +6791,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"756",
@@ -6800,7 +6800,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"757",
@@ -6809,7 +6809,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"758",
@@ -6818,7 +6818,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"759",
@@ -6827,7 +6827,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"760",
@@ -6836,7 +6836,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"761",
@@ -6845,7 +6845,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"762",
@@ -6854,7 +6854,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"763",
@@ -6863,7 +6863,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"764",
@@ -6872,7 +6872,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"765",
@@ -6881,7 +6881,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"766",
@@ -6890,7 +6890,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"767",
@@ -6899,7 +6899,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"768",
@@ -6908,7 +6908,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"769",
@@ -6917,7 +6917,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"770",
@@ -6926,7 +6926,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"771",
@@ -6935,7 +6935,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"772",
@@ -6944,7 +6944,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"773",
@@ -6953,7 +6953,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"774",
@@ -6962,7 +6962,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"775",
@@ -6971,7 +6971,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"776",
@@ -6980,7 +6980,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"777",
@@ -6989,7 +6989,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"778",
@@ -6998,7 +6998,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"779",
@@ -7007,7 +7007,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"780",
@@ -7016,7 +7016,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"781",
@@ -7025,7 +7025,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"782",
@@ -7034,7 +7034,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"783",
@@ -7043,7 +7043,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"784",
@@ -7052,7 +7052,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"785",
@@ -7061,7 +7061,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"786",
@@ -7070,7 +7070,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"787",
@@ -7079,7 +7079,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"788",
@@ -7088,7 +7088,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"789",
@@ -7097,7 +7097,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"790",
@@ -7106,7 +7106,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"791",
@@ -7115,7 +7115,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"792",
@@ -7124,7 +7124,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"793",
@@ -7133,7 +7133,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"794",
@@ -7142,7 +7142,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"795",
@@ -7151,7 +7151,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"796",
@@ -7160,7 +7160,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"797",
@@ -7169,7 +7169,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"798",
@@ -7178,7 +7178,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"799",
@@ -7187,7 +7187,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"800",
@@ -7196,7 +7196,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"801",
@@ -7205,7 +7205,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"802",
@@ -7214,7 +7214,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"803",
@@ -7223,7 +7223,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"804",
@@ -7232,7 +7232,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"805",
@@ -7241,7 +7241,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"806",
@@ -7250,7 +7250,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"807",
@@ -7259,7 +7259,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"808",
@@ -7268,7 +7268,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"809",
@@ -7277,7 +7277,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"810",
@@ -7286,7 +7286,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"811",
@@ -7295,7 +7295,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"812",
@@ -7304,7 +7304,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"813",
@@ -7313,7 +7313,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"814",
@@ -7322,7 +7322,7 @@
 	#Year:"2003",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"815",
@@ -7331,7 +7331,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"816",
@@ -7340,7 +7340,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"817",
@@ -7349,7 +7349,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"818",
@@ -7358,7 +7358,7 @@
 	#Year:"2004",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"819",
@@ -7367,7 +7367,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"820",
@@ -7376,7 +7376,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"821",
@@ -7385,7 +7385,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"822",
@@ -7394,7 +7394,7 @@
 	#Year:"2005",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"823",
@@ -7403,7 +7403,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"824",
@@ -7412,7 +7412,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"825",
@@ -7421,7 +7421,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"826",
@@ -7430,7 +7430,7 @@
 	#Year:"2006",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"827",
@@ -7439,7 +7439,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"828",
@@ -7448,7 +7448,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"829",
@@ -7457,7 +7457,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"830",
@@ -7466,7 +7466,7 @@
 	#Year:"2007",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"831",
@@ -7475,7 +7475,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"832",
@@ -7484,7 +7484,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"833",
@@ -7493,7 +7493,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"834",
@@ -7502,7 +7502,7 @@
 	#Year:"2008",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"835",
@@ -7511,7 +7511,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"836",
@@ -7520,7 +7520,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"837",
@@ -7529,7 +7529,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"838",
@@ -7538,7 +7538,7 @@
 	#Year:"2009",
 	#Month:"s",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"839",
@@ -7547,7 +7547,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"840",
@@ -7556,7 +7556,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"841",
@@ -7565,7 +7565,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"842",
@@ -7574,7 +7574,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"843",
@@ -7583,7 +7583,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"844",
@@ -7592,7 +7592,7 @@
 	#Year:"2010",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"845",
@@ -7601,7 +7601,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"846",
@@ -7610,7 +7610,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"847",
@@ -7619,7 +7619,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"848",
@@ -7628,7 +7628,7 @@
 	#Year:"2011",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"849",
@@ -7637,7 +7637,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"850",
@@ -7646,7 +7646,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"851",
@@ -7655,7 +7655,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"852",
@@ -7664,7 +7664,7 @@
 	#Year:"2012",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"853",
@@ -7673,7 +7673,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"854",
@@ -7682,7 +7682,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"855",
@@ -7691,7 +7691,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"856",
@@ -7700,7 +7700,7 @@
 	#Year:"2013",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"857",
@@ -7709,7 +7709,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"858",
@@ -7718,7 +7718,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"859",
@@ -7727,7 +7727,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"860",
@@ -7736,7 +7736,7 @@
 	#Year:"2014",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"861",
@@ -7745,7 +7745,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"862",
@@ -7754,7 +7754,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"863",
@@ -7763,7 +7763,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"864",
@@ -7772,7 +7772,7 @@
 	#Year:"2015",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"865",
@@ -7781,7 +7781,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"866",
@@ -7790,7 +7790,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"867",
@@ -7799,7 +7799,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"868",
@@ -7808,7 +7808,7 @@
 	#Year:"2016",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"869",
@@ -7817,7 +7817,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"870",
@@ -7826,7 +7826,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"871",
@@ -7835,7 +7835,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"872",
@@ -7844,7 +7844,7 @@
 	#Year:"2017",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"873",
@@ -7853,7 +7853,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"874",
@@ -7862,7 +7862,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"875",
@@ -7871,7 +7871,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"876",
@@ -7880,7 +7880,7 @@
 	#Year:"2018",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"877",
@@ -7889,7 +7889,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"878",
@@ -7898,7 +7898,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"879",
@@ -7907,7 +7907,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"880",
@@ -7916,7 +7916,7 @@
 	#Year:"2019",
 	#Month:"s",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"881",
@@ -7925,7 +7925,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"882",
@@ -7934,7 +7934,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"883",
@@ -7943,7 +7943,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"884",
@@ -7952,7 +7952,7 @@
 	#Year:"2002",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"885",
@@ -7961,7 +7961,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"886",
@@ -7970,7 +7970,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"887",
@@ -7979,7 +7979,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"888",
@@ -7988,7 +7988,7 @@
 	#Year:"2003",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"889",
@@ -7997,7 +7997,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"890",
@@ -8006,7 +8006,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"891",
@@ -8015,7 +8015,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"892",
@@ -8024,7 +8024,7 @@
 	#Year:"2004",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"893",
@@ -8033,7 +8033,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"894",
@@ -8042,7 +8042,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"895",
@@ -8051,7 +8051,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"896",
@@ -8060,7 +8060,7 @@
 	#Year:"2005",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"897",
@@ -8069,7 +8069,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"898",
@@ -8078,7 +8078,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"899",
@@ -8087,7 +8087,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"900",
@@ -8096,7 +8096,7 @@
 	#Year:"2006",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"901",
@@ -8105,7 +8105,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"902",
@@ -8114,7 +8114,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"903",
@@ -8123,7 +8123,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"904",
@@ -8132,7 +8132,7 @@
 	#Year:"2007",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"905",
@@ -8141,7 +8141,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"906",
@@ -8150,7 +8150,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"907",
@@ -8159,7 +8159,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"908",
@@ -8168,7 +8168,7 @@
 	#Year:"2008",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"909",
@@ -8177,7 +8177,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"None",
+	#Varient:"1",
 }
 {
 	#ID:"910",
@@ -8186,7 +8186,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"None",
+	#Varient:"2",
 }
 {
 	#ID:"911",
@@ -8195,7 +8195,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"912",
@@ -8204,7 +8204,7 @@
 	#Year:"2009",
 	#Month:"w",
 	#Paper_type:"0",
-	#Varient:"None",
+	#Varient:"0",
 }
 {
 	#ID:"913",
@@ -8213,7 +8213,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"914",
@@ -8222,7 +8222,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"915",
@@ -8231,7 +8231,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"3",
+	#Varient:"13",
 }
 {
 	#ID:"916",
@@ -8240,7 +8240,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"917",
@@ -8249,7 +8249,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"918",
@@ -8258,7 +8258,7 @@
 	#Year:"2010",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"3",
+	#Varient:"23",
 }
 {
 	#ID:"919",
@@ -8267,7 +8267,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"920",
@@ -8276,7 +8276,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"921",
@@ -8285,7 +8285,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"922",
@@ -8294,7 +8294,7 @@
 	#Year:"2011",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"923",
@@ -8303,7 +8303,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"924",
@@ -8312,7 +8312,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"925",
@@ -8321,7 +8321,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"926",
@@ -8330,7 +8330,7 @@
 	#Year:"2012",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"927",
@@ -8339,7 +8339,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"928",
@@ -8348,7 +8348,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"929",
@@ -8357,7 +8357,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"930",
@@ -8366,7 +8366,7 @@
 	#Year:"2013",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"931",
@@ -8375,7 +8375,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"932",
@@ -8384,7 +8384,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"933",
@@ -8393,7 +8393,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"934",
@@ -8402,7 +8402,7 @@
 	#Year:"2014",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"935",
@@ -8411,7 +8411,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"936",
@@ -8420,7 +8420,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"937",
@@ -8429,7 +8429,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"938",
@@ -8438,7 +8438,7 @@
 	#Year:"2015",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"939",
@@ -8447,7 +8447,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"940",
@@ -8456,7 +8456,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"941",
@@ -8465,7 +8465,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"942",
@@ -8474,7 +8474,7 @@
 	#Year:"2016",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"943",
@@ -8483,7 +8483,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"944",
@@ -8492,7 +8492,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"945",
@@ -8501,7 +8501,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"946",
@@ -8510,7 +8510,7 @@
 	#Year:"2017",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"947",
@@ -8519,7 +8519,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"948",
@@ -8528,7 +8528,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"949",
@@ -8537,7 +8537,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"950",
@@ -8546,7 +8546,7 @@
 	#Year:"2018",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
 {
 	#ID:"951",
@@ -8555,7 +8555,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"1",
+	#Varient:"11",
 }
 {
 	#ID:"952",
@@ -8564,7 +8564,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"1",
-	#Varient:"2",
+	#Varient:"12",
 }
 {
 	#ID:"953",
@@ -8573,7 +8573,7 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"1",
+	#Varient:"21",
 }
 {
 	#ID:"954",
@@ -8582,5 +8582,5 @@
 	#Year:"2019",
 	#Month:"w",
 	#Paper_type:"2",
-	#Varient:"2",
+	#Varient:"22",
 }
