@@ -1,0 +1,644 @@
+<#
+[1.1]
+ength and Time LENGTH • A rule (ruler) is used to measure length for distances between 1mm and 1meter. • For even smaller lengths, use a micrometer screw gauge. • SI unit for length is the meter (m) • To find out volume of regular object, use mathematical formula • To find out volume of irregular object, put object into measuring cylinder with water. When object added, it displaces water, making water level rise. Measure this rise. This is the volume. TIME • Interval of time is measured using clocks or a stopwatch • SI unit for time is the second(s) • To find the amount of time it takes a pendulum to make a spin, time ~25 circles and then divide by the same number as the number of circles. 
+#>
+<#
+[1.2]
+otion • Speed is the distance an object moves in a time frame. It is measured in meters/second (m/s) or kilometers/hour (km/h). 
+∴ 𝑺𝒑𝒆𝒆𝒅𝒂𝒗𝒆𝒓𝒂𝒈𝒆 =
+𝑻𝒐𝒕𝒂𝒍 𝑫𝒊𝒔𝒕𝒂𝒏𝒄𝒆 𝑻𝒐𝒕𝒂𝒍 𝑻𝒊𝒎𝒆
+ • Speed is a scalar quantity as it only shows magnitude. • Speed in a specified direction is velocity, which is a vector SPEED TIME GRAPHS 
+ 
+• Area under the line equals to the distance travelled  • 𝐺𝑟𝑎𝑑𝑖𝑒𝑛𝑡 = 𝑦2−𝑦1 𝑥2−𝑥1 = ∆𝑣 𝑡 = Acceleration (m/s)2 • Positive acceleration means the velocity of a body is increasing • Deceleration or negative acceleration means the velocity of a body is decreasing • A curved speed time graph means changing acceleration. • Acceleration is the rate of change in velocity per unit of time, and a vector as it’s direction is specified 
+                                                          
+ 1 Average Speed * Time  
+DISTANCE TIME GRAPHS 
+ 
+• 𝑮𝒓𝒂𝒅𝒊𝒆𝒏𝒕 = 𝒚𝟐−𝒚𝟏 𝒙𝟐−𝒙𝟏
+=
+∆𝑑 𝑡
+= Speed (m/s) 
+• Therefore, distance: o With constant speed: 𝑆𝑝𝑒𝑒𝑑 × 𝑇𝑖𝑚𝑒 o With constant acceleration1: 𝐹𝑖𝑛𝑎𝑙 𝑆𝑝𝑒𝑒𝑑+𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑆𝑝𝑒𝑒𝑑 2
+×
+𝑇𝑖𝑚𝑒 ACCELERATION BY GRAVITY • An object in free-fall near to the Earth has a constant acceleration caused by gravity due to the Earth’s uniform gravitational field • Objects are slowed down by air resistance. When deceleration caused by air resistance = acceleration by gravity, i.e. no net force acting on a body in free fall, the body reached terminal velocity 
+#>
+<#
+[1.3]
+ass and Weight • Mass: A measure of matter in a body and the body’s resistance to motion. • Weight is the force of gravity on a body as a result of its mass. 
+𝑾𝒆𝒊𝒈𝒉𝒕 = 𝑴𝒂𝒔𝒔 × 𝑮𝒓𝒂𝒗𝒊𝒕𝒚 • Weights (and hence masses) may be compared using a balance 
+#>
+<#
+[1.4]
+ensity   
+𝑫𝒆𝒏𝒔𝒊𝒕𝒚 (𝝆) =
+𝑴𝒂𝒔𝒔 (𝒎) 𝑽𝒐𝒍𝒖𝒎𝒆 (𝑽)
+ • Density of a liquid: Place measuring cylinder on balance. Add liquid. Reading on measuring cylinder = V, change in mass on balance = m. Use formula. • Density of solid: o Finding the volume: To find out volume of a regular object, use mathematical formula. To find out volume of an irregular object, put object into a measuring cylinder with water and the rise of water is the volume of the object. o Finding the mass: Use balance • An object will float in a fluid if it’s density is lesser than the density of the liquid, i.e. The volume of fluid displaced has a greater mass than the object itself. 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 3 OF 21 
+• Example: an orange with its peel has a density of 0.84g/cm3, we can predict that it will float in water because it is less than 1 g/cm3 (density of water). We can also #>say, that an orange without its peel, which has a density of 
+<#
+[1.1]
+#>/cm3, will sink because it is greater than 1g/cm
+<#
+[3. ]
+
+#>
+<#
+[1.5]
+orces • Force is measured in Newtons 𝑭𝒐𝒓𝒄𝒆 = 𝑴𝒂𝒔𝒔 × 𝑨𝒄𝒄𝒆𝒍𝒆𝒓𝒂𝒕𝒊𝒐𝒏 • 1 Newton is the amount of force needed to give 1kg an acceleration of 1m/s2 • A force may produce a change in size and shape of a body, give an acceleration or deceleration or a change in direction depending on the direction of the force. • The resultant of forces acting in the same dimension will be their sum, provided a convention for directions is set. Therefore, the resultant of 2 forces acting in the same dimension, in the opposite direction will be the difference in their magnitude in the direction of the greatest. • If there is no resultant force acting on a body, it either remains at rest or continues at constant speed in a straight line RESISTIVE FORCES • Friction: the force between two surfaces which impedes motion and results in heating • Air resistance is a form of friction NEWTON’S LAWS OF MOTION • First law of motion: If no external for is acting on it, an object will, if stationary, remain stationary, and if moving, keep moving at a steady speed in the same straight line • Second law of motion: 𝑭 = 𝒎𝒂 • Third law of motion: if object A exerts a force on object B, then object B will exert an equal but opposite force on object A HOOKE’S LAW • Springs extend in proportion to load, as long as they are under their proportional limit. • Limit of proportionality: point at which load and extension are no longer proportional 
+• Elastic limit: point at which the spring will not return to its original shape after being stretched 
+𝐿𝑜𝑎𝑑(𝐼𝑛 𝑁𝑒𝑤𝑡𝑜𝑛𝑠) = 𝑆𝑝𝑟𝑖𝑛𝑔 𝐶𝑜𝑛𝑠𝑡𝑎𝑛𝑡 × 𝑒𝑥𝑡𝑒𝑛𝑠𝑖𝑜𝑛 𝑭 = 𝒌𝒙 
+ 
+CIRCULAR MOTION • An object at steady speed in circular orbit is always accelerating as its direction is changing, but it gets no closer to the center. The speed of the ball stays constant. • Centripetal force is the force acting towards the center of a circle. It is a force that is needed, not caused, by circular motion,  • For example, when you swing a ball on a string round in a circle, the tension of the string is the centripetal force. If the string is cut then the ball will travel in a straight line at a tangent to the circle at the point where the string was cut. • Centrifugal force is the force acting away from the center of a circle. This is what makes a slingshot go outwards as you spin it. The centrifugal force is the reaction to the centripetal force. It has the same magnitude but opposite direction to #>centripetal force. 
+<#
+[1.6]
+oments • A moment is the measure of the turning effect on a body and is defined as: 𝑴𝒐𝒎𝒆𝒏𝒕(𝑵𝒎) = 𝑭𝒐𝒓𝒄𝒆(𝑵) × 𝑷𝒆𝒓𝒑𝒆𝒏𝒅𝒊𝒄𝒖𝒍𝒂𝒓 𝒅𝒊𝒔𝒕𝒂𝒏𝒄𝒆 𝒇𝒓𝒐𝒎 𝑷𝒊𝒗𝒐𝒕(𝒎) • Therefore, increasing force or distance from the pivot increases the moment of a force • This explains why levers are force magnifiers  o Turning a bolt is far easier with a wrench because the perpendicular distance from pivot is massively increased, and so is the turning effect. • In equilibrium, clockwise moment = anticlockwise moment there is no resultant force acting on the body.  o This can be proven by hanging masses of the same weight on opposite sides of a meter rule on a pivot at equal distances from the pivot showing that the meter rule in stationary. 
+#>
+<#
+[1.7]
+entre of Mass • Centre of mass: imaginary point in a body where total mass of body seems to be acting. • An object will be in stable equilibrium when it returns to its original position given a small displacement. 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 4 OF 21 
+• For an object that is displaced, it will stabilize only if the force caused by it’s weight is within it’s base. 
+ 
+ 
+• For an object to start rotating it needs to have an unbalanced moment acting on it 
+#>
+<#
+[1.8]
+calars and Vectors • A scalar is a quantity that only has a magnitude (so it can only be positive) for example speed.  • A vector quantity has a direction as well as a magnitude, for example velocity, which can be negative. • Calculating resultant force: 
+ 
+ 
+o A parallelogram has to be made with the acting forces (F1 and F2). The resultant force will be the diagonal. Make sure the same scale is used to convert between length and forces. Measure length of diagonal and use scale to convert value into force (FR). 
+ 
+#>
+<#
+[1.9]
+omentum • Momentum: product of mass and velocity 𝒑 = 𝒎𝒗 • Principle of conservation of linear momentum: when bodies in a system interact, total momentum remains constant provided no external force acts on the system. 𝒎𝑨𝒖𝑨 + 𝒎𝑩𝒖𝑩 = 𝒎𝑨𝒗𝑨 + 𝒎𝑩𝒗𝑩 • Impulse: product of force and time for which it acts 𝑭𝒕 = 𝒎𝒗 – 𝒎𝒖 
+#>
+<#
+[1.10]
+Energy • Energy: amount of work and its measured in Joules (J) • An object may have energy due to its motion or its position 
+• Conservation of energy: energy cannot be created or destroyed, when work is done, energy is changed from one form to another. • Energy can be stored ENERGY TYPE WHAT IT IS  EXAMPLE KINETIC Due to motion Car moving GRAVITATIONAL  From potential to fall Book on shelf 
+CHEMICAL In chemical bonds 
+Bonds in starch (food) 
+STRAIN Compress/stretch 
+Stretched elastic band 
+NUCLEAR 
+Atoms rearranged/split 
+Released in nuclear plant 
+INTERNAL Motion of molecules 
+In a glass of water ELECTRICAL Carried by electrons Battery to bulb LIGHT Carried in light waves From sun 
+SOUND 
+Carried in sound waves 
+From speaker 
+𝐾𝑖𝑛𝑒𝑡𝑖𝑐 𝑒𝑛𝑒𝑟𝑔𝑦 = 1 2 ⁄ × 𝑀𝑎𝑠𝑠 × 𝑉𝑒𝑙𝑜𝑐𝑖𝑡𝑦2 𝑲.𝑬.= 𝟏 𝟐 ⁄ 𝒎𝒗𝟐 𝐺𝑟𝑎𝑣𝑖𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑃𝑜𝑡𝑒𝑛𝑡𝑖𝑎𝑙 𝐸𝑛𝑒𝑟𝑔𝑦 = 𝑀𝑎𝑠𝑠 × 𝐺𝑟𝑎𝑣𝑖𝑡𝑦 × 𝐻𝑒𝑖𝑔ℎ𝑡 𝑮.𝑷.𝑬.= 𝒎𝒈𝒉 • Example of conversion of energy: A book on a shelf has g.p.e , if it falls of the shelf it will have k.e • Due to the processes through which energy transfers take place not being 100% efficient, energy is lost to the surrounding and therefore energy gets more spread out (dissipated) • Efficiency: how much useful work is done with energy supplied 
+𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚 =
+𝑼𝒔𝒆𝒇𝒖𝒍 𝒆𝒏𝒆𝒓𝒈𝒚 𝒐𝒖𝒕𝒑𝒖𝒕 𝑬𝒏𝒆𝒓𝒈𝒚 𝒊𝒏𝒑𝒖𝒕
+× 𝟏𝟎𝟎% 
+𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚 =
+𝑼𝒔𝒆𝒇𝒖𝒍 𝒑𝒐𝒘𝒆𝒓 𝒐𝒖𝒕𝒑𝒖𝒕 𝑷𝒐𝒘𝒆𝒓 𝒊𝒏𝒑𝒖𝒕
+× 𝟏𝟎𝟎% 
+  
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 5 OF 21 
+#>
+<#
+[1.11]
+nergy Resources • Renewable sources are not exhaustible • Non-renewable sources of energy are exhaustible TYPE ADVANTAGES DISADVANTAGES Fuel: burnt to make thermal energy, makes steam, turns turbine • Cheap • Plentiful • Low-tech • Harmful wastes: o Greenhouse/ pollutant gas o Radiation Wave energy: generators driven by up and down motion of waves at sea. • No greenhouse gases produced • Difficult to build Tidal energy: dam built where river meets sea, lake fills when tides comes in & empties when tide goes out; water flow runs generator • No greenhouse gases produced • Expensive • Can’t be built everywhere Hydroelectric: river & rain fill up lake behind dam, water released, turns turbine  generator • Low impact on environment • Energy produced at constant rate • Few areas of the world suitable Geothermal: water pumped down to hot rocks rising as steam • No CO2 produced • Deep drilling difficult and expensive Nuclear fission: uranium atoms split by shooting neutrons at them • Produces a lot of energy with very little resources • Produces radioactive waste 
+ 
+ 
+Wind: Windmills are moved by the breeze. They generate electricity from kinetic energy. 
+• NO CO2/ GREENHOUSE GASSES PRODUCED 
+• FEW AREAS OF THE WORLD SUITABLE. 
+Solar cells/ photovoltaic cells: made of materials that deliver electrical current when it absorbs light  
+• No CO2 produced 
+• Variable amount of sunshine in some countries 
+Solar panels: absorbs energy and use it to heat water • The sun is the source of energy for all our energy resources except geothermal, nuclear and tidal • In the sun, #>energy is created through a process called nuclear fusion: hydrogen nuclei are pushed together to form helium. 
+<#
+[1.12]
+Work and Power • Work is done whenever a force makes something move.  𝑊 = ∆𝐸 • The unit for work is the Joule (J).  • 1 joule of work = force of 1 Newton moves an object by 1 meter  
+𝑾𝒐𝒓𝒌 𝒅𝒐𝒏𝒆 (𝑱) =  𝑭𝒐𝒓𝒄𝒆 (𝑵) × 𝑫𝒊𝒔𝒕𝒂𝒏𝒄𝒆 (𝒎) 𝑾 = 𝑭𝑫 • Power is the rate of work • The unit for power is Watts (W) • 1W = 1J/s 
+𝑷𝒐𝒘𝒆𝒓 (𝑾) =
+𝑾𝒐𝒓𝒌 𝑫𝒐𝒏𝒆 (𝑱) 𝑻𝒊𝒎𝒆 𝑻𝒂𝒌𝒆𝒏 (𝒔)
+ 
+#>
+<#
+[1.13]
+Pressure • Pressure is the force per unit area. 
+𝑷𝒓𝒆𝒔𝒔𝒖𝒓𝒆 (𝑷𝒂) =
+𝑭𝒐𝒓𝒄𝒆 (𝑵) 𝑨𝒓𝒆𝒂 (𝒎𝟐)
+ 
+𝑷 =
+𝑭 𝑨
+ 
+• Unit: Pascals (Pa) = N/m2 • In Liquids 𝑷𝒓𝒆𝒔𝒔𝒖𝒓𝒆(𝑷𝒂) = 𝑫𝒆𝒏𝒔𝒊𝒕𝒚(𝒌𝒈/𝒎𝟑)× 𝑮𝒓𝒂𝒗𝒊𝒕𝒚(𝒎/𝒔𝟐) × 𝑯𝒆𝒊𝒈𝒉𝒕(𝒎) 𝑷 = 𝒉𝝆𝒈 • Therefore, as the depth of a fluid increases, the pressure caused by the whole liquid increases.   
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 6 OF 21 
+• Measuring Pressure: MANOMETER 
+ 
+BAROMETER 
+ 
+• A manometer measures the pressure difference.  • The height difference shows the excess pressure in addition to the atmospheric pressure. 
+• Tube with vacuum at the top and mercury filling the rest.  • Pressure of the air pushes down on reservoir, forcing mercury up the tube.  • Measure height of mercury • ~760 mm of mercury is 1 atm. 
+
+#>
+<#
+[2.1]
+ Simple Kinetic Molecular Model of Matter 
+ 
+ 
+SOLID LIQUID GAS • Fixed shape and volume • Strong forces of attraction between particles- particles close to each other. • Fixed pattern (lattice)  • Atoms vibrate but can’t change position ∴ fixed volume and shape • Fixed volume but changes shape depending on its container • Weaker attractive forces than solids- medium distances between particels • No fixed pattern, liquids take shape of their container • Particles slide past each other. • No fixed shape or volume, gases fill up containers • Almost no intermolecular forces- large distances between particles • Particles far apart, and move quickly • Collide with each other and bounce in all directions • The more the kinetic energy in a gas, the faster it’s particles move and therefore the gas is at a higher temperature. • The pressure gases exert on a container is due to the particles colliding on the container walls. • The greater the kinetic energy in gasses the faster they move and the more often they collide on the container’s walls. • Therefore, the volume is constant, then increasing the temperature will increase the pressure. • Thus, if there is a change in momentum of the particles, the kinetic energy decreases, decreasing the collisions on the container walls and thus the pressure. BROWNIAN MOTION • Gas molecules move randomly. This is because of repeated random collisions with other gas molecules, which constantly change the direction they move in.  
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 7 OF 21 
+• Small molecules move much faster and have higher energy than larger molecules. They can effectively move large molecules due to repeated random bombardment- this can #>be seen by larger smoke particles moving. • Therefore, the random motion of particles in a suspension is evidence for the kinetic molecular model of matter. 
+<#
+[2.2]
+ Evaporation • It is the escape of more energetic particles from the surface of a liquid. • If more energetic particles escape, the liquid contains few high energy particles and more low energy particles so the average temperature decreases. 
+ 
+• In the above graph, the number of particles with higher kinetic energies has gone down.’ • Therefore a body in contact with an evaporating liquid with subsequently cool. • Evaporation can be accelerated by: o Increasing temperature: more particles have energy to escape o Increasing surface area: more molecules are close to the #>surface o Reduce humidity level in air (draught): if the air is less humid, fewer particles are condensing. 
+<#
+[2.3]
+ Pressure Changes in Gases • Pressure is inversely proportional to the volume given a constant temperature. • If the volume increases and the temperature stays constant, the particles hit the surface less often, thus decreasing the pressure.  𝑷𝟏𝑽𝟏 = 𝑷𝟐𝑽𝟐 
+𝑷𝑽 = 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕 • The constant is valid at a fixed mass of gas at a constant temperature. 
+#>• As the temperature increases of a fixed mass of gas, the pressure increases as the average kinetic energy increases… EXPLAINED IN DETAIL IN 
+<#
+[2.1]
+
+#>
+<#
+[2.4]
+ Thermal properties and temperature • Solids, liquids and gasses expand when they are heated as atoms vibrate more and this causes them to become further apart, taking up a greater volume. • Due to differences in molecular structure of the different states of matter, expansion is greatest in gases, less so in liquids and lowest in solids • Applications and consequences of thermal expansion: o Overhead cables have to be slack so that on cold days, when they contract, they don’t snap or detach. o Gaps have to be left in bridge to allow for expansion  o Bimetal thermostat: when temperature gets too high, bimetal strip bends, to make contacts separate until temperature falls enough, then metal strip will become straight again and contacts touch, to maintain a steady temperature 
+ 
+• Temperature can be measured by observing a physical property that changes with temperature. Examples include alcohol and mercury - used in thermometers. • Fixed points are definite temperatures at which something happens and are used to calibrate a thermometer. For example, melting and boiling point of water • Sensitivity: Change in length or volume per degree • Range: The values which can be measured using the thermometer • Linearity: Uniform changes in the physical property with a change in temperature over the measured temperature values. • Responsiveness: How long it takes for the thermometer to react to a change in temperature • Calibrating a thermometer: o Place thermometer in melting ice, this is 0 °C. o Place thermometer in boiling water, this is 100 °C. 
+ 
+ 
+  
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 8 OF 21 
+• Liquid-in-glass thermometer: 
+ 
+o As temperature rises or falls, the liquid (mercury or alcohol) expands or contracts.  o Amount of expansion can be matched to temperature on a scale. o To increase sensitivity: ▪ Thinner capillary ▪ Less dense liquid ▪ Bigger bulb o Depending on the melting and boiling point of the liquid being used, the range is defined. o The linearity depends on the liquid being used • Thermocouple thermometer: 
+ 
+o The probe contains 2 different metals joined to form 2 junctions.  o The temperature difference causes a tiny voltage which makes a current flow.  o A greater temp. #>difference gives a greater current.  o Thermocouple thermometers are used for high temperatures which change rapidly and have a large range (-200C° to 1100°C) 
+<#
+[2.5]
+ Thermal Capacity: • The rise in temperature of a body is an increase in the  internal energy of that body. The average kinetic energy of a gas particle is directly proportional to the temperature. When of that gas particle. particles move faster due to greater kinetic energy, they collide more often, which is felt by heat • This relationship is shown by the thermal capacity of a  • Specific Heat capacity (c) is the amount of energy required to raise the temperature of 1 kg of a certain substance by 1o C. 
+𝑐 =
+𝑄 𝑚 ∆𝑇
+  • Thermal Capacity (Q) is the amount of energy required to raise the temperature of an object by 1oC. 𝑄 = 𝑚𝑐 
+IMPORTANT: The Q’s in both equations are NOT the same, however the c’s are. 
+#>
+<#
+[2.6]
+ Melting and Boiling • Melting is when a solid turns into a liquid. • The temperature increases thus kinetic energy in solid increases and particles vibrate more rapidly. • When melting starts there is no increase in temperature of the substance because thermal energy supplied is being used to break bonds between particles of the solid thus making it into a liquid.  • The latent heat of fusion is the amount of energy needed to melt 1Kg of a substance • The melting point is the temp. at which a substance boils • Boiling is when a liquid turns into a gas • The temperature increases thus kinetic energy in liquid increases and particles vibrate more rapidly. • When boiling starts, there is no increase in temperature of the substance because the thermal energy supplied is being used to break bonds between particles of the liquid thus making it into a gas. • The latent heat of vaporization is the amount of energy needed to boil 1Kg of a substance • The boiling point is the temp. at which a substance melts 
+𝑆𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝐿𝑎𝑡𝑒𝑛𝑡 𝐻𝑒𝑎𝑡 𝑜𝑓 𝐹𝑢𝑠𝑖𝑜𝑛/𝑉𝑎𝑝𝑜𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛 =
+𝐸𝑛𝑒𝑟𝑔𝑦 𝑇𝑟𝑎𝑛𝑠𝑓𝑒𝑟𝑟𝑒𝑑 𝑀𝑎𝑠𝑠
+ 
+𝑳𝒇/𝑳𝒗 =
+𝑬 𝒎
+ 
+ 
+• The difference between boiling and evaporation is that: o Boiling occurs at a fixed temperature and throughout the liquid o Evaporation occurs at any temperature and only on the surface • Condensation is when a gas turns back into a liquid.  • When a gas is cooled, the particles lose energy. They move more and more slowly. When they bump into each other, they do not have enough energy to bounce away again so they stay close together, and a liquid forms.  • When a liquid cools, the particles slow down even more. Eventually they stop moving except for vibrations and a solid forms. 
+#>
+<#
+[2.7]
+ Thermal Properties • Conduction is the flow of heat through matter from places of higher temperature to places of lower temperature without movement of the matter as a whole 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 9 OF 21 
+• In non-metals - when heat is supplied to something, its atoms vibrate faster and pass on their vibrations to the adjacent atoms.  • In metals – conduction happens in the previous way and in a quicker way –electrons are free to move, they travel randomly in the metal and collide with atoms and pass on the vibrations Good conductors are used whenever heat is required to travel quickly through something • Bad conductors (insulators) are used to reduce the amount of heat lost to the surroundings • Convection is the flow of heat through a fluid from places of higher temperature in places of lower temperature by movement of the fluid itself. • As a fluid (liquid or gas) warms up, the particles which are warmer become less dense and rise.  • They then cool and fall back to the heat source, creating a cycle called convection current.  • As particles circulate they transfer energy to other particles. If a cooling object is above a fluid it will create a convection current as well. • Radiation is the flow of heat from one place to another by means of electromagnetic waves. It does not require a medium. • Thermal radiation is mainly infra-red waves, but very hot objects also give out light waves. Infra-red radiation is part of the electromagnetic spectrum.  MATT BLACK WHITE SILVER 
+EMITTER Best  Worst REFLECTOR Worst  Best ABSORBER Best  Worst • An emitter sends out thermal radiation.  • A reflector reflects thermal radiation, therefore is a bad absorber.  • An emitter will cool down quickly, an absorber will heat up more quickly and a reflector will not heat up quickly. • The amount of radiation also depends on the surface temperature and surface area of a body. • Consequences of energy transfer include: o Metal spoon in a hot drink will warm up because it conducts heat o Convection currents create sea breezes. During the day the land is warmer and acts as heat source. During the night the sea acts as the heat source. o A black saucepan cools better than a white one, white houses stay cooler than dark ones. 
+
+#>
+<#
+[3.1]
+ General Wave Properties: • Waves transfer energy without transferring matter. • Examples of wave motion include: o Water Waves o Ropes o Springs • Frequency: the number of waves passing any point per second measured in hertz (Hz) 
+𝑭𝒓𝒆𝒒𝒖𝒆𝒏𝒄𝒚 =
+𝟏 𝑷𝒆𝒓𝒊𝒐𝒅
+ • Period: time taken for one oscillation in seconds • Wavefront: the peak of a transverse wave or the compression of a longitudinal wave • Speed: how fast the wave travels measured in m/s • Wavelength: distance between a point on one wave to the corresponding point on the next wave in length • Amplitude: maximum displacement of a wave from its undisturbed point. 
+ 
+TRANSVERSE WAVES LONGITUDINAL WAVES 
+ 
+ 
+• Travelling waves in which oscillation is perpendicular to direction of travel • Has crests and troughs • For example, light, water waves and vibrating string 
+• Travelling waves in which oscillation is parallel to direction of travel.  • Has compressions and rarefactions • For example, sound waves 
+𝑆𝑝𝑒𝑒𝑑 (𝑚/𝑠) = 𝐹𝑟𝑒𝑞𝑢𝑛𝑐𝑦(𝐻𝑧) × 𝑊𝑎𝑣𝑒𝑙𝑒𝑛𝑔𝑡ℎ(𝑚) 𝑽 = 𝑭𝝀   
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 10 OF 21 
+• Refraction: o Speed and wave length is reduced but frequency stays the same and the wave changes direction o Mechanical waves slow down when they pass from a denser to a rarer material and vice versa o Note: Electromagnetic waves like light increase in speed from an optically denser to a rarer medium. o When wave is slowed down, it is refracted towards normal (i > r) o When wave is sped up, it is refracted away from normal (i < r) o Deep water is denser than shallow water 
+ 
+  When water wave travels from deep to shallow; speed decreases, wavelength decreases and frequency remains constant When water waves travel from shallow to deep; speed increases wavelength increases and frequency remains constant • Reflection: o Waves bounce away from surface at same angle they strike it  o Angle of incidence = angle of reflection o The incident ray, normal and reflected ray all lie on the same plane. o Speed, wavelength and frequency are unchanged by reflection • Diffraction: • Waves bend round the sides of an obstacle, or spread out as they pass through a gap.  • Wider gaps produce less diffraction. • When the gap size is equal to the wavelength, maximum diffraction occurs 
+#>
+<#
+[3.1]
+ Reflection of Light • Plane (flat) mirrors produce a reflection.  • Rays from an object reflect off the mirror into our eyes, but we see them behind the mirror.  • The image has these properties: o Image is the same size as the object o Image is the same distance from the mirror as object o A line joining corresponding points of the image and object meet the mirror at a right angle o Image is virtual: no rays actually pass through the image and the image cannot be formed on a screen • Laws of reflection: o Angle of incidence = angle of reflection o The incident ray, reflected ray and normal are always on the same plane (side of mirror) • Critical angle: angle at which refracted ray is parallel to the surface of material. • If the angle of incidence is greater than the critical angle there is no refracted ray, there is total internal reflection.  • If the angle of incidence is less than the critical angle the incidence ray will split into a refracted ray and a weaker reflected ray. 
+ 
+𝑹𝒆𝒇𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝑰𝒏𝒅𝒆𝒙 =
+𝑺𝒑𝒆𝒆𝒅 𝒐𝒇 𝒍𝒊𝒈𝒉𝒕 𝒊𝒏 𝒗𝒂𝒄𝒖𝒖𝒎 𝑺𝒑𝒆𝒆𝒅 𝒐𝒇 𝒍𝒖𝒈𝒉𝒕 𝒊𝒏 𝒂 𝒎𝒆𝒅𝒊𝒖𝒎
+ 
+𝑹𝒆𝒇𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝑰𝒏𝒅𝒆𝒙 =
+𝐬𝐢𝐧𝒊 𝐬𝐢𝐧𝒓
+ 𝑪𝒓𝒊𝒕𝒊𝒄𝒂𝒍 𝒂𝒏𝒈𝒍𝒆 = 𝐬𝐢𝐧−𝟏 𝟏 𝒏 ⁄ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 11 OF 21 
+#>
+<#
+[3.2]
+ Refraction of Light • Refraction is the bending when light travels from one medium to another due to the change in speed of the ray of light. 
+ 
+ • Note:  o The emergent ray is parallel to the incident ray only if the sides of the glass are parallel) o i = angle of incidence, r = angle of refraction 
+ 
+ 
+• Light put in at one end is totally internally reflected until it comes out the other end.  • Application: Optical Fibres o Used in communications: signals are coded and sent along the fiber as pulses of laser light  o Used in medicine: an endoscope, an instrument used by surgeons to look inside the body; contains a long bundle of optic fibers. 
+#>
+<#
+[3.3]
+ Thin Converging Lens • Principal focus: the point where rays parallel to the principal axis converge with a converging lens. • Focal length: distance from principle focus and the optical center. • Principal axis: line that goes through optical center, and the 2 foci. • Optical center: the center of the lens • Real: image can be caught on a screen • Virtual: image cannot be caught on a screen 
+Real Image • When object is further away from the optical centre than F’ is 
+ 
+A) A ray through centre of the lens passes straight through the lens. B) A ray parallel to the principal axis passes through the focus on the other side of the lens C) A ray through F’ will leave the lens parallel to the principal axis Virtual Image • When the object is closer to the optical centre than F’ is 
+ 
+• Magnifying glass: when a convex lens is used like this - an object is closer to a convex (converging) lens than the principal focus (like the diagram above), the rays never converge. Instead, they appear to come from a position behind the lens. The image is upright and magnified, it is a virtual image. • Images can be: o Enlarged: The image is larger than the object. o Same size: The image is the same size as the object. o Diminished: The image is smaller than the object. o Upright: The image is in the same vertical orientation as the object. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 12 OF 21 
+#>
+<#
+[3.4]
+  Dispersion of Light Refraction by a prism:  • When light is refracted by a prism, the incidence ray is not parallel to the emergent ray, since the prism’s sides are not parallel.  • If a beam of white light is passed through a prism it is dispersed into a spectrum.  • White light is a mixture of colors, and the prism refracts each color by a different amount – red is deviated least & violet most • Monochromatic light is that of a single frequency and colour. • The visible spectrum of light looks like this : 
+ 
+#>
+<#
+[3.5]
+ Electromagnetic Spectrum 
+ 
+ROMAN MEN INVENTED VERY UNUSUAL XRAY GUNS 
+ 
+• All electromagnetic waves: o Travel at the speed of light: approximately 3 × 108m/s. o They travel at around the same speed in air too. o Don’t need a medium to travel through (travel through a vacuum) o Can transfer energy o Are produced by particles oscillating or losing energy in some way o Are transverse waves 
+• Applications: o Radio waves: radio and television communications o Microwaves: satellite television and telephones o Safety issue: cause internal heating of body tissues o Infrared: electrical appliances (radiant heaters and grills), remote controllers for televisions and intruder alarms o X-rays: medicine (x-ray photography and killing cancer cells) and security o Safety issue: is a mutagen, it cause cancer (mutations) o Monochromatic: light of a single wavelength and color (used in lasers) 
+#>
+<#
+[3.6]
+ Sound • Sound is a mechanical wave. • Sound waves come from a vibrating source e.g. loudspeaker • As the loudspeaker cone vibrates, it moves forwards and backwards, which squashes & stretches the air in front.  • As a result, a series of compressions (squashes) and rarefactions (stretches) travel out through the air, these are sound waves • Humans can hear frequencies between 20 and 20 000Hz. • Properties: o Sound waves are longitudinal: they have compressions and rarefactions and oscillate backwards and forwards. o Sound waves need a medium to travel through as it moves due to oscillating particles. • Ultrasound Waves: high frequency sound waves, medically used to look at structures and organs inside the human body, i.e. to form an image of a fetus in a pregnancy 
+ 
+• Compression: High pressure section of a longitudinal wave • Rarefaction: Low pressure section of a longitudinal wave 
+ 
+• The higher the frequency, the higher the pitch. • The higher the amplitude, the louder the sound 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 13 OF 21 
+• If a sound is repeated 0.1 seconds or more after it is first heard, the brain senses it again. • Therefore , given the adequate distance, if sound reflects off a surface, and comes back, an echo is produced. 
+ 
+SPEED OF SOUND IN VARRIOUS MEDIA MEDIUM State Speed CONCRETE Solid 5000 m/s PURE WATER Liquid 1400 m/s AIR Gas 330 m/s 𝑽 𝒊𝒏 𝑮𝒂𝒔 < 𝑽 𝒊𝒏 𝑳𝒊𝒒𝒖𝒊𝒅 < 𝑽 𝒊𝒏 𝑺𝒐𝒍𝒊𝒅 • Finding the speed of sound o When sound reflects off of a wall, it will come back to you; echo o If you know the distance between you and the wall, and measure how long it takes for the echo to sound, you can figure out the speed of sound in air.  o Remember to take into account that sound has gone there & back 
+
+
+
+#>
+<#
+[4.1]
+Simple phenomena of magnetism MAGNETS: • Magnets have a magnetic field around them • They 2 opposite poles (North and South) which exert forces on other magnets. Like poles repel and unlike poles attract. This is caused by the interaction of magnetic fields. o Therefore if magnets are facing each other with opposite poles, they will come together given a small space between them • They attract magnetic materials by inducing (permanent or temporary) magnetism in them. • Will exert little or no force on a non-magnetic material • The direction of an electric field at a point is the direction of the force on a positive charge at that point • Induced Magnetism: o Magnets attract materials by inducing magnetism in them; the material becomes a magnet as well.  o The side of the material facing the magnet will become the opposite pole as the magnet. FERROUS Magnetic materials NON-FERROUS Non-magnetic materials • IRON • NICKEL • COBALT • PLASTIC • WOOD • RUBBER 
+• Methods of inducing magnetism: o A piece of steel becomes permanently magnetized when placed near a magnet, but its magnetism is usually weak. o It can be magnetized more strongly by stroking it with one end of a magnet o Most effective method: place it in a solenoid and pass a large, direct current (d.c.) through the coil. • Methods of demagnetisation: o If a magnet is hammered, its atomic magnets are thrown out of line and it becomes demagnetized. o Heating a magnet to a high temperature also demagnetize it. o Stroking with another magnet to destroy the alignment of poles o Place magnet with poles opposite to that which is induced by a d.c. current and insert into coil with d.c. current o Most efficient method: place magnet inside a solenoid connected to an alternating current (a.c.) supply. • Soft Iron vs. Steel  SOFT IRON STEEL • Gets magnetized faster but loses its magnetism as soon as inducing magnet is removed.  • High susceptibility but low retentivity • Use: core in the transformer • Slow to be magnetized but retains acquired magnetism for a long time.  • Low susceptibility but high retentivity. • Use: making magnets. • Permanent Magnet vs. Electromagnet PERMANENT MAGNET ELECTROMAGNET • Design: hard magnetic material • Use: for applications where magnetism is needed over long periods – fridge doors • Design: Uses a solenoid to create magnetic field • Use: For applications where magnetic field needs to be turned on & off - scrap metal moving   
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 14 OF 21 
+
+#>
+<#
+[4.2]
+Electric Charge • There are 2 types of charges: positive and negative. • Unlike charges attract and like charges repel. • The SI unit of charge is the Coulomb (C). • The presence of an electrostatic charge can be detected using a leaf electroscope. o If a charged object is placed near the cap, charges are induced.  o The metal cap gets one type of charge (positive or negative) and the metal stem and gold leaf get the other type of charge so they repel each other. 
+ 
+• Electric field: region in which electric charge experiences a force. • The direction of an electric field at a point is the direction of the force on a positive charge at that point • Conductors: materials that let electrons pass through them. Metals are the best electrical conductors as they have free electrons. E.g. copper • Insulators: materials that hardly conduct at all. Their electrons are tightly held to atoms and hardly move, but they can be transferred by rubbing. E.g. Rubber • Simple Field Patterns: 
+ 
+   
+Parallel plates 
+Point charge 
++ve and -ve +ve and +ve 
+• Induced charges: o Charging a body involves the addition or removal of electrons. o A charge that “appears” on an uncharged object because of a charged object nearby  o For example if a positively charged rod is brought near a small piece of aluminum foil, electrons in foil are pulled towards rod, which leaves the bottom of the foil with a net positive charge.  o The attraction is stronger than repulsion because the attracting charges are closer than the repelling ones. 
+
+#>
+<#
+[4.3]
+Current • Current: a flow of charge, the SI unit is the Ampere (A). • An ammeter measures the current in a circuit and is connected in series • Current is a rate of flow of charge. • In metals, current is caused by a flow of electrons 
+𝐶𝑢𝑟𝑟𝑒𝑛𝑡 (𝐴) =
+𝐶ℎ𝑎𝑟𝑔𝑒 (𝐶) 𝑇𝑖𝑚𝑒 (𝑠)
+ 𝐼 = 𝑄/𝑡 • Current follows path of least resistance • Conventional current flows in the direction opposite to that which electrons flow in. 
+ 
+#>• 1𝑒̅ = 
+<#
+[1.6]
+ 10−19𝐶 • 1𝐶 = 6.25 × 1018𝑒̅ 
+
+#>
+<#
+[4.4]
+Electromotive Force (EMF) • The energy supplied by the source in driving a unit charge around a circuit. • The maximum voltage a cell can produce is called the electromotive force (EMF), measured in volts.  • When a current is being supplied, the voltage is lower because of the energy wastage inside the cell.  • A cell produces its maximum PD when not in a circuit and not supplying current. 
+ 
+ 
+ 
+  
+Red= Conventional Current Green= flow of electrons 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 15 OF 21 
+
+#>
+<#
+[4.5]
+Potential Difference (P.D) • Potential difference, or PD for short, is also known as voltage. • Voltage is the amount of energy the cell gives the electrons it pushes out. Voltage is measured in volts (V) and is measured by a voltmeter (connected in parallel). If a cell has 1 Volt, it delivers 1 Joule of energy to each coulomb of charge (J/C). 
+𝑽𝒐𝒍𝒕𝒂𝒈𝒆 =
+𝑬𝒏𝒆𝒓𝒈𝒚 𝑪𝒉𝒂𝒓𝒈𝒆
+ 
+𝑽 =
+𝑬 𝑪
+ 
+
+#>
+<#
+[4.6]
+Resistance 
+𝑹𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒄𝒆 (Ω) = 
+𝑽𝒐𝒍𝒕𝒂𝒈𝒆 𝑪𝒖𝒓𝒓𝒆𝒏𝒕
+=
+𝑽 𝑰
+ 
+Factors affecting resistance: • Length o Ω ∝ 𝐿 o The electrons have to travel a longer length and thus encounter more resistance. • Cross-sectional area o Ω ∝ 1 𝐴
+ o More electrons can flow per unit time, increasing the current and therefore decreasing the resistance. • Material o Better conductor = less resistance • Current Voltage Character of an Ohmic Resistor and a Filament Lamp: 
+ 
+o Ohm’s law states that voltage across a resistor is directly proportional to the current through it. This is only true if the temperature of the resistor or lamp remains constant 
+
+#>
+<#
+[4.7]
+Electrical Energy • Electrical energy is transferred from the battery or power source to the circuit components then into the surroundings • 1 Watt is 1J/s 
+𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝑝𝑜𝑤𝑒𝑟 = 𝑉𝑜𝑙𝑡𝑎𝑔𝑒 (𝑉) × 𝐶𝑢𝑟𝑟𝑒𝑛𝑡 (𝐴) 𝑷 = 𝑽𝑰 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑦 = 𝑉𝑜𝑙𝑡𝑎𝑔𝑒 (𝑉) × 𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝑬 = 𝑽𝑰𝒕 
+
+#>
+<#
+[4.8]
+Series and Parallel Circuits • The current at any point in a series circuit is the same • The current splits at each branch in a parallel circuit so the total current is always greater than the current in one branch • Combining resistors o In Series: 𝑹𝑻𝒐𝒕𝒂𝒍 = 𝑹𝟏 + 𝑹𝟐 o In Parallel: 𝑹𝑻𝒐𝒕𝒂𝒍 = 𝟏 𝟏 𝑹𝟏⁄ +𝟏 𝑹𝟐 ⁄
+ o The combined resistance of 2 resistors in parallel is less than that of either resistor by itself and the current in the two resistors in greater in the source than in the individual resistors and is equal to the sum of the currents in all the resistors connected in parallel. • Advantages of putting lamps in parallel are: o If one lamp breaks, the other still works o Each lamp gets maximum PD • In series: PD across the supply = PD across all the components combined • In parallel: Current across the source = sum of currents in the separate branches 
+
+#>
+<#
+[4.9]
+Circuit Diagrams Cell 
+ 
+Battery of cells 
+ 
+Or 
+ 
+Power supply 
+ 
+a.c. power supply 
+ Junction of conductors  Lamp 
+ 
+Fixed resistor  Thermistor 
+ 
+Variable Resistor 
+ 
+Light dependent resistor  Heater 
+ 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 16 OF 21 
+Switch 
+ 
+Earth or Ground 
+ 
+Electric Bell 
+ 
+Buzzer 
+ 
+Microphone 
+ 
+Loudspeaker 
+ 
+Motor 
+ 
+Generator 
+ 
+Ammeter 
+ 
+Voltmeter 
+ 
+Galvanometer 
+ 
+Potential Divider 
+ 
+Relay Coil   
+Transformer 
+ 
+Diode 
+ 
+Light- emitting diode 
+ Fuse  Oscilloscope 
+ 
+AND gate 
+ 
+OR gate 
+ 
+NAND gate 
+ 
+NOR gate 
+ 
+NOT gate 
+ 
+
+#>
+<#
+[4.10]
+ Action and Use of Circuit Components: • A potential divider divides the voltage into smaller parts.  
+ 
+• To find the voltage (at VOUT) we use the following formula: 
+𝑽𝑶𝑼𝑻 = 𝑽𝑰𝑵 × (
+𝑹𝟐 𝑹𝑻𝒐𝒕𝒂𝒍
+) • A variable potential divider (potentiometer) is the same as the one above but using a variable resistor; it acts like a potential divider, but you can change output voltage. • Input Transducers: o Thermistor: input sensor and a transducer. It is a temperaturedependent resistor. At higher temperature there is less resistance. o Light dependent resistor (LDR): input sensor and a transducer. When light intensity increases, resistance decreases. • Relays: o A switch operated by an electromagnet 
+ 
+NORMAL CLOSED RELAY 
+ 
+ 
+NORMALLY OPEN RELAY 
+ 
+ 
+When coil not energized, switch is closed, completing circuit 
+When coil energized, switch is closed, completing circuit   
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 17 OF 21 
+• Diodes: o A device that has an extremely high resistance in one direction and a low resistance in the other, therefore it effectively only allows current to flow in one direction o Forward bias is when the diode is pointing in the direction of the conventional current and reverse bias is the opposite o It can be used in a rectifier; turns AC current into DC current. 
+ 
+
+#>
+<#
+[4.11]
+ Digital Electronics • Analogue uses a whole range of continuous variations to transmit a signal that include variations of high and low states. • Digital signals use only 2 states, on and off.  • Logic gates are processors that are circuits containing transistors and other components. Their function is shown by the truth table below (3 columns from the right)  
+ 
+
+#>
+<#
+[4.12]
+ Dangers of Electricity: • Hazards: o Damaged insulation: contact with the wire (live wire especially) due to gap in the insulation causes electric shock which can cause serious injury or shock. o Overheating of cables: when long extension leads are coiled up, they may overheat. The current warms the wire, but the heat has less area to escape from a tight bundle. This might cause a fire. o Damp conditions: water can conduct a current, so if electrical equipment is wet someone might get electrocuted FUSE 
+ CIRCUIT BREAKER 
+ 
+A fuse protects a circuit. Thin piece of wire which overheats and melts if current is too high. It is placed on the live wire before the switch. This prevents overheating and catching fire. A fuse will have a specific current value (e.g. 13 Amps.) so when choosing a suitable fuse you must use the one above minimum value but less than maxiumum value 
+An automatic switch which if current rises over a specified value, the electromagnet pulls the contacts apart, breaking the circuit. The reset button is to rest everything. It works like a fuse but is better because it can be reset. 
+ 
+• Benefits of Earthing a Metal Case: o Many electrical appliances, have metal cases, the earth wire creates a safe route for current to flow through if the  live wire touches the casing o Earth terminal connected to metal casing, so in such a case, the current goes through earth wire instead of causing an electric shock.  o A strong current surges through earth wire because it has very low resistance o This breaks the fuse and disconnects the appliance 
+ 
+ 
+ 
+ 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 18 OF 21 
+
+#>
+<#
+[4.13]
+ Electromagnetic Effects • Electromagnetic Induction: If a wire is passed across a magnetic field/changing magnetic field, a small EMF is induced and can be detected by a galvanometer. • The direction of an induced EMF opposes the change causing it. • The induced EMF can be increased by: o moving the wire faster o using a stronger magnet o Increasing length of wire in magnetic field, e.g. looping the wire through the field several times. • The current and EMF direction can be reversed by: o moving the wire in the opposite direction o turning the magnet round so that the field direction is reversed • Fleming’s right-hand rule gives the current direction: 
+ 
+ 
+ 
+Bar magnet pushed into coil 
+ 
+• The induced EMF (and current) can be increased by: o moving the magnet faster o using a stronger magnet o increasing the number of turns in the coil • If the magnet is pulled away, the direction of the induced EMF (and current) is reversed • Using South pole instead of North pole reverses direction of induced EMF (and current) • If the magnet is held still, there is no EMF • An induced current always flows in a direction such that it opposes the change which produced it.  
+• When a magnet is moved towards a coil the pole of the coil and magnet next to each other are the same.  • When the magnet is moved away the poles are opposite (opposite poles attract). • The pole-type (north or south) is controlled by the direction in which the current is induced. • The direction of the current is given by the right-hand grip rule: 
+ 
+• The fingers point in the conventional current direction and the thumb gives the North Pole. 
+
+#>
+<#
+[4.14]
+ Applications • In a direct current (d.c) the electrons flow in a singular direction. • In an alternating current (a.c) the direction of flow is reversed in regular time periods. • A.C Generator: o The coil is made of insulated copper wire and is rotated by turning the shaft; the slip rings are fixed to the coil and rotate with it.  o The brushes are 2 contacts which rub against the slip rings and keep the coil connected to the outside part of the circuit, usually made of carbon.  o When the coil is rotated, it cuts magnetic field lines, so an EMF is generated, which makes a current flow.  o Each side of the coil travels upwards then downwards then upwards etc. so the current flows backwards then forwards then backwards etc. so it is an alternating current.  
+ 
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 19 OF 21 
+• The current is maximum when the coil is horizontal since field lines are being cut at the fastest rate and 0 when the coil is vertical, since it is cutting NO field lines.  • The EMF can be increased by: o increasing the number of turns on the coil o increasing the area of the coil o using a stronger magnet o rotating the coil faster 
+#>
+<#
+[4.15]
+ Transformers • AC currents can be increased or decreased by using a transformer.  • Consists of a primary coil, a secondary coil and an iron core.  • The iron core gets magnetized by the incoming current and this magnetism then creates a current in the leaving wire.  • The power is the same on both sides (assume= 100% efficiency).  • You can figure out number of coils and the voltage with: 𝑶𝒖𝒕𝒑𝒖𝒕 𝒗𝒐𝒍𝒕𝒂𝒈𝒆 𝑰𝒏𝒑𝒖𝒕 𝒗𝒐𝒍𝒕𝒂𝒈𝒆 = 𝑻𝒖𝒓𝒏𝒔 𝒐𝒏 𝒐𝒖𝒕𝒑𝒖𝒕 𝒄𝒐𝒊𝒍 𝑻𝒖𝒓𝒏𝒔 𝒐𝒏 𝒊𝒏𝒑𝒖𝒕 𝒄𝒐𝒊𝒍
+ 
+ 𝑽𝑷 𝑽𝑺 = 𝑵𝑷 𝑵𝑺
+ 𝑰𝒏𝒑𝒖𝒕 𝒗𝒐𝒍𝒕𝒂𝒈𝒆 × 𝒊𝒏𝒑𝒖𝒕 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 = 𝒐𝒖𝒕𝒑𝒖𝒕 𝒗𝒐𝒍𝒕𝒂𝒈𝒆 × 𝒐𝒖𝒕𝒑𝒖𝒕 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 𝑽𝑷 × 𝑰𝑷 = 𝑽𝑺 × 𝑰𝑺 (Under 100% efficiency) • When magnetic field is changed across the primary coil by connecting it with A.C. an e.m.f. induces across the secondary coil.  • The iron core channels the alternating field through the secondary coil, inducing an alternating e.m.f. across it. • A step-up transformer increases the voltage and a stepdown transformer decreases it.  • Transformers used to make high voltage AC currents.  • Since power lost in a resistor 𝑷 = 𝑰𝟐 × 𝑹, having a lower current will decrease the power loss.  • Since transmission cables are many kilometres long they have a lot of resistance, so a transformer is used to increase the voltage and decrease the current to decease power lost. • The advantages of high-voltage transmission: o Less power lost o Thinner, light, and cheaper cables can be used since current is reduced 
+
+#>
+<#
+[4.16]
+ Electromagnetic Effect of a Current Magnetic field around a current carrying wire 
+ Magnetic field around a current carrying solenoid 
+ 
+ 
+• Increasing the strength of the field  • Increasing the current increases the strength of the field • Increasing the number of turns of a coil increases the strength increases the strength of the field. • Reversing the current direction reverses the magnetic field direction (right-hand rule). • The direction of a magnetic field line at a point is the direction of the force on the N pole of a magnet at that point • Magnetic effect of current is used in a relay and a circuit breaker. 
+
+#>
+<#
+[4.17]
+ Force on a Current-Carrying Conductor • If a current carrying conductor is in a magnetic field, it warps the field lines.  • The field lines from the magnet want to straighten out naturally.  • This causes a catapult like action on the wire creating a force 
+ 
+• If you reverse current, you will reverse direction of force • If you reverse direction of field, you will reverse direction of force.   
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 20 OF 21 
+• The direction of the force, current or magnetic field is given by Fleming’s left-hand rule: 
+ 
+ 
+
+#>
+<#
+[4.18]
+ D.C. Motor 
+ 
+• When a current-carrying coil is in a magnetic field, it experiences a turning effect. • A DC motor runs on a direct current.  • The coil is made of insulated copper wire and is free to rotate between the poles of the magnet.  • The commutator (split-ring) is fixed to the coil and rotates with it.  • When the coil overshoots the vertical, the commutator changes direction of the current through it, so the forces change direction and keep the coil turning.  • The brushes are two contacts which rub against the commutator and keep the coil connected to battery, usually made of carbon • The max. turning effect is when the coil is horizontal.  • There is no force when the coil is vertical but it always overshoots this position
+                                                          
+ 2 See 20.7 
+ 
+TURNING EFFECT INCREASED BY: 
+REVERSING ROTATION CAN BE DONE BY: 
+• Increasing the current • Using a stronger magnet o Increasing the strength of the magnetic field • Increasing the number of turns on the coil. 
+• Reversing the battery • Reversing the poles 
+
+#>
+<#
+[5.1]
+he Atom • Atoms consist of: o Nucleus: central part of atom made of protons (positively charged) and neutrons. These two types of particles are called nucleons. They are bound together by the strong nuclear force. o Electrons: almost mass-less particles which orbit nucleus in shells • This is proved by Rutherford’s Gold Foil Experiment2 • Proton number: number of protons in an atom  • Nucleon number: the number of nucleons (protons + neutrons) in an atom • The following is the nuclide notation for atoms 
+ 
+• Isotope:  o Atoms of the same element that have different numbers of neutrons e.g. Carbon 12 and Carbon 1
+#>
+<#
+[4. ]
+ There are non-radioactive isotopes and radioisotopes.  o Radio isotopes are unstable atoms, which break down giving radiation • Uses: o Medical use: cancer treatment (radiotherapy) – rays kill cancer cells using cobalt-60 o Industrial use: to check for leaks – radioisotopes (tracers) added to oil/gas. At leaks radiation is detected using a Geiger counter. o Archaeological use: carbon 14 – used for carbon dating   
+ CIE IGCSE PHYSICS//0625  
+ 
+PAGE 21 OF 21 
+#>
+<#
+[5.2]
+etection of Radioactivity • Background radiation: small amount of radiation around us all time because of radioactive materials in the environment. It mainly comes from #>natural sources such as soil, rocks, air, building materials, food and drink – and even space. • A Geiger-Müller (GM) tube can be used to detects 𝛼,𝛽 and 𝛾 radiation 
+<#
+[5.3]
+ype of Radioactive Emissions • Radioactive emissions occur randomly over space & time  ALPHA (𝜶) BETA (𝜷) GAMMA (𝜸) 
+NATURE 
+Helium nucleus (2 protons and 2 electrons) 
+One high speed electron 
+Electromagnetic radiation 
+CHARGE +2 -1 none 
+PENETRATION 
+Stopped by paper 
+Stopped by aluminum 
+Only reduced by lead 
+EFFECT FROM FIELDS 
+Deflected 
+Very deflected 
+Not deflected 
+IONIZING EFFECT 
+Very strong Weak Very weak SPEED 1 10 ⁄ 𝑣 𝑜𝑓 𝑙𝑖𝑔ℎ𝑡 9 10 ⁄ 𝑣 𝑜𝑓 𝑙𝑖𝑔ℎ𝑡 𝑣 𝑜𝑓 𝑙𝑖𝑔ℎ𝑡 • Depending on their charge, they will be affected by electric and magnetic fields. 
+#>
+<#
+[5.4]
+Radioactive Decay • Radioactive decay: A radioisotope (unstable arrangement of neutrons and protons) is altered to make a more stable arrangement.  • The parent nucleus becomes a daughter nucleus and a particle (decay products). • The nucleus changes when undergoing alpha or beta decay Alpha decay: • An element with a proton number 2 lower and nucleon number 4 lower, and an alpha particle is made (2p + 2n) e.g. Radium-226 nucleus → Radon-222 + helium-4 nucleus Ra88 226 → Rn 86 222 + He 2 4 Beta decay: • A neutron changes into a proton, an electron and an antineutrino so an element with the same nucleon number but with a proton number 1 higher e.g. e.g. iodine-131 → xenon-131 + antineutrino + beta particle 𝐼53 131 → 𝑋𝑒 54 131 + β −1 0 + v 0 0 
+Gamma emission:  • Gamma emission by itself causes no change in mass number or atomic number; they just emit energy • Some isotopes do not change in mass or atomic number however they emit energy as their particles rearrange themselves to become more stable 
+#>
+<#
+[5.5]
+alf Life • Half-life of a radioisotope: is the time taken for half the nuclei present in any given sample to decay. • Some nuclei are more stable than others. • Remember to factor background radiation in half-life calculations involving tables and decay curves 
+#>
+<#
+[5.6]
+Safety Precautions • Radioactive material is stored in a lead container  • Picked up with tongs, not bare hands • Kept away from the body and not pointed at people • Left out of its container for as short a time as possible 
+#>
+<#
+[5.7]
+utherford’s Experiment • Thin gold foil is bombarded with alpha particles, which are positively charged.  • Most passed straight through, but few were repelled so strongly that they were bounced back or deflected at large angles. Rutherford concluded that the atom must be largely empty space, with its positive charge and most of its mass concentrated in a tiny nucleus. 
+#>
+ 
+ 
