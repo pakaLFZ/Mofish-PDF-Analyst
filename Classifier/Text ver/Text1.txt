@@ -1,43 +1,43 @@
-<#
+{#
 [1.1]
 Characteristics of Living Organisms  Movement: action by an organism or part of an organism causing a change of position or place  Respiration: the chemical reactions that break down nutrient molecules in living cells to release energy  Sensitivity: ability to detect or sense changes in the environment (stimuli) and to make responses  Growth: permanent increase in size and dry mass by an increase in cell number or cell size or both  Reproduction: processes that make more of the same kind of organism  Excretion: removal from organisms of toxic materials, the waste products of metabolism (chemical reactions in cells including respiration) and substances in excess of requirements  Nutrition: taking in of nutrients which are organic substances and mineral ions, containing raw materials or energy for growth and tissue repair, absorbing and assimilating them 
-#>
-<#
+#}
+{#
 [1.2]
 Concept & Use of a Classification System  Organisms can be classified into groups by the features that they share  Classification systems aim to reflect evolutionary relationships (change of adaptive features of a population over time, as a result of natural selection)  Species: organisms which can reproduce successfully  Classification is traditionally based on studies of morphology and anatomy  Morphology: the overall form and shape of their bodies e.g. wings or legs  Anatomy: the detailed body structure determined by dissection  Binomial system: a system of naming species in which the scientific name of an organism is made up of two parts showing the genus (starting with a capitol letter) and species (starting with a lower case letter), written in italics when printed (therefore underlined when written) e.g. Homo sapiens 
  
 KING PHILIP CAME OVER FOR GOOD SPAGHETTI  Kingdom, Phylum, Class, Order, Family, Genus, Species  Kingdom  Species = Similarity increases 
  DNA is the chemical from which chromosomes are made  Each DNA molecule is made up of strings of smaller molecules containing four bases  Biologists compare the sequences of the bases in the DNA of organisms from two different species  The more similar the base sequence, the more closely related the species are to one another  Organisms which share a more recent ancestor have base sequences in DNA that are more similar than those that share only a distant ancestor  The sequences of bases in DNA and of amino acids in proteins are used as a more accurate means of classification (cladistics) 
-#>
-<#
+#}
+{#
 [1.3]
-Kingdoms  Animal: Multi-cellular ingestive heterotrophs (eat living organisms)  Plant: Multi-cellular photosynthetic autotrophic (make their own food) organism with a cellulose cell wall.  Fungi: Single celled or multi cellular heterotrophic organism with cell wall not made of cellulose, spread by spreading of spores in moist/dark/warm environment, saprotrophs (feed off dead organisms) or parasites  Prokaryotes: Single celled organism with no true nucleus  Protocist: Single celled organism with a nucleus  #>
-<#
+Kingdoms  Animal: Multi-cellular ingestive heterotrophs (eat living organisms)  Plant: Multi-cellular photosynthetic autotrophic (make their own food) organism with a cellulose cell wall.  Fungi: Single celled or multi cellular heterotrophic organism with cell wall not made of cellulose, spread by spreading of spores in moist/dark/warm environment, saprotrophs (feed off dead organisms) or parasites  Prokaryotes: Single celled organism with no true nucleus  Protocist: Single celled organism with a nucleus  #}
+{#
 [1.4]
 Vertebrates MR FAB  Mammals o Fur/hair on skin o Can live on land and in water o 4 legs o Lungs to breathe o Give birth to live young  Reptiles: o Scales on skin o Usually 4 legs o Lungs to breathe o Hard eggs  Fish: o Wet scales o External fertilization and soft eggs o Gills to breathe  Amphibians: o Smooth, moist skin o External fertilization and soft eggs o Gills/lungs to breathe so can live on land and in water o 4 legs 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 4 OF 35 
- Birds o Feathers on body and scales on legs o Have 2 legs and 2 wings o Lungs to breathe o Hard eggs #>
-<#
+ Birds o Feathers on body and scales on legs o Have 2 legs and 2 wings o Lungs to breathe o Hard eggs #}
+{#
 [1.5]
-Arthropods (Invertebrates with Legs) CAMI  Crustaceans: (e.g. crabs) o Have an exoskeleton o 1 pair of compound eyes o 2 body segment – cephalothorax and abdomen o More than four pairs of legs o 2 pairs of antennae sensitive to touch and chemicals  Arachnids: (e.g. spiders) o 2 body segment – cephalothorax and abdomen o Four pairs of legs o Pair of chelicerae to hold prey o Two pedipalps for reproduction o Simple eyes  Myriapods: (e.g. centipede) o Segmented body o Additional segments formed o One pair of antennae o 70+ pairs of legs – 1 or 2 pairs on each segment o Fused head and thorax and segmented abdomen o Simple eyes  Insects: (e.g. bees) o 3 body segments – head, thorax and abdomen o 3 pairs of legs o 1 pair of antennae o 1 or 2 pairs of wings o Compound and simple eyes  #>
-<#
+Arthropods (Invertebrates with Legs) CAMI  Crustaceans: (e.g. crabs) o Have an exoskeleton o 1 pair of compound eyes o 2 body segment – cephalothorax and abdomen o More than four pairs of legs o 2 pairs of antennae sensitive to touch and chemicals  Arachnids: (e.g. spiders) o 2 body segment – cephalothorax and abdomen o Four pairs of legs o Pair of chelicerae to hold prey o Two pedipalps for reproduction o Simple eyes  Myriapods: (e.g. centipede) o Segmented body o Additional segments formed o One pair of antennae o 70+ pairs of legs – 1 or 2 pairs on each segment o Fused head and thorax and segmented abdomen o Simple eyes  Insects: (e.g. bees) o 3 body segments – head, thorax and abdomen o 3 pairs of legs o 1 pair of antennae o 1 or 2 pairs of wings o Compound and simple eyes  #}
+{#
 [1.6]
 Classifying Plants  Ferns: o Do not produce flowers  o They are plants with roots, stems and leaves o Have leaves called fronds o Reproduce by spores  Flowering plants: o They are plants with roots, stems and leaves o Reproduce sexually by means of flowers and seeds o Seeds are produced inside the ovary in the flower Monocotyledons Dicotyledons  One cotyledon  Parallel veins  Fibrous root  Floral parts in 3s  Two cotyledons  Veins netlike  Taproot present  Floral parts in 4s or 5s 
-#>
-<#
+#}
+{#
 [1.7]
 Viruses and Bacteria  VIRUS BACTERIA COVERED BY Protein coat Cell wall CELL MEMBRANE No Yes CYTOPLASM No Yes GENETIC MATERIAL DNA or RNA – only a few genes DNA – enough for several 100 genes LIVING OR NOT? Non-living unless in host Living 
   Two examples of virus structure 
  
-#>
-<#
+#}
+{#
 [1.8]
 Dichotomous Keys  Dichotomous key: uses visible features to classify organisms. It is which gives you a choice of two features and you follow the one that applies:  each choice leads to another choice until the organism is narrowed down to its genus and finally species.  
 
-#>
-<#
+#}
+{#
 [2.1]
 Cell structure and Organization  All living things are made of cells.  All typical cells have: o Cell membrane: differentially or partially permeable to allow certain substances to enter and leave the cell.  o Cytoplasm: where chemical reactions take place o Nucleus: contains DNA and controls the cell o Mitochondria: organelle where aerobic respiration happens o Ribosome: makes protein and can be found floating within the cytoplasm  A typical animal cell (e.g. the liver cell) has all above   Only plant cells have: o Vacuole: stores food & water & helps to maintain shape of cell o Cell wall: rigid to keep shape of cell o Chloroplasts: contain chlorophyll, which absorbs light energy for photosynthesis 
  CIE IGCSE BIOLOGY//0610  
@@ -45,8 +45,8 @@ Cell structure and Organization  All living things are made of cells.  All
 PAGE 5 OF 35 
  A typical plant cell (e.g. the palisade cell) has all the above things. 
  
-#>
-<#
+#}
+{#
 [2.2]
 Levels of Organization CELL FUNCTION ADAPTATION(S) DIAGRAM 
 RED BLOOD CELL 
@@ -73,8 +73,8 @@ PALISADE CELL
 Photosynthesizes 
  Regular shape so many can fit in a small space  Many chloroplasts 
  
- Organelle: a specialized part of a cell that has its own function, e.g. the nucleus  Cell: the smallest part of a living structure that can operate as an independent unit e.g. red blood cell  Tissue: a group of cells with similar structures, working together to perform a shared function e.g. muscle tissue  Organ: a structure made up of a group of tissues, working together to perform specific functions e.g. heart  Organ system: group of organs with related functions, working together to perform body functions e.g. respiratory system #>
-<#
+ Organelle: a specialized part of a cell that has its own function, e.g. the nucleus  Cell: the smallest part of a living structure that can operate as an independent unit e.g. red blood cell  Tissue: a group of cells with similar structures, working together to perform a shared function e.g. muscle tissue  Organ: a structure made up of a group of tissues, working together to perform specific functions e.g. heart  Organ system: group of organs with related functions, working together to perform body functions e.g. respiratory system #}
+{#
 [2.3]
 Size of Specimens 
 𝑀𝑎𝑔𝑛𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛 =
@@ -85,70 +85,70 @@ Size of Specimens
 𝐼 𝐴
  
 
-#>
-<#
+#}
+{#
 [3.1]
 Diffusion  This is the movement of molecules from a region of high concentration to a region of low concentration down the concentration gradient.   This results in random movement of molecules until equilibrium is reached  The diffusion of gases and solutes is important as without it, molecules which are needed for life, for example glucose and oxygen for respiration, would not be able to get to the places they are needed. Water is needed as a solvent  Factors influencing faster diffusion: o Larger concentration gradient o Higher temperature o Smaller surface area 
-#>
-<#
+#}
+{#
 [3.2]
 Osmosis  Movement of water molecules from a region of high water potential to a region of low water potential, through a partially permeable membrane  Conc. of solute outside cell = conc. inside cell → no change in size  Conc. of solute outside cell > conc. inside cell → cell shrinks (Plasmolysis)  Conc. of solute outside cell < conc. inside cell → cell swells (Turgid)  In animals: o Increasing solute concentration inside of cell can cause cell to explode as a result of it having too much water, crenation. 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 6 OF 35 
  In plants: o Increasing solute concentration inside of cell causes cell to become turgid, vacuole fills up. o Decreasing solute concentration inside of cell causes cell to become flaccid, losing water and vacuole gets smaller. Cell body shrinks, pulling away from cell wall 
-#>
-<#
+#}
+{#
 [3.3]
 Active Transport  Movement of particles through a cell membrane, from a region of lower concentration to a region of higher concentration against a concentration gradient, using energy released during respiration  Active transport is needed when an organism wants to optimize the amount of nutrients it can take up - ion uptake by root hairs and uptake of glucose by epithelial cells of villi. 
 
-#>
-<#
+#}
+{#
 [4.1]
-Chemical Tests  Starch: Add few drops of iodine, +ve result = blue-black colour  Reducing sugars: Add Benedict’s reagent, then mixture is heated in water bath for 2 to 3 minutes. +ve result = brick-red precipitate, -ve result = remains blue  Proteins: Add few drops of Biuret reagent, +ve result = mauve colour  Fats: Emulsion test; ethanol is added to mixture, and this is poured into a test tube with an equal amount of distilled water, +ve result = milky-white emulsion  Vitamin C: Decolourisation of DCPIP shows that a vitamin C is probably present. #>
-<#
+Chemical Tests  Starch: Add few drops of iodine, +ve result = blue-black colour  Reducing sugars: Add Benedict’s reagent, then mixture is heated in water bath for 2 to 3 minutes. +ve result = brick-red precipitate, -ve result = remains blue  Proteins: Add few drops of Biuret reagent, +ve result = mauve colour  Fats: Emulsion test; ethanol is added to mixture, and this is poured into a test tube with an equal amount of distilled water, +ve result = milky-white emulsion  Vitamin C: Decolourisation of DCPIP shows that a vitamin C is probably present. #}
+{#
 [4.2]
 Structure of a DNA  Chromosomes are made of a molecule called DNA  Each chromosome is a very long molecule of tightly coiled DNA 
  Two strands coiled together to form a double helix  Each strand contains chemicals called bases  Cross-links between strands are formed by pairs of bases  The bases always pair up in the same way:  o A and T o C and G 
 
-#>
-<#
+#}
+{#
 [5.1]
 Effect of Temperature on Enzymes  Enzymes have an optimum temperature: the temperature at which they work best giving the fastest reaction ≈ 37°C in animals  When temperature increases, molecules move faster so collide with an enzyme in less time  Having more energy makes them more likely to bind to active site.  If temperature is too high, enzyme molecules vibrate too vigorously and enzyme is denatured; it loses its shape and will no longer bind with a substrate.   When the temperature is too low there is not enough kinetic energy for the reaction so it reacts too slowly. 
-#>
-<#
+#}
+{#
 [5.2]
 Effect of pH on Enzymes  Enzymes are sensitive to pH  Some enzymes work best in an acid and others in an alkaline   Enzymes work best at their optimum pH  If the pH is changed then the enzyme will denature and will no longer fit with substrate- no reaction takes place 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 7 OF 35 
-#>
-<#
+#}
+{#
 [5.3]
 Graphs for Changes in Enzyme Activity EFFECT OF TEMPERATURE EFFECT OF PH 
-#>
-<#
+#}
+{#
 [5.4]
 Enzymes and their Uses  Seeds to germinate: the enzymes turn insoluble food stores to soluble.  Biological washing powders: enzymes are added to washing powders to help remove stains for example: o Lipase for lipids from fatty foods and greasy fingerprints o Protease for proteins from blood stains  Food industry: o Isomerase converts glucose to fructose which is sweeter, so less is needed to give a sweet taste o Pectinase helps break down cell walls in fruit juice production so it increases yield, lowers viscosity and reduces cloudiness 
-#>
-<#
+#}
+{#
 [6.1]
 Chlorophyll Is Necessary for Photosynthesis  Take a potted plant with variegated (green and white) leaves.  Destarch the plant by keeping it in complete darkness for about 48 hours.  Expose the plant to the sunlight for a few days.  Leaf boiled in water for 2 minutes to break down cell walls, denature enzymes and allow for easier penetration by ethanol. 
  Warmed in ethanol until leaf is colourless to extract chlorophyll, which would mask observation   Dipped in water briefly: to soften leaf  Leaf is placed on a white tile and iodine is added. If starch is present, colour will be blue-black and if absent, it will remain orange 
  
-#>
-<#
+#}
+{#
 [6.2]
 Light Is Necessary for Photosynthesis  Destarch the plant by keeping it in darkness for 48hrs  Place a stencil over part of a leaf   Place the leaf in sunlight for 4-6 hours   Remove the stencil and test for starch  +ve result = parts which received light turn black   -ve result = parts which didn’t receive light remain yellow/brown 
  
-#>
-<#
+#}
+{#
 [6.3]
-Carbon Dioxide is Necessary for Photosynthesis  Take two destarched potted plants.  Cover both the plants with bell jars and label them as A and B.  Inside A, keep NaHCO3 (sodium bicarbonate). It produces CO#>
-<#
+Carbon Dioxide is Necessary for Photosynthesis  Take two destarched potted plants.  Cover both the plants with bell jars and label them as A and B.  Inside A, keep NaHCO3 (sodium bicarbonate). It produces CO#}
+{#
 [2. ]
  Inside B, keep NaOH (Sodium hydroxide). It absorbs CO
-#> <#
+#} {#
 [2. ]
  Keep both the set-ups in the sunlight for at least 6 hours.  Perform the starch test on both plants. 
  
@@ -157,24 +157,24 @@ Carbon Dioxide is Necessary for Photosynthesis  Take two destarched potted pl
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 8 OF 35 
-#>
-<#
+#}
+{#
 [6.4]
 Limiting Factors •Limiting factor: something present in the environment in such short supply that it restricts life processes. 
 Light intensity  As the amount of light increases, the rate of photosynthesis increases (a-b)  The limiting factor is light   Increasing the amount of light after a certain point has no effect on the rate (c)  The limiting factor is now carbon dioxide or temperature  
  Carbon dioxide concentration  As the amount of carbon dioxide increases, the rate of photosynthesis increases (a-b)  The limiting factor is carbon dioxide   Increasing amount of carbon dioxide after a certain point has not effect on rate (c)   The limiting factor is now light or temperature (warmth) 
  Temperature  As temperature increases, the rate of photosynthesis increases until it reaches optimum temperature 40°c (a)  The limiting factor is the temperature   Increasing the temperature above 40°c will cause the enzymes to denature (b)   This will decrease rate of photosynthesis  
  
-#> <#
+#} {#
  [6.5]
  Glasshouse Systems To increase the crop yield, farmers control the limiting factors:  CO2 enrichment: paraffin is burnt to increase CO2 concentration by three times the original amount and doubling the yield  Optimum temperature: thermostatically controlled heaters make the temperature right for enzymes to work  Optimum light: light has a high intensity for more photosynthesis, the correct wavelengths (red and blue not green) and duration controls production of fruit 
-#>
-<#
+#}
+{#
 [6.6]
 Leaf Structure 
  Cuticle: waxy layer that prevents water loss from top of the leaf   Epidermis: transparent cell that allows sunlight to pass through to the palisade cell  Palisade: found at the top of the cell and contains many chloroplasts which absorbs sunlight.  Spongy mesophyll layer: irregularly shaped cells which create air spaces to allow gaseous exchange to take place; do not contain many chloroplasts   Vascular Bundle: made up of xylem and phloem  Xylem: vessel which transports water and dissolved minerals and has lignified walls made of cellulose   Phloem: vessel which transports nutrients   Stomata: little holes that opens and closes to allow gaseous exchange to take place. The stomata close to prevent water loss and open to let gases come in and out. When guard cells lose water, the stoma close (at night), while the stoma open when guard cells gain water & swell (during the day). 
-#>
-<#
+#}
+{#
 [6.7]
 Xylem  Unidirectional vessel which transports water and dissolved minerals.   Walls are made out of waterproof lignin.  Water moves up due to transpiration and osmosis 
 A 
@@ -187,40 +187,40 @@ A B
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 9 OF 35 
-#>
-<#
+#}
+{#
 [6.8]
-Phloem  Bidirectional vessel  Contains sieve elements which allow sugars to pass from one cell to next downwards   Contains companion cells which provide energy for active transport of sugars all over plant.   Translocation moves organic molecules (sugars, amino acids) from source to sink.   Phloem vessels still have cross walls called sieve plates that contain pores.   Companion cells actively load sucrose into the phloem.  Water follows high solute in phloem by osmosis. A positive pressure potential develops moving mass of phloem sap forward.  Phloem still contains small amount of cytoplasm along the walls but the organelle content is greatly reduced.  Companion cells actively unload (ATP used) the organic molecules #>
-<#
+Phloem  Bidirectional vessel  Contains sieve elements which allow sugars to pass from one cell to next downwards   Contains companion cells which provide energy for active transport of sugars all over plant.   Translocation moves organic molecules (sugars, amino acids) from source to sink.   Phloem vessels still have cross walls called sieve plates that contain pores.   Companion cells actively load sucrose into the phloem.  Water follows high solute in phloem by osmosis. A positive pressure potential develops moving mass of phloem sap forward.  Phloem still contains small amount of cytoplasm along the walls but the organelle content is greatly reduced.  Companion cells actively unload (ATP used) the organic molecules #}
+{#
 [6.9]
 Mineral Requirements NITROGEN MAGNESIUM  Needed for protein synthesis  Deficiency: small plant, slow growth, top leaves pale, bottom leaves dead and roots slightly affected  Needed for chlorophyll synthesis  Deficiency: plant lack chlorphyll, leaves yellow but normal roots  Nitrogen fertilizers: provide nitrogen in the form of nitrate ions, nitrite ions or ammonium ions. But using fertilisers can lead to eutrophication, which is when the fertiliser is transported by rain and leaches into stagnant water e.g. pond or river 
-#>
-<#
+#}
+{#
 [7.1]
-Malnutrition  A condition caused by eating an unbalanced diet. Several forms: o Overnutrition: balanced diet but eating too much of everything o Undernutrition: having too little food o Eating foods in incorrect proportions  #>
-<#
+Malnutrition  A condition caused by eating an unbalanced diet. Several forms: o Overnutrition: balanced diet but eating too much of everything o Undernutrition: having too little food o Eating foods in incorrect proportions  #}
+{#
 [7.2]
-Effects of Malnutrition  Starvation: losing strength & finally dying because of lack of food  Coronary heart disease: eating too much fats which are rich in saturated fatty acids and cholesterol, may lead to heart attack  Constipation: lack of roughages in food causes constipation because roughages are indigestible and form bulks. Friction between bulks and walls of intestine stimulate the peristalsis  Obesity: Eating too much fats and carbohydrates leads to their storage in storage in the body mainly in the forms of fats and causing an increase in body weight. This can cause; heart attack, stroke, joint pain, mobility impairment, high blood pressure #>
-<#
+Effects of Malnutrition  Starvation: losing strength & finally dying because of lack of food  Coronary heart disease: eating too much fats which are rich in saturated fatty acids and cholesterol, may lead to heart attack  Constipation: lack of roughages in food causes constipation because roughages are indigestible and form bulks. Friction between bulks and walls of intestine stimulate the peristalsis  Obesity: Eating too much fats and carbohydrates leads to their storage in storage in the body mainly in the forms of fats and causing an increase in body weight. This can cause; heart attack, stroke, joint pain, mobility impairment, high blood pressure #}
+{#
 [7.3]
 Uses NUTRIENT USES CARBOHYDRATES Energy FATS Source of energy, building materials, energy store, insulation, buoyancy, making hormones  PROTEINS Energy, building materials, enzymes, haemoglobin, structural material (muscle), hormones, antibodies VITAMIN C Protect cells from ageing, production of fibres VITAMIN D Absorption of calcium CALCIUM Development and maintenance of strong bones and teeth IRON Making haemoglobin FIBER Provides bulk for faeces, helps peristalsis WATER Chemical reactions, solvent for transport 
-#>
-<#
+#}
+{#
 [7.4]
 Deficiencies  Vitamin C: Scurvy; loss of teeth, pale skin & sunken eyes  Vitamin D: Rickets; weak bones and teeth  Calcium: Rickets; weak bones and teeth, also poor clotting of blood, spasms 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 10 OF 35 
- Iron: Anaemia: Fatigue (less iron → less haemoglobin → less oxygen transported → less respiration → less energy) #>
-<#
+ Iron: Anaemia: Fatigue (less iron → less haemoglobin → less oxygen transported → less respiration → less energy) #}
+{#
 [7.5]
 Human Alimentary Canal  Ingestion: taking substances (e.g. food, drink) into the body through the mouth.  Egestion: passing out of food that has not been digested, as faeces, through the anus.  Digestion: the break-down of large, insoluble food molecules into small, water soluble molecules using mechanical and chemical processes  Mouth: contains teeth used for mechanical digestion, area where food is mixed with salivary amylase & where ingestion takes place  Salivary glands: produce saliva which contains amylase and helps food slide down oesophagus  Oesophagus: tubeshaped organ which uses peristalsis to transport food from mouth to stomach  Stomach: has sphincters to control movement into and also has pepsin (a protease) to break down proteins into peptides, it also kills bacteria with hydrochloric acid. They also have elastic walls.  Small intestine: tube shaped organ composed of two parts the:  o Duodenum: fats are emulsified by bile, and digested by pancreatic lipase to form fatty acids and glycerol. Pancreatic amylase and trypsin (a protease) break down starch and peptides into maltose and amino acids o Ileum: Maltase breaks down maltose to glucose. This is where absorption takes place; adapted by having villi and microvilli.  Pancreas: produces pancreatic juice which contains amylase, trypsin and lipase and hydrogencarbonate.  Liver: produces bile, stores glucose as glycogen, interconverting them to keep glucose concentration constant. Also carries out interconversion of amino acids (transamination), deamination and removal of old red blood cells and storage of their iron. Also site of breakdown of alcohol and other toxins.  Gall bladder: stores bile from liver  Bile: produced by liver and stored in gall bladder, its role is to emulsify fats, to increase surface area for the action of enzymes. 
- Large intestine: tube shaped organ composed of two parts: o Colon: organ for absorption of minerals and vitamins, and reabsorbing water from waste to maintain body’s water levels o Rectum: where faeces are temporarily stored  Anus: ring of muscle which controls when faeces is released. #>
-<#
+ Large intestine: tube shaped organ composed of two parts: o Colon: organ for absorption of minerals and vitamins, and reabsorbing water from waste to maintain body’s water levels o Rectum: where faeces are temporarily stored  Anus: ring of muscle which controls when faeces is released. #}
+{#
 [7.6]
 Diarrhoea  Diarrhoea: when not enough water is absorbed from the faeces   To cure this is to give oral rehydration therapy  One of these this infectious by a bacterium causing the diseases cholera (spreads rapidly)  The cholera bacterium produces a toxin that causes secretion of chloride ions into the small intestine, causing osmotic movement of water into the gut, causing diarrhoea, dehydration and loss of salts from the blood 
-#>
-<#
+#}
+{#
 [7.7]
 Teeth INCISOR 
  
@@ -234,36 +234,36 @@ Blunt for chewing and crushing
 MOLAR 
  
 Blunt chewing and crushing. Two roots 
-#>
-<#
+#}
+{#
 [7.8]
 Structure of a Tooth  Enamel: the strongest tissue in the body made from calcium salts  Cement: helps to anchor tooth  Pulp cavity: contains toothproducing cells, blood vessels, and nerve endings which detect pain.  Dentine: calcium salts deposited on a framework of collagen fibres Neck: in between crown and root, it is the gums 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 11 OF 35 
-#>
-<#
+#}
+{#
 [7.9]
 Tooth Decay 
  
-#>
-<#
+#}
+{#
 [7.10]
  Prevention  Eating food with low sugar content  Regular and effective teeth brushing to remove plaque  Finishing a meal with a crisp vegetable and a glass of water 
-#> <#
+#} {#
 [7.11]
  Chemical Digestion  Where enzymes are used to break down large insoluble substances such as proteins into smaller soluble substances like amino acids so that they can be absorbed.  Amylase: breaks down starch into maltose, it is produced in the pancreas (but also in the salivary gland)  Protease: breaks down proteins to peptides (done by pepsin) then into amino acids (done by trypsin). Pepsin comes from the stomach and trypsin comes from the pancreas.  Lipase: breaks down lipids into fatty acids and glycerol, produced by the pancreas.  Hydrochloric acid in gastric juice: o Denaturing enzymes in harmful microorganisms in food o Giving the optimum pH for pepsin activity 
-#> <#
+#} {#
 [7.12]
  Absorption  Movement of digested food molecules through wall of the intestine into the blood or lymph.  The small intestine is the region for absorption of digested food.  The small intestine is folded into many villi which increase the surface area for absorption. One villus will have tiny folds on the cells on its outside called microvilli.   More surface area means more absorption can happen  Capillary: transports glucose and amino acids 
  Vein: delivers absorbed products to liver via hepatic portal vein.  Gland: produces enzymes  Lacteal: absorbs fatty acid and glycerol  Epithelium: only one cell thick for faster transport. The cells of the epithelium are folded to form microvilli.   Small intestine and colon absorb water  o The small intestine absorbs 5–10 dm3 per day  o The colon absorbs 0.3–0.5 dm3 per day 
 
-#>
-<#
+#}
+{#
 [8.1]
 Xylem and Phloem  Functions of xylem and phloem o To transport substances from source, where they are taken in or made, to the sinks, where they are used o To support the stem 
-#>
-<#
+#}
+{#
 [8.2]
 Root Hair Cell 
  
@@ -273,29 +273,29 @@ Leaf
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 12 OF 35 
-#>
-<#
+#}
+{#
 [8.3]
-Pathway Taken By Water  Water enters root hair cell from moist soil via osmosis because water potential is higher in soil than in cytoplasm.  Water passes through the cortex cells by osmosis but mostly by “suction”.  Water and minerals are forced to cross the endodermis.  Water enters xylem then leaves when it gets to mesophyll cells #>
-<#
+Pathway Taken By Water  Water enters root hair cell from moist soil via osmosis because water potential is higher in soil than in cytoplasm.  Water passes through the cortex cells by osmosis but mostly by “suction”.  Water and minerals are forced to cross the endodermis.  Water enters xylem then leaves when it gets to mesophyll cells #}
+{#
 [8.4]
-Transpiration  Transpiration: evaporation of water at surfaces of the mesophyll cells followed by loss of water vapour from plant leaves, through stomata.  Water leaves mesophyll cells, into air spaces created by irregular shape of spongy mesophyll cells, then diffuses out of the stomata.  Wilting: occurs if water loss is greater than water uptake – cells become flaccid, tissues become limp and plant no longer supported #>
-<#
+Transpiration  Transpiration: evaporation of water at surfaces of the mesophyll cells followed by loss of water vapour from plant leaves, through stomata.  Water leaves mesophyll cells, into air spaces created by irregular shape of spongy mesophyll cells, then diffuses out of the stomata.  Wilting: occurs if water loss is greater than water uptake – cells become flaccid, tissues become limp and plant no longer supported #}
+{#
 [8.5]
-Uptake of Water  Caused by water loss in leaves which lowers its water potential   Water moves from xylem to leaf tissues via osmosis  Water moves up the stem in the xylem due to tension (because of cohesion of water molecules to each other) caused by water loss from the leaves   Ends with the gain of water through roots  This upward flow of water is called the transpiration stream #>
-<#
+Uptake of Water  Caused by water loss in leaves which lowers its water potential   Water moves from xylem to leaf tissues via osmosis  Water moves up the stem in the xylem due to tension (because of cohesion of water molecules to each other) caused by water loss from the leaves   Ends with the gain of water through roots  This upward flow of water is called the transpiration stream #}
+{#
 [8.6]
 Factors Affecting Rate of Transpiration  Temperature: higher temperatures increase waterholding capacity of air and increases transpiration rate  Humidity: low humidity increases water potential gradient between leaf and atmosphere  increasing transpiration rate  Light intensity: high light intensity causes stomata to open (to allow more photosynthesis) which causes increase in transpiration 
-#>
-<#
+#}
+{#
 [8.7]
 Translocation  Movement of sucrose and amino acids in phloem; from regions of production (sources) to regions of storage or to regions of utilization in respiration or growth (sinks).  Translocation in different seasons: o Spring: sucrose transported from stores in roots to leaves o Summer & early autumn: sucrose goes from photosynthesizing leaves to root stores, 
-#>
-<#
+#}
+{#
 [9.1]
 Transport Systems  Single circulation system (fish): o Two heart chambers o Blood absorbs oxygen in gills o Released in body cells then back to heart  Double circulation system: o Four heart chambers o Blood passes through heart twice o Oxygenated in lungs, to heart, to body, back to heart o Advantage: delivers greater blood flow rate to tissues around the body as the heart pumps the oxygenated blood to it from the lungs 
-#>
-<#
+#}
+{#
 [9.2]
 The Heart 
  
@@ -306,21 +306,21 @@ Septum
  
 PAGE 13 OF 35 
  Pulmonary artery: carries deoxygenated blood from right ventricle to lungs  Septum: separates left and right sides of the heart  Pulmonary vein: carry oxygenated blood from lungs to left atrium  Left atrium: collect oxygenated blood and pump it to left ventricle  Left ventricle: pumps oxygenated blood to the body via the aorta  Aorta: carries oxygenated blood from left ventricle to rest of body  Tricuspid and bicuspid valves: prevent backflow of blood into the atria when ventricles contract (atria ventricular valves)  Pulmonary and aortic valves: prevent backflow of blood from the arteries into the ventricles (semi-lunar valves) 
-#>
-<#
+#}
+{#
 [9.3]
 Cardiac Cycle 
    Cardiac diastole: all chambers are relaxed, and blood flows into the heart Atrial systole, ventricular diastole: atria contract, pushing blood into the ventricles Atrial diastole, ventricular systole: after atria relax, ventricles contract, pushing blood out of heart  Physical activity makes the heart beat more quickly and more deeply, for an increased circulation of blood so that more oxygen and glucose can get to the muscles. 
-#>
-<#
+#}
+{#
 [9.4]
 ECG Trace  The electrical activity of the heart can be monitored by the electrocardiogram, pulse rate and listening to the sounds of the valves closing  Physical activity makes the heart beat more quickly and more deeply, for an increased circulation of blood so that more oxygen and glucose can get to the muscle 
-#>
-<#
+#}
+{#
 [9.5]
 Coronary Heart Disease  Coronary artery becomes blocked, interrupting the supply of blood to the heart muscle.  
- The heart muscle cells are deprived of oxygen & glucose, and poisonous wastes such as lactic acid build up.   Part of the heart muscle stops contracting, causing a heart attack  Caused by stress, smoking, poor diet, poor lifestyle & genetically  Can be prevented by not smoking, avoiding fatty food and exercising regularly  Treated by aspirin and surgery (stents, angioplasty and by-pass) #>
-<#
+ The heart muscle cells are deprived of oxygen & glucose, and poisonous wastes such as lactic acid build up.   Part of the heart muscle stops contracting, causing a heart attack  Caused by stress, smoking, poor diet, poor lifestyle & genetically  Can be prevented by not smoking, avoiding fatty food and exercising regularly  Treated by aspirin and surgery (stents, angioplasty and by-pass) #}
+{#
 [9.6]
 Arteries, Veins and Capillaries  VESSEL FUNCTION STRUCTURE 
 ARTERY 
@@ -335,34 +335,34 @@ CAPILLARY
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 14 OF 35 
-#>
-<#
+#}
+{#
 [9.7]
 Lymphatic System  Circulation of body fluids, and the production of lymphocytes.   Lymph node contains many lymphocytes which filter lymph.   Tissue fluid: made when plasma is squeezed out of capillaries.   Substances diffuse between cells and tissue fluid.   Lymph vessels collect lymph and return it to the blood.   Tissue fluid returns to the capillaries by osmosis. 
-#>
-<#
+#}
+{#
 [9.8]
 Blood  Red blood cells: haemoglobin and oxygen transport  White blood cells: phagocytosis and antibody formation  Platelets: causing clotting  Plasma: transport of blood cells, ions, soluble nutrients, hormones, carbon dioxide, urea and plasma proteins 
   
-#>
-<#
+#}
+{#
 [9.9]
 Immune system  PHAGOCYTE LYMPHOCYTE  Phagocyte has lobed nucleus and vesicles containing digestive enzymes.   Phagocytosis: engulf pathogen, vesicles fuse with vacuole, enzymes digest bacteria.   Antigen: protein/ carbohydrate on surface of pathogen which provokes immune system  Lymphocytes are found in blood and in lymph nodes   Large nucleus and they produce antibodies,   Antibodies: Y-shaped protein, bind to label pathogens.   Then either destroyed by being ingested by phagocytes, or the antibodies may do it. 
-#>
-<#
+#}
+{#
 [9.1]
  Blood Clotting  Reduces blood loss and keeps pathogens out  Fibrinogen (inactive) turns to fibrin (activated), and forms a mesh to trap red blood cells, which eventually dries to form a scab. 
-#>
-<#
+#}
+{#
 [10.1]
 Pathogens  Pathogen: a disease-causing organism.  Transmissible disease: a disease in which the pathogen can be passed from one host to another. 
  The pathogen for a transmissible disease may be transmitted either: o Direct contact e.g. through blood, body fluids o Indirectly e.g. from contaminated surfaces/food, from animals, from air 
-#>
-<#
+#}
+{#
 [10.2]
 Body Defences  The human body has many natural defences against pathogens.  Mechanical barriers:  o Nostrils contain hairs that help trap dust o Skin has a thick outer layer of dead cells  Chemical barriers:  o Sticky mucus which can trap pathogens o In the stomach, hydrochloric acid is secreted which kills many of the bacteria in food  Cells: Pathogens that manage to get through all these defences are usually destroyed by white blood cells: o Some of these cells take in and digest the pathogens by phagocytosis o Others produce antibodies that incapacitate or kill the pathogen o Vaccination against disease helps antibodies to produce very quickly 
-#>
-<#
+#}
+{#
 [10.3]
 The Immune System  An antibody is a protein molecule which fits into another molecule  Pathogen molecules are called antigens.   To destroy a pathogen, antibody molecules must be made which are exactly the right shape to fit into molecules (antigens) on the outside of the pathogen.  Antibodies lock onto antigens leading to destruction of pathogen / marking of pathogens for destruction by phagocytes  If a pathogen enters the body, it meets a large number of lymphocytes. One of these will recognize the pathogen and divide rapidly by mitosis  These lymphocytes then secrete antibody, destroying the pathogens  Active immunity: defence against a pathogen by antibody production in the body.  Active immunity is gained after an infection by a pathogen or by vaccination.  Vaccines immunise children against diseases caused by pathogens 
  CIE IGCSE BIOLOGY//0610  
@@ -370,8 +370,8 @@ The Immune System  An antibody is a protein molecule which fits into another 
 PAGE 15 OF 35 
  Process of vaccination: o Harmless pathogen given which has antigens o Antigens trigger an immune response by lymphocytes which produce antibodies  o Memory cells are produced that give long-term immunity  In controlling the spread of disease, it is important to consider hygienic food preparation, good personal hygiene, waste disposal and sewage treatment  Passive immunity: short-term defence against a pathogen by antibodies acquired from another individual, e.g. mother to infant  Memory cells are not produced in passive immunity  Babies get passive immunity by breast feeding.  o Breast milk contains antibodies from the mother which are passed on to her baby.  o Useful because a young baby’s immune system is not well developed and so the mother’s antibodies can protect it against any diseases to which she is immune for the first few months of its life  Some diseases are caused by the immune system targeting and destroying body cells (Type 1 diabetes) 
 
-#>
-<#
+#}
+{#
 [11.1]
 Gas Exchange PROPERTY OF SURFACE REASON THIN (ONE CELL THICK) Short distance to diffuse 
 LARGE SURFACE AREA 
@@ -380,8 +380,8 @@ WELL VENTILATED
 Concentration gradients for oxygen and carbon dioxide are kept up by regular fresh supplies of air 
 CLOSE TO BLOOD SUPPLY 
 Gases can be carried to/from the cells that need/produce them 
-#>
-<#
+#}
+{#
 [11.2]
 Structure 
  
@@ -391,33 +391,33 @@ Structure
 INSPIRED AIR EXPIRED AIR  21% oxygen  0.04% carbon dioxide  78% nitrogen   Water vapour varies to climate  18% oxygen  3% carbon dioxide  78% nitrogen  Saturated water vapour. 
  
  Test for CO2: Blow CO2 through limewater. +ve result = turn cloudy 
-#>
-<#
+#}
+{#
 [11.3]
 Effect of Physical Activity on Breathing  Physical activity increases the breathing rate – more breaths per minute, and the tidal volume – more air per breath  This is measured with a spirometer to produce a spirogram.   During exercise, tissues respire at a higher rate, the change in breathing volume and rate helps to keep CO2 concentration and pH at safe levels. 
  
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 16 OF 35 
-#>
-<#
+#}
+{#
 [11.4]
 Breathing BREATHING IN BREATHING OUT  External intercostal muscles contract – pulls rib cage upwards and outwards  Diaphragm muscles contract – diaphragm moves upwards  Lung volume increases – and pressure falls  Air rushes in to equalise pressure  External intercostal muscles relax – rib cage falls downwards and inwards  Diaphragm muscles relax – returns to dome shape  Lung volume decreases – and pressure increases  Air is forced out 
  
  Internal intercostal muscles: are used in coughing and sneezing.  Mucus & cilia: goblet cells produce sticky mucus to trap and eliminate particulate matter and microorganisms.   Ciliated cells have cilia: little hairs which sweep back and forward in a coordinated way to brush mucus up the lungs into the mouth 
 
-#>
-<#
+#}
+{#
 [12.1]
 Aerobic Respiration  Release of a relatively large amount of energy in cells by the breakdown of food substances in the presence of oxygen. Glucose + oxygen → carbon dioxide + water C6H12O6 + 6O2 → 6CO2 + 6H2O 
-#>
-<#
+#}
+{#
 [12.2]
 Anaerobic Respiration  Release of a relatively small amount of energy by the breakdown of food substances in the absence of oxygen.  In muscles:  Glucose → lactic acid C6H12O6 → 2 C3H6O3  In yeast (single-cell fungi):  Glucose → ethanol + carbon dioxide C6H12O6 → 2C2H5OH + CO2  Disadvantages of anaerobic respiration: o Only produces 1/20 of the energy per glucose molecule that aerobic respiration would o Produces poisonous lactic acid  Lactic acid:  o Transported in blood to heart, liver and kidneys, which oxidize it o The heart, liver and kidneys need extra oxygen to do this which causes you to continue breathing heavily after exercise.  o The extra oxygen is called the oxygen debt. 
 
 
-#>
-<#
+#}
+{#
 [13.1]
 Function of Kidney  Removal of urea and excess water and the re-absorption of glucose and some salts  Urea is formed in the liver from excess amino acids  Alcohol, drugs & hormones are broken down in the liver 
  Cortex: contains Bowman’s capsules and coiled tubules  Ureter: carries urine from kidney to bladder  Medulla: contains loops of Henlé and collecting ducts  Loop of Henlé: selectively absorbs water/solutes 
@@ -425,26 +425,26 @@ Function of Kidney  Removal of urea and excess water and the re-absorption of
  
 PAGE 17 OF 35 
  Collecting ducts: reabsorbs water into blood and store wastes until they are passed into ureter   Urethra: carried urine from bladder to the outside.  Bladder: stores urine  Renal capsule: filters from blood: water, glucose, urea and salts.  Tubule: (yellow) reabsorbs 100% of glucose, most of the water and some salts back into the blood (red), leading to concentration of urea in the urine as well as loss of excess water and salts into the tubule.  Renal artery: brings wastes and water from blood  Renal vein: reabsorbs water and useful molecules and leaves wastes behind 
-#>
-<#
+#}
+{#
 [13.2]
 Structure of the Kidney 
  
 1. Ultrafiltration: blood from renal artery enters the glomerulus. Water, urea, salts and glucose are forced into the Bowman’s capsule. Blood cells and large proteins cannot pass through. 2. Selective reabsorption: in the proximal tubule two thirds of the salt and water and all the glucose moves out of the nephron, by active transport. These substances are reabsorbed back into the blood capillary. 3. Loop of Henlé: this part of the loop of Henlé is permeable to water but not salt. Water passively diffuses out of the nephron because of the low water potential of the medulla tissue fluid. 4. Loop of Henlé: this part is permeable to salt but not water. The loss of water from the filtrate in the previous stage increases the salt concentration. Some salt passively diffuses out of the loop here. 
 5. Collecting duct: the remaining substances move through the second coiled tubule (distal tubule), into the collecting duct. The permeability of this part of the nephron to water is controlled 
 
-#>
-<#
+#}
+{#
 [13.3]
 Dialysis  When a kidney machine takes a patient’s blood and cleans it, then returns the blood to circulation.   This is how it works: o Blood enters machine from patient o The pump passes the blood passes the dialysis tubing which is semi-permeable therefore acting as a filter o The surrounding liquid contains some salts, glucose but no urea so waste materials pass from blood by diffusion; o The ‘cleaned' blood returns to patient's circulation/body 
  DIALYSIS TRANSPLANT  More expensive in the long run  Very disruptive (three 68 hrs sessions per week)  Do not need to find kidney  Need a machine & must live near one  Less expensive in the long run  Not very disruptive (only have to take medication)  Need a kidney  Can go anywhere, anytime  Risk of rejection 
 
-#>
-<#
+#}
+{#
 [14.1]
 Nervous Control in Humans  The nervous system consists of two parts: o Central nervous system (CNS) consisting of the brain and spinal cord, which are the areas of coordination  o Peripheral nervous system (PNS) made up of nerves and neurones, which coordinate and regulate bodily functions.  Involuntary actions: not under conscious control e.g. reflex action  Voluntary actions: are done if we decide to carry them out 
-#>
-<#
+#}
+{#
 [14.2]
 Types of Neurons  Nerve impulse: an electrical signal that passes along nerve cells called neurones 
  
@@ -457,32 +457,32 @@ Motor Neurone:
 Sensory Neurone:  
  
 Relay (connector) neurone: 
-#>
-<#
+#}
+{#
 [14.3]
   Reflex Arc  A reflex action is an involuntary, quick action to respond to a stimulus, in order to protect the body from danger   E.g. quickly removing your hand from hot metal surface  They involve three neurones: a sensory neurone, relay neurone and motor neurone.   The gap between neurones is called a synapse.  How the reflex arc works: o A stimulus affects a receptor (cell or organ that converts a stimulus into an electrical impulse) o A sensory neurone carries impulse from the receptor to the CNS o Connector/relay neurone carries impulse slowly (because it has no myelin sheath) across the spinal chord o  Motor neurone carries impulse from the CNS to the effector o  Effector (either a muscle or a gland) carries out the response 
  
  Reflex action: means of automatically and rapidly integrating and coordinating stimuli with the responses of effectors (muscles and glands) 
-#>
-<#
+#}
+{#
 [14.4]
 Synapses   Synapse: a junction between two neurones, consisting of a gap across which impulses pass by diffusion of a neurotransmitter  Synaptic cleft: small gap between each pair of neurones  Inside the neurones axom, there are 100s of tiny vacuoles (vessicles each contain a chemical called neurotransmitter)  When an impulse arrives, the vessicles move to the cell membrane and empty their content into the synaptic cleft  The neurotransmitter quickly diffuses across the tiny gap and attaches to receptor molecules in the cell membrane of the relay neurone  This can happen because the shape of the neurotransmitter molecules is complimentary to the shape of the receptor molecule  Many drugs e.g. heroin act upon synapses 
-#>
-<#
+#}
+{#
 [14.5]
 Antagonistic Muscle  A muscle that opposes the action of another; e.g. biceps and triceps are antagonistic muscles or circular and radial muscles in the eye  Agonist: a muscle that contracts while another relaxes; e.g. when bending the elbow the biceps are the agonist  Antagonist: a muscle that relaxes while another contracts; e.g. when bending the elbow the triceps are the antagonist  Sense organ: groups of receptor cells responding to specific stimuli: light, sound, touch, temperature and chemicals. 
  
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 19 OF 35 
-#>
-<#
+#}
+{#
 [14.6]
 The Eye  The sense organ responsible for sight 
  
  Cornea: refracts light  Iris: controls how much light enters pupil  Lens: focuses light onto retina  Retina: contains light receptors, some sensitive to light of different colours  Optic nerve: carries impulses to the brain 
-#>
-<#
+#}
+{#
 [14.7]
 Accomodation  Adjusting for near and distant objects. 
  
@@ -492,22 +492,22 @@ NEAR OBJECT DISTANT OBJECT  Ciliary muscles contract  Ligaments relax  
  
  
  
-#>
-<#
+#}
+{#
 [14.8]
 Pupil Reflex  Adjusting for high and low light intensity 
-LOW LIGHT INTENSITY HIGH LIGHT INTENSITY  Radial muscles (straight lines) contract and become shorter to pull the pupil (black dot) making it wider, to let more light enter, to form a clear image on retina  Circular muscles (circular lines) contract and become shorter to reduce the size of the pupil to protect retina from bleaching. #>
-<#
+LOW LIGHT INTENSITY HIGH LIGHT INTENSITY  Radial muscles (straight lines) contract and become shorter to pull the pupil (black dot) making it wider, to let more light enter, to form a clear image on retina  Circular muscles (circular lines) contract and become shorter to reduce the size of the pupil to protect retina from bleaching. #}
+{#
 [14.9]
 Rods and Cones RODS  Provide low detail, black & white images, good for seeing in low intensity light (at night).   Packed most tightly around edge of retina so you can see things most clearly when not looking directly at them.  CONES  Provide detailed, coloured images; they work in high light intensity.   Most tightly packed at centre of retina, so objects are seen most clearly when being directly looked at. 
  
  Fovea: o Part of the retina where the receptor cells are pushed most closley together o Where light is focused when you look straight at an object 
-#>
-<#
+#}
+{#
 [14.10]
 Hormones  A chemical substance, produced by a gland, carried by the blood, which alters the activity of one or more specific target organs and is then destroyed by the liver. 
-#>
-<#
+#}
+{#
 [14.11]
 Adrenaline  A hormone secreted by the adrenal gland.   It increases pulse rate, makes the glycogen in muscles get converted to glucose, and released into blood, makes you breath deeper and more rapidly, airways become wider, and makes skin become pale as blood is diverted away.   Increases conc. of glucose in the blood for respiration.  Adrenaline is secreted for example: while bungee jumping or riding a rollercoaster 
  
@@ -525,8 +525,8 @@ Testosterone
 Causes development of male sexual characteristics 
 OVARY Oestrogen  
 Causes development of female sexual characteristics 
-#>
-<#
+#}
+{#
 [14.12]
  Nervous and Hormonal Systems 
 COMPARISON 
@@ -546,23 +546,23 @@ Widespread response (in many organs)
 EXAMPLE OF PROCESS CONTROLLED 
 Reflexes such as blinking 
 Development of reproductive system  Hormones are used in food production, for example oestrogen is used to boost growth rate of chickens.   Advantage: chickens grow quickly meaning more profit.  Disadvantages: this may cause human males to develop feminine characteristics, and it is unnatural. 
-#>
-<#
+#}
+{#
 [14.13]
  Homeostasis  The maintenance of a constant internal environment.  Homeostasis is the control of internal conditions within set limits 
-#>
-<#
+#}
+{#
 [14.14]
  Negative Feedback  Feedback controls the production of hormones – the hormones regulate their own production.   A negative feedback control is when the change in hormone level acts as a signal to cancel out that change, so when blood hormone level is low, hormone production is stimulated, when it is high, it is inhibited. 
-#>
-<#
+#}
+{#
 [14.15]
  Glucoregulation  Blood glucose levels are monitored and controlled by the pancreas  The pancreas produces and releases different hormones depending on the blood glucose level  Insulin is released when blood glucose levels are high – the liver stores excess glucose as glycogen  Glucagon is released when blood glucose levels are low – the liver converts stored glycogen into glucose and releases it into the blood 
  
  When the control of blood glucose does not work, a person is said to have diabetes  Type 1 diabetes is caused by the death of the cells that secrete insulin 
  o Symptom: hyperglycaemia (feel unwell, dry mouth, blurred vision and feel thirsty) or hypoglycaemia (tired, show confusion and irrational behaviour) o Treatment: eating little and often and avoiding large amount of carbohydrates, injecting insulin to reduce blood glucose concentration 
-#>
-<#
+#}
+{#
 [14.16]
  Thermoregulation Constant body temperature is maintained by:  Insulation: provided by fatty tissue retains heat. Hairs become erect to trap warm air by contracting erector muscles and vice versa.  Vasodilatation: when it is hot, arterioles, which supply blood to the skinsurface capillaries, dilate (become wider) to allow more blood near to skin surface to increase heat loss (face redder)  Vasoconstriction: when it is cold, arterioles, which supply blood to the skin-surface capillaries, constrict (become smaller) to allow less blood near to skin surface to decrease heat loss  
  CIE IGCSE BIOLOGY//0610  
@@ -570,24 +570,24 @@ Development of reproductive system  Hormones are used in food production, for
 PAGE 21 OF 35 
  Sweating: the water evaporates giving a cooling effect  Skin receptors: sense heat and sensory neurons send impulses to the hypothalamus  Shivering: muscular activity generates heat  Thermoregulatory centre: in the hypothalamus, it controls the use of corrective mechanisms (e.g. sweating and shivering). 
  
-#>
-<#
+#}
+{#
 [14.17]
  Homeostatic Organs  Cells: change composition of blood as they remove nutrients and O2 and add wastes and CO2  Heart: keeps blood pressure constant to deliver oxygen and nutrients around body  Skin: to maintain heat exchange with external environment   Kidneys: regulate water and salt levels (osmoregulation) and the removal of wastes like urea (excretion)  Lungs: regulate gas exchange  Intestines: supply soluble nutrients and water to blood  Liver: regulates blood solutes and removes toxins 
-#> <#
+#} {#
 [14.18]
  Tropic Responses  Auxin:  o Plant hormones or growth substances o Controls tropisms o It is produced by cells at the tip of roots and shoots of plants  Gravitropism: a response in which a plant grows towards (positive) or away (negative) from gravity.  Auxins’ role in gravitropism: o Tend to settle at the bottom end of the root.  o However, this does not make the cells of the tip of the root grow longer; auxins prevent cells at bottom tip of root from growing, making cells at top of root grow faster.  o When cells of top of the root grow faster, they push root deeper into soil and root gets longer.  o The root grows in direction of the gravitational pull. 
  Phototropism: a response in which a plant grows towards (positive) or away (negative) from the direction from which light is coming.  Auxins’ role in phototropism: o If sun shines on right side of a plant’s shoot, auxins will accumulate on dark opposite left side.  o Auxins accumulating makes cells on left side grow faster than cells on right side.  o When left side of shoot starts growing faster than right side, shoot will start to bend to right side towards sunlight.  Hormones can be used as weed killers: spraying with high concentrations of hormone (2,4-D) upsets normal growth patterns. It affects different species differently so might only kill one species not the other (this is good). 
  
-#>
-<#
+#}
+{#
 [15.1]
-Drugs  Any substance taken into the body that modifies or affects chemical reactions in the body. #>
-<#
+Drugs  Any substance taken into the body that modifies or affects chemical reactions in the body. #}
+{#
 [15.2]
 Antibiotics  Antibiotics work by stopping a metabolic practice performed by the bacteria you are trying to get rid of, but not performed by human cells.   Some bacteria are resistant to antibiotics which reduces the effectiveness of antibiotics  Development of resistant bacteria such as MRSA can be minimised by limiting use of antibiotics only when essential and ensuring treatment is completed  Antibiotics don’t work on viruses because they are not really living and they make the host cell perform the tasks for them. 
-#>
-<#
+#}
+{#
 [15.3]
 Heroin Effects of the abuse of heroin: a powerful depressant  Problems of addiction  Severe withdrawal symptoms (vomiting, restlessness)  Malnourishment as drug depresses appetite  Financial problems – stealing, loss of job  Infection from sharing needles e.g. HIV/AIDS  Heroin affects the nervous system by its effect on the function of synapses 
  
@@ -595,25 +595,25 @@ Heroin Effects of the abuse of heroin: a powerful depressant  Problems of add
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 22 OF 35 
-#>
-<#
+#}
+{#
 [15.4]
 Alcohol Effects of excessive consumption of alcohol –a depressant:  Causes coronary heart diseases  Reduced self-control  Depression  Effect on reaction times  Damage to liver – cirrhosis 
-#>
-<#
+#}
+{#
 [15.5]
 Smoking Some effects of tobacco smoke:  Drying effect and heat irritate lungs – destroys cilia   Nicotine is addictive, it is also a stimulant, it increases pulse rate and narrows blood vessels which can cause damage  Tobacco smoking can cause chronic obstructive pulmonary disease (COPD), lung cancer and coronary heart disease  Tar causes cancer, and is an irritant so causes coughing.   There are other irritants in tobacco smoke including: smoke particles, ammonia, and sulphur dioxide  Emphysema: walls between alveoli break making large sacs, reducing surface area massively and making you breathless after a couple of steps  Loss of limbs due to poor circulation, CHD and lower sperm-count  Carbon monoxide irreversibly bonds with haemoglobin which can lead to oxygen starvation  Cancer of the stomach, pancreas and bladder etc.  Liver is the site of breakdown of alcohol and other toxins 
-#>
-<#
+#}
+{#
 [15.6]
 Hormones and Sports   Hormones: can be used to improve sporting performance  Testosterone o Improved hand- eye coordination o Improved body-fat composition o Increased muscle mass  Anabolic Androgenic Steroids o Affects limbic system  Mood swings  Impaired judgement  High blood pressure  Kidney failure o Increased risks of prostate cancer (male) o Inconsistencies of menstrual cycle (female) o Changes in blood cholesterol 
 
-#>
-<#
+#}
+{#
 [16.1]
 Asexual Reporudction  The process resulting in the production of genetically identical offspring from one parent.  Bacteria:  o Reproduce by binary fission, each bacterium divides into two.  o The generation time is the time taken for a cell to divide into 2.  Fungi: o Single-celled yeast reproduces by binary fission.  o All other fungi produce via spores.  o When the sporangium bursts it spreads the spores.  o Spores land and grow mycelium (roots) for example mushrooms  Potatoes: o The shoot from a potato goes back underground and the stem swells to form a new genetically identical potato.  o The swollen stem acts as a storage organ. ADVANTAGES DISADVANTAGES  Fast: no need to find mate, fertilise etc.  Good characteristics are kept  No variation  Harmful genes transferred  Overcrowding- fighting for food 
-#>
-<#
+#}
+{#
 [16.2]
 Sexual Reproduction  Sexual reproduction: process involving the fusion of the nuclei of two gametes (sex cells) to form a zygote and the production of offspring that are genetically different from each other   Fertilisation: the fusion of gamete nuclei  Nuclei of gametes are haploid and that the nucleus of a zygote is diploid 
  
@@ -621,19 +621,19 @@ ADVANTAGES DISADAVNATGES  Produces genetically different offspring; don’t a
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 23 OF 35 
-#>
-<#
+#}
+{#
 [16.3]
 Sexual Reproduction in Plants  Insect pollinated, dicotyledonous flowering plant: foxglove 
  
  Wind pollinated flower structure: grass 
  
-#>
-<#
+#}
+{#
 [16.4]
 Functions  Sepal: protect the flower bud.  Petal: brightly coloured and scented and may have nectarines which are all used to attract insects, petals in wind pollinated flowers are tiny, and used for pushing the bracts (leaf-like structures) apart to expose stamens and stigma  Anther: has pollen sacs with pollen grains which contain the male nucleus (male gamete).  Stigma: platform on which pollen grains land  Ovary: hollow chamber, ovules grow from the walls. 
-#>
-<#
+#}
+{#
 [16.5]
 Pollination  Pollination: transfer of pollen grains from the male part of the plant (anther of stamen) to the female part of the plant (stigma).  Agents of pollination: insects, birds, mammals, water and wind INSECT POLLINATED WIND POLLINATED  Large colourful petals – attract  Sweetly scented  Nectaries  Moderate amount of pollen  Pollen is spiky/sticky  Dull petals  No scent  No nectaries  Huge amount of pollen  Pollen round and smooth 
  Anther & stigma inside flower  Stick stigma  Flowers have stripes which act as guide-lines for insects 
@@ -656,20 +656,20 @@ SELF POLLINATION CROSS POLLINATION  Pollen is transferred from the anther to 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 24 OF 35 
-#>
-<#
+#}
+{#
 [16.6]
 Germination  A process controlled by enzymes  Water: activates enzymes to turn insoluble food stores into soluble substances, and makes tissues swell so that the testa splits  Oxygen: enters through the gaps in the testa (along with water), and is used in aerobic respiration.  Temperature: must be suitable for enzymes to work (at optimum temperature). 
-#>
-<#
+#}
+{#
 [16.7]
 Sexual Reproduction In Humans  Male reproductive system: 
  
 o Testes: have many coiled tubes which produce sperm, and the cells between tubes produce testosterone. o Scrotum: holds testicles o Sperm duct: carries sperm from testicles to urethra. o Prostate gland: makes seminal fluid  o Urethra: carries semen from sperm duct to tip of penis o Penis: male sex organ, used to transfer semen to the female.  Female reproductive system: 
  
 o Ovary: contains follicles which develop into the ova and produces progesterone and oestrogen o Oviduct (fallopian tube): carries the ovum to uterus o Uterus (womb): where the fetus develops. o Cervix: neck of uterus: a strong rigid muscle, moist by mucus with a small opening o Vagina: receives penis during intercourse, and way out for baby at birth. Moist tube of muscle, flexible and secretes mucus 
-#>
-<#
+#}
+{#
 [16.8]
 Menstrual Cycle 
  
@@ -679,25 +679,25 @@ Menstrual Cycle
  
 PAGE 25 OF 35 
  Day 28 – Scenario 1: Egg not fertilized o No implantation takes place, the Corpus Luteum degenerates, causing a lack of progesterone. o This means that endometrium is no longer thick, back to Day 1  Day 28 – Scenario 2: Egg is fertilized o Implantation occurs.  o This makes the hormones to keep the Corpus Luteum maintained which means that progesterone is high.  o This keeps the Endometrium thick for pregnancy 
-#>
-<#
+#}
+{#
 [16.9]
 Hormones in Menstrual Cycle  Oestrogen is secreted by the ovaries. It stops FSH being produced - so that only one egg matures in a cycle and it stimulates the pituitary gland to release hormone LH.  Progesterone is a hormone secreted by ovaries. It maintains the lining of the uterus during the middle part of the menstrual cycle and during pregnancy.  Follicle stimulating hormone (FSH) is secreted by the pituitary gland. It causes an egg to mature in an ovary and it stimulates ovaries to release hormone oestrogen  Luteinizing hormone (LH): is also secreted by pituitary gland and causes mature egg to be released from ovary. 
-#>
-<#
+#}
+{#
 [16.10]
  Sexual Intercourse  Penis fills with blood and becomes erect   Vagina walls secrete a lubricant.   Rubbing of the glans (end of penis) against the vagina wall sets of a reflex action, causes sperm to be released from the testes, and is transported by peristalsis along sperm ducts and urethra, where seminal fluid is added to make semen.   The exit of semen from the penis is called ejaculation.   Sperm then swim through the cervix and oviducts to the first third of the oviduct (from the ovary) where one combines with the egg. 
-#>
-<#
+#}
+{#
 [16.11]
  Fertilization  The fusion of an ovum and a sperm to form a zygote.  Development of zygote: o One sperm penetrates o Ovum membrane alters to form barrier against sperm o Head of sperm (male nucleus) approaches and then fuses with the nucleus of the ovum. o Zygote divides over and over, to make a ball of cells called an embryo.  o It implants itself in the wall of the nucleus (implantation) which is followed by conception 
  Development of foetus: zygote is changed through growth (mitosis) and development (organization of cells into tissues and organs)  Umbilical cord: contains umbilical artery which carries deoxygenated blood and waste products from foetus to placenta and umbilical vein which carries oxygenated blood and soluble food from placenta to foetus. (Contains foetus’ blood)  Placenta: organ for exchange of soluble materials such as foods, wastes and oxygen between mother and foetus; physical attachment between uterus and foetus. (Contains mother’s blood)   Amniotic sac: membrane which encloses amniotic fluid, broken at birth.  Amniotic fluid: protects foetus against mechanical shock, drying out and temperature fluctuations 
-#>
-<#
+#}
+{#
 [16.12]
  Antenatal Care:  Change in diet: o More proteins → growth of foetus o Slightly more fat → the new cells’ cell membrane o More vitamin C and D → blood vessel walls and bones o Iron → haemoglobin o Calcium → growth of bones and teeth  Guidance on motherhood  Checks on foetus and mother including: weight check, blood tests, urine tests, blood pressure checks, ultrasound scanning etc. 
-#>
-<#
+#}
+{#
 [16.13]
  Labour and Birth  Labour: The uterine muscular wall contract and cervix tries to relax, then contractions get more frequent. Contractions cause amniotic membrane to break and release amniotic fluid.  Expulsion: Powerful Contraction pushes baby out.  Afterbirth: Placenta is expulsed out. All contraction & pain gone GAMETE SIZE MOBILITY NUMBER SPERM Smaller Very mobile – use its tail Many more (300,000,000) EGG 
  
@@ -716,25 +716,25 @@ ADVANTAGES
 DISADVANTAGES 
  May be painful  Mother must be present  Damage beauty 
  More likely to develop illness  Risk of wrong mixture  Expensive 
-#>
-<#
+#}
+{#
 [16.14]
  Sex Hormones  At puberty, the pituitary gland starts to stimulate the primary sex organs; the testes in males and the ovaries in females.   Sex hormones – testosterone in males and oestrogen in females are released into the bloodstream.   They only affect the target organs which have receptors which can recognize them.   Causes secondary sexual characteristics such as the growth of pubic hair and maturation of sexual organs. 
-#>
-<#
+#}
+{#
 [16.15]
  Methods of Birth Control  Natural: o Abstinence: don’t have sex o Rhythm method: don’t have sex during the fertile period, only during the safe period  Chemical: o Progesterone-only pill: pill which affects the uterus and makes implantation difficult o Spermicide: a chemical applied as a gel, cream or foam which kills sperm. It is very unreliable on its own but makes barrier methods of contraception more effective.  Mechanical: o Condom: thin rubber covering over penis, it protects from impregnation and STDs, used by man 
 o Diaphragm: used by woman, prevent sperm entering uterus, reliable, must stay in place 6 hours after sex, needs a correct size o Femidom: closed end, has a ring which gets pushed through cervix and open end’s ring lies against the labia o IUD: plastic-coated copper coil, can be left inside for months or even years, has a string which is used to remove it out of the vagina, reliable, it irritates uterus wall preventing implantation  Surgical: o Vasectomy: sperm ducts are cut and tied o Female sterilization: oviducts are cut and tied 
-#>
-<#
+#}
+{#
 [16.16]
  Artificial Insemination  By donor: man’s sperm has a problem, making impregnation impossible, so a donor gives his sperm.  In vitro fertilization: an ovum is fertilized outside a woman’s body. The fertilized ovum is implanted into the uterus.  Fertility drugs: drugs which enhance reproductive fertility. For women, fertility medication is used to stimulate follicle development of the ovary. The side effect is multiple pregnancies. They contain varying amount of FSH and LH. 
-#>
-<#
+#}
+{#
 [16.17]
  Gonorrhoea  A bacterial infection caused by penetrative sex through the mouth, vagina or anus  Symptoms/signs:  o Pain or burning when passing urine o Greenish/yellow discharge from the penis or vagina o Inflammation of the testicles  Effects:  o In men the urethra becomes infected, in woman it is the cervix.  o If left untreated, the disease can travel through reproductive tract causing sterility   Treatment:  o Can be cured with penicillin however no immunity 
-#>
-<#
+#}
+{#
 [16.18]
  Human Immunodeficiency Virus (HIV)  Transmission: Intercourse, blood transfusion, organ transplant or sharing needle with infected person  Prevention: o Avoid intercourse with many partners o Use a condom o Don’t come in contact with other people’s blood 
  
@@ -743,24 +743,24 @@ o Diaphragm: used by woman, prevent sperm entering uterus, reliable, must stay i
 PAGE 27 OF 35 
  How it affects the immune system: o Infects and destroys lymphocytes o Decreases efficiency of immune system o Body becomes liable to infection by other pathogens 
 
-#>
-<#
+#}
+{#
 [17.1]
  Chromosome  Chromosome: a thread of DNA, made up of a string of genes  Gene: a length of DNA that is the unit of heredity and codes for a specific protein. A gene may be copied and passed on to the next generation  Allele: any of two or more alternative forms of a gene  Haploid nucleus: a nucleus containing a single set of unpaired chromosomes (e.g. sperm and egg)  Diploid nucleus: a nucleus containing two sets of chromosomes (e.g. in body cells)  Inheritance of gender in humans: woman’s gamete can only carry an “X” chromosome, and a male gamete can carry either an “X” or “Y” chromosome; females are “XX” while males are “XY”. There is always a 50% chance of getting a boy and vice versa. 
-#>
-<#
+#}
+{#
 [17.2]
  DNA & Protein Synthesis  DNA: control cell functions by controlling production of proteins, antibodies and receptors for neurotransmitters  DNA has 2 long strands and 4 nucleotides, AT and CG  How proteins are made: o Made from long chains of amino acids (20) o DNA bases are read as triplets o DNA is found in the nucleus o Protein synthesis happens on ribosome in cytoplasm o mRNA carries information from DNA to ribosome o When a protein is made, mRNA is made in the nucleus, copying the base sequence o mRNA moves out of the nucleus into the cytoplasm and attaches to the ribosome o ribosome assembles amino acids into protein molecules o the specific order of amino acids is determined by the sequence of bases in the mRNA   All body cells in an organism contain the same genes, but many genes in a particular cell are not expressed because the cell only makes the specific proteins it needs 
-#>
-<#
+#}
+{#
 [17.3]
  Mitosis  The nuclear division giving rise to genetically identical cells in which the chromosome number is maintained by the exact duplication of chromosomes.  Mitosis is needed for: o Growth: in animals each tissue provides its own new cells when they are needed. o Repair of damaged tissues: for example when you cut your skin, mitosis provides new cells to cover up cut. o Replacement of worn out cells o Asexual reproduction: in plants  Stem cells: unspecialized cells that divide by mitosis to produce daughter cells that can become specialized for specific functions 
-#>
-<#
+#}
+{#
 [17.4]
  Meiosis  Reduction division in which the chromosome number is halved from diploid to haploid  Gametes are the result of meiosis  Meiosis results in genetic variation so the cells produced are not all genetically identical. 
-#>
-<#
+#}
+{#
 [17.5]
  Monohybrid Inheritance  Genotype: genetic makeup of an organism in terms of the alleles present (e.g. Tt or GG)  Phenotype: physical or other features of an organism due to both its genotype and its environment (e.g. tall plant or green seed)  genotype + environment + random variation  → phenotype  Homozygous: having two identical alleles of a particular gene (e.g. TT or gg). Two identical homozygous individuals that breed together will be pure-breeding  Heterozygous: having two different alleles of a particular gene (e.g. Tt or Gg), not pure-breeding  Dominant: an allele that is expressed if it is present (e.g. T or G)  Recessive: an allele that is only expressed when there is no dominant allele of the gene present (e.g. t or g)  Pedigree diagrams: 
  
@@ -774,40 +774,40 @@ PAGE 28 OF 35
  
  Co-dominance: when neither of two alleles is dominant to each other.  There are three alleles for blood group given by the symbols IA, IB and IO.   IA and IB are co-dominant giving blood group AB or IAIB, and both dominant to IO.  Sex-linked characteristic: a characteristic in which the gene responsible is located on a sex chromosome and that this makes it more common in one sex than in the other o Colour blindness as an example of sex linkage  
 
-#>
-<#
+#}
+{#
 [18.1]
  Variation  Variation: differences between individuals of the same species  Phenotypic variation is caused by both genetic and environmental factors  Continuous variation is influenced by genes and environment, resulting in a range of phenotypes between two extremes, e.g. height in humans 
  Discontinuous variation is caused by genes alone and results in a limited number of distinct phenotypes (e.g. you are either blood group O, A, B or AB, nothing else)  Mutation: genetic change  Gene mutation: a change in the base sequence of DNA  Mutation is the way in which new alleles are formed   Ionising radiation and some chemicals increase the rate of mutation  Mutation is a source of variation e.g. in Down’s syndrome, where a parent’s chromosomes are unevenly distributed in meiosis. In fertilisation, a zygote with a number of chromosomes that is not 46 is created (e.g. 23 + 24). Characteristics: broad forehead, short neck, downward-sloping eyes, short nose and mental retardation. 
-#>
-<#
+#}
+{#
 [18.2]
  Sickle Cell Anaemia  Disease in which the red blood cell has a sickle shape instead of a round biconcave shape, controlled by a recessive allele, which causes weakness, aching joints and poor circulation.   The fact that it is recessive means that a heterozygous person can be a carrier: they have the allele but it is not expressed.   Being a carrier of sickle cell anaemia makes you resistant to malaria  In equatorial Africa, being sickle cell anaemic causes death, malaria causes death, but the carriers have immunity to malaria and have some symptoms of anaemia, in severe cases they are very weak. 
-#>
-<#
+#}
+{#
 [18.3]
  Adaptive Features  Adaptive feature:  o inherited feature that helps an organism to survive and reproduce in its environment o the inherited functional features of an organism that increase its fitness  Fitness: the probability of an organism surviving and reproducing in the environment in which it is found  Xerophytes: live in deserts where water is scarce and evaporation is rapid, or in windy habitats. Their features are: o Deep roots to reach water far underground o Leaves reduced spines with minimum surface area for transpiration o Shallow spreading roots to collect occasional rain o Rolled leaves, leaf hairs and stomata sunk in pits to trap moist air 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 29 OF 35 
 o Waxy leaf cuticle, impermeable water o Stomata opening at night and closed at midday when evaporation is highest o E.g. cactus and marram grass  Hydrophytes: live in wholly or partly submerged in water. Their features are: o Leaves are highly divided to create large surface area for absorption and photosynthesis o Very little cuticle formation o Lack of xylem tubes, no stomata underside of leaves o Stomata is in the upper surface, has a thick waxy layer to repel water and to keep the stomata open and clear o Roots are often reduced and root hairs are often absent 
-#>
-<#
+#}
+{#
 [18.4]
  Natural Selection  The greater chance of passing on of genes by the best adapted organisms.  Variation is natural or random changes in all living organisms.   Variation leads to survival of the fittest since the variations in certain organisms allow that organism to have an advantage over the others in its species in that area  The surviving organisms reproduce, since they don’t get eaten up, so variation has caused the species to evolve.   Evolution is caused by natural selection which is caused by a change in the environment 
-#>
-<#
+#}
+{#
 [18.5]
  Artificial Selection  Is breeding organisms with valued characteristics together in order to try to produce offspring which shares those useful characteristics (selective breeding).   Can be used to produce organisms which are more economically valued  For example: cows that produce more milk, wheat that is easier to separate from grain, dogs which have better appearance  Selective breeding: o Selecting by humans of individuals with desirable features o Crossing three individuals to produce the next generation 
  
  
-#>
-<#
+#}
+{#
 [18.6]
  Resistant Antibiotic  Strains of antibiotic-resistant bacteria are developing as the use of antibiotics is increasing.   In a group of many bacteria, one might mutate to be resistant to the antibiotic, as a result it reproduces and the others die making a new strain of bacteria, which is resistant to antibiotics.  The susceptible (weak) bacteria are killed first  Only resistant (strong) bacteria are left 
 
-#>
-<#
+#}
+{#
 [19.1]
 Food Chains and Food Webs  The sun is the principal source of energy input to biological systems.  Energy flow is not a cycle; it starts from the sun and then that energy is harnessed by plants which are eaten by animals which are eaten by other animals.   At each step, energy is lost to the environment.  Food chain: a chart showing the flow of energy (food) from one organism to the next beginning with a producer, for example: 
 Mahogany tree → caterpillar → song bird → hawk  Food web: showing the transfer of energy from one organism to the next, beginning with a producer o Energy is transferred between organisms in a food chain by ingestion  Producer: an organism that makes its own organic nutrients, usually using energy from sunlight, through photosynthesis  Consumer: an organism that gets its energy by feeding on other organisms  Herbivore: an animal that gets its energy by eating plants  Carnivore: an animal that gets its energy by eating other animals  Decomposer: an organism that gets its energy from dead or waste organic matter (i.e. a saprotroph)  Ecosystem: a unit containing all of the organisms and their environment, interacting together, in a given area e.g. decomposing log or a lake  Trophic level: position of an organism in a food chain, food web or pyramid of biomass, numbers or energy o Primary consumer: eat vegetables o Secondary consumer: eat meat/drink milk o Tertiary consumer: eat a predatory fish, salmon 
@@ -819,20 +819,20 @@ Food chains usually have fewer than five trophic levels, because energy transfer
  Shows number of each organism in a food chain  When moving up pyramid, number of individuals’ decreases 
  
  Pyramid which shows the biomass   (number of individuals × their individual mass) 
-#>
-<#
+#}
+{#
 [19.2]
 Carbon Cycle 
  
-#>
-<#
+#}
+{#
 [19.3]
 Nitrogen Cycle 
  
  
  Nitrogen-fixing bacteria provide usable nitrogen for plants, these may exist in the root nodules where they live in symbiosis with the plants (nitrogen fixation), or this can happen because of lightning, or microorganisms provide them through decomposition.  Nitrifying bacteria convert nitrogen-containing substances into better nitrogen-containing substances for the plants (nitrification).  Plants absorb these substances and convert them into proteins  Primary consumers eat the plants and can make their own proteins, secondary consumers eat primary consumers and so on.  Death and decay happens at each trophic level leading to stage one   Denitrifying bacteria carry out denitrification: they convert nitrogen-containing substances into atmospheric nitrogen 
-#>
-<#
+#}
+{#
 [19.4]
 Water Cycle 
  
@@ -851,38 +851,38 @@ DEFORESTATION
 Decreases Increases 
  Fewer trees means less photosynthesis  Trees are usually burnt (combustion)  Decomposition of tree trunks (respiration) 
  
-#>
-<#
+#}
+{#
 [19.5]
 Population  Population: a group of organisms of one species, living in the same area at the same time  Community: all of the populations of different species in an ecosystem  Ecosystem: a unit containing the community of organisms and their environment, interacting together, e.g. a decomposing log, or a lake 
-#>
-<#
+#}
+{#
 [19.6]
 Factors Affecting Rate of Population Growth  Food supply: quantity and quality, for example snails need calcium to reproduce to make a shell (food quality).  Predation: if predator population falls, the prey population will rise   Disease: causes organisms to die so a high death rate partly cancels out birth rate meaning less population growth, especially if the organism dies before giving birth, or even population decline 
-#>
-<#
+#}
+{#
 [19.7]
 Sigmoid Curve 
  
  Lag phase: number of mature, reproducing individuals is low and they may be widely dispersed 
  Log phase: exponential growth occurs, the conditions are ideal and maximum growth rate is reached. Limiting factors do not limit growth much.  Stationary phase: limiting factors slow growth as population has reached “carrying capacity” of its environment; mortality rate = birth rate; curve levels off and fluctuates around this maximum population size. 
-#>
-<#
+#}
+{#
 [19.8]
 Human Population Growth FACTORS FAVOURING GROWTH: FACTORS CONTROLLING GROWTH:  Lower infant mortality, higher life expectancy, better nutrition, better housing, better sanitation, medicine, vaccination Disease, famine, war 
  
  The human population is becoming stable (stagnation) due to: o better education (particularly for women), so they work instead of getting married and having children o better living conditions, fewer people die, fewer births needed o cities, reduced need for physical labour on farms o family planning  but overall the population in still increasing.  Social implications of human growth: o demands for roads as there is an increases number of cars o greater expectation for a variety of foods all year round o smaller families increase demand for housing o greater demand for leisure and recreation space 
 
-#>
-<#
+#}
+{#
 [20.1]
 Making Biofuel   Use plants to make sugars which yeast then breaks down to make ethanol  Ethanol can then be used as a fuel o Maize is treated with amylase enzyme (starch to glucose) o Add yeast (glucose used in respiration) and make it respire anaerobically o Ethanol that is produced is extracted by distillation o Mixed with gasoline to increase energy and can be used in cars 
-#>
-<#
+#}
+{#
 [20.2]
 Bread Making  Flour, sugar, water and salt are mixed with yeast to make the dough.  Amylase breaks down some starch to make maltose and glucose. This is used by yeast in respiration  The dough is kept in a warm, moist environment (28°c). Yeast ferments sugar making carbon dioxide which creates bubbles, so bread rises  Cooking (at 180°c) – kills yeast, evaporates alcohol and hardens outer surface. 
-#>
-<#
+#}
+{#
 [20.3]
 Uses of Enzymes  Pectinase:   Fruit juices are extracted using pectinase (breaks down pectin)  Pectin helps plant walls stick together  If pectin is broke down, it’s easier to squeeze juice from the fruit  Extraction of juice from fruit, making juice clear not cloudy 
  
@@ -890,33 +890,33 @@ Washing powders:   Biological washing powders and liquids contain enzyme that
  
  
 Lactase:   Enzyme that breaks down lactose (sugar found in milk)  People can stop making lactase naturally, therefore can’t digest lactose  Milk can be treated with lactase to break down lactose before a person drinks it  Also produces glucose & galactose, used in sweets 
-#>
-<#
+#}
+{#
 [20.4]
-Making Penicillin  Penicillin: an antibiotic produced by a fungus called penicillium.  Stainless steel fermentation vessel is filled with medium containing sugars and ammonium salts.  Penicillium is added to produce penicillin. They use sugar for respiration and ammonium salts to make protein and nucleic acids  The fermentation vessel consists of PAWS o Probes monitor temperature and pH o Air provides oxygen for aerobic respiration in fungus o Water-cooled jacket removes heat to maintain temperature of 24C. o Stirrer keeps the microorganism suspended (allowing access to nutrients and oxygen) while maintaining an even temperature.  Filtered to remove fungus and then can be crystallized to make capsules. #>
-<#
+Making Penicillin  Penicillin: an antibiotic produced by a fungus called penicillium.  Stainless steel fermentation vessel is filled with medium containing sugars and ammonium salts.  Penicillium is added to produce penicillin. They use sugar for respiration and ammonium salts to make protein and nucleic acids  The fermentation vessel consists of PAWS o Probes monitor temperature and pH o Air provides oxygen for aerobic respiration in fungus o Water-cooled jacket removes heat to maintain temperature of 24C. o Stirrer keeps the microorganism suspended (allowing access to nutrients and oxygen) while maintaining an even temperature.  Filtered to remove fungus and then can be crystallized to make capsules. #}
+{#
 [20.5]
 Genetic Engineering  Genetic engineering: changing the genetic material of an organism by removing, changing or inserting individual genes  Examples of genetic engineering: o the insertion of human genes into bacteria to produce human insulin  o the insertion of genes into crop plants to confer resistance to herbicides  o the insertion of genes into crop plants to confer resistance to insect pests  o the insertion of genes into crop plants to provide additional vitamins 
  CIE IGCSE BIOLOGY//0610  
  
 PAGE 33 OF 35 
 Human Insulin in Bacteria  Isolation of the DNA making up a human gene using restriction enzymes, forming sticky ends   Cutting of bacterial plasmid DNA with the same restriction enzymes, forming complementary sticky ends  Insertion of human DNA into bacterial plasmid DNA using DNA ligase to form a recombinant plasmid – insertion of plasmid into bacteria   Replication of bacteria containing recombinant plasmids which make human protein as they express the gene 
-#>
-<#
+#}
+{#
 [20.6]
 Genetically Modified Crops ADVANTAGES DISADVANTAGES  Uniform in shape – easy to transport/ appeal consumers  Growing season shorter  Drought resistant – less water  Higher yields  Natural species may die  Tastse often not as good  Lead to development of super weeds – stronger than GM  No one knows long term effect on humans 
 
-#>
-<#
+#}
+{#
 [21.1]
  Food Supply Food production has increased because:  Improved machinery means less labor is needed  Fertilizers help crops to grow better  Insecticides: a type of pesticide that kills insects  Herbicides: a type of pesticide that kills weeds  Artificial selection and genetic modification means that yields are improved: cows produce more milk, cows are more muscular giving more meat, plant crops can resist insects and cold weather World Food Supplies  Not enough food available in a country to feed its people because: o Fast increase in population o Increasing use of crops for fuel o Decrease of farming  = Climate change/Urbanization    Famine: Wide spread scarcity of food  The main causes of famine: o The rapid rate of population increase o Long term climatic change o Soil erosion and desertification o Economic pressure o Unequal distribution of food o Drought o Flood 
  Monoculture is the continuous production of one type of crop that is often genetically uniform.  Negative Impacts of Monoculture o If a natural disaster were to occur, the whole crop could be wiped out. o If pests & disease attacked crop, it could harm it easily o Using large fields and pesticides reduces the variety of species. This hinders biodiversity.  Negative Impacts of Intensive Livestock Production  o Welfare issues for the livestock o Diseases can spread easily among them o Waste can pollute land and waterways nearby  
-#>
-<#
+#}
+{#
 [21.2]
  Habitat Destruction  Reason for habitat destruction o Increased area for food crop growth, livestock production and housing o Extraction of natural resources o Marine pollution  Through altering food webs, and food chains, humans can have a negative impact on habitats  Effects of deforestation o Reduced biodiversity/destroys habitats/extinction o Loss of CO2 fixation, thus increase in CO2, thus global warming o Soil erosion: tree roots cannot retain soil, goes into rivers making the water dirty & causes blockages, soil becomes less fertile o Flooding: usually 75% of water is absorbed by foliage, root systems or evaporates. After deforestation water, accumulates in valleys 
-#>
-<#
+#}
+{#
 [21.3]
  Pollution Water and air pollution:   Chemical waste and sewage in rivers results in water not being drinkable and eutrophication can occur  Sulphur dioxide dissolves in rain, causing acid rain which increases acidity of lakes and leaches aluminium out of the soil causing: o The fishes’ gills are damaged, eventually killing them. This is fixed by adding calcium hydroxide (slaked lime) o Destroys top of trees and aluminium damages tree roots = dead tree, important nutrients leached away o SO2 poses health hazards for humans (asthma sufferers) o Damages limestone buildings and sculptures o Fewer crops can be grown on an acidic field (fixed by adding lime) 
  CIE IGCSE BIOLOGY//0610  
@@ -933,8 +933,8 @@ Global Warming:  Increase in average temperature of the Earth  Started at 
  
 Eutrophication: when water plants receive too many nutrients.  Fertilisers put in soil by farmers  Fertilisers with nitrates / detergents with phosphates leach into rivers and lakes after rain  Water plants grow more than usual  They block sunlight and kill plants underneath  They die and sink to bottom  Bacteria/fungi decompose remains using the O2 and decreasing the O2 concentration  Fish and other creatures die from oxygen starvation 
  
-#>
-<#
+#}
+{#
 [21.4]
  Conservation  Sustainable resource: one which is produced as rapidly as it is removed from the environment so that it does not run out  Sustainable development: development providing for the needs of an increasing human population without harming the environment  Sustainable development requires:  o Management of conflicting demands  o Planning and co-operation at local, national and international levels  Some resources can be maintained, limited to forests and fish stocks.   They can be sustained using: o Education o Legal quotas  o Re-stocking 
  
@@ -945,4 +945,4 @@ Natural resources:  Water: used to grow food, keep clean, provide power, cont
 PAGE 35 OF 35 
 Recycling:  Water: water from sewage can be returned to environment for human use by sanitation and sewage treatment  Paper: sent to special centres where it is pulped to make raw materials for industry  Plastic: fossil fuels, bottles → fleece clothing  Metal: mining takes a lot of energy so recycling saves energy   Species and habitats: need to be conserved because:  Organisms have value in themselves (ethical value)  Value to medicine (new molecules from exotic plants = new drugs)  Genetic resources are useful to humans as well and are lost when species disappear (DNA for genetic engineering)  Each species has its role in its ecosystem; if it is removed, then the whole ecosystem could collapse 
 Endangered species:   How they become endangered: climate change, habitat destruction, hunting, pollution and introduced species  If the population size drops, variation decreases  Endangered species can be conserved by: monitoring and protecting species and habitats, education, captive breeding programmes and seed banks  Conservation programmes include:  o reducing extinction  o protecting vulnerable environments  o maintaining ecosystem functions, by nutrient cycling and resource provision, e.g. food, drugs, fuel and genes 
-#>
+#}

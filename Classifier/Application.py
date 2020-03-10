@@ -56,6 +56,7 @@ def Content_Input_Offline():
     try:
         Text = open('./Text.txt', 'r', encoding='utf-8').read()
         Instructor = open('Instructor.mofish', 'r').read()
+        #Book = open('./Biology.mofish', 'r', encoding='utf-8').read()
     except:
         print("Please check the existance of files 'Instructor.mofish' and 'Text.txt' ")
         print("The program will be terminated in 10s")
@@ -76,31 +77,39 @@ def Content_Input_Offline():
         Start = Topic_2 + 1
         Content = list(set(re.sub(r'[^\w\s]|\r|\n',' ',Text[Start : End]).split(' ')))
         Location = 0
+        #Final_Content = []
         while Location <= len(Content) - 1:
-            if len(Content[Location]) == 0:
-                del Content[Location]
-                continue
             Content[Location] = Safety_Check(Content[Location])
-            if Instructor.find(Content[Location]) != -1:
+            if len(Content[Location]) == 0 or Instructor.find(Content[Location]) != -1 or not Content[Location].isalpha():
                 del Content[Location]
                 continue
             Location += 1
         Content = set(Content)
+        # while Location <= len(Content) - 1:
+        #     if Book.find(Content[Location]) != -1 and Instructor.find(Content[Location]) == -1:
+        #         if len(Content[Location]) == 0:
+        #             del Content[Location]
+        #             continue
+        #         Final_Content.append(Content[Location])
+        #     Location += 1
         Json_Content = {"chapter": Topic, "content": Content}
         Chapter_List.append(Json_Content)
         Start = End
     return Chapter_List   
 
 def Safety_Check(Word):
-    Word = Word.lower()
-    if Word[-3:] == 'ing':
-        Word = Word[:-3]
-    if Word[-2:] == 'es':
-        Word == Word[:-2]
-    if Word[-2:] == 'ed:
-        Word == Word[:-2]
-    if Word[-1] == 's':
-        Word = Word[:-1]
+    try:
+        Word = Word.lower()
+        if Word[-3:] == 'ing':
+            Word = Word[:-3]
+        if Word[-2:] == 'es':
+            Word == Word[:-2]
+        if Word[-2:] == 'ed':
+            Word == Word[:-2]
+        if Word[-1] == 's':
+            Word = Word[:-1]
+    except:
+        pass
     return Word
 
 def Get_Value(Chapter_List):
@@ -138,7 +147,10 @@ def Write_Log(Chapter_List, Vocabulary_Value):
             print("The program will be terminated in 10s")
             time.sleep(10)
         for Word in Component["content"]:
-            Log.write('\t<' + Word + ':' + str( Vocabulary_Value[Word]) + '>\n')
+            try:
+                Log.write('\t<' + Word + ':' + str(Vocabulary_Value[Word]) + '>\n')
+            except:
+                print('Cannot write "' + '<' + Word + ':' + str(Vocabulary_Value[Word]) + '>"')
         Log.write('}\n')
 
 def Launcher():
