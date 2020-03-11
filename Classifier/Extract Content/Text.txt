@@ -1,6 +1,6 @@
 <#
 [1.1]
- Kinetic Particle Theory 
+Kinetic Particle Theory 
  
  
  When a solid is heated, particles vibrate faster about a fixed point causing particles to move further apart and so solid expands  When particles gain sufficient energy to overcome strong forces of attraction, they move out of their fixed position and can slide over each other in a continuous random motion – solid has melted.  Particles in liquid have energy to move around but are still close to each other and do not have enough energy to overcome the forces that hold them close to each other.  If more heat’s supplied, particles move faster until they have enough energy to overcome the forces of attraction. Particles escape the liquids surface and move around in continuous rapid motion – the liquid has boiled  In the vapor, the particles move in rapid random motion. This movement is due to collision of vapor particles with air particles. 
@@ -107,18 +107,14 @@ Choosing a Suitable Method METHOD OF SEPARATION USED TO SEPARATE Filtration A so
 Atomic Structure and the Periodic Table 
 PARTICLE RELATIVE CHARGE 
 MASS (ATOMIC MASS ) Proton +1 1 Neutron 0 1 Electron -1 1 1837 ⁄  Proton number: number of protons in an atom (and number of electrons in an atom)  Nucleon number:  number of protons + neutrons in an atom.  In the periodic table o The proton number increases by 1 when you go to the right o When you go one element down, you increase proton number by 8 in the first 3 periods (transition elements not included)  Isotopes: atoms of same element with different no. of neutrons  o E.g. Carbon 12 and Carbon 1
-#>
-<#
-[4. ]
+
  Two types: non-radioactive isotopes and radioactiveisotopes which are unstable atoms that break down giving radiations o Medical use: cancer treatment (radiotherapy) – rays kill cancer cells using cobalt-60 o Industrial use: to check for leaks – radioisotopes (tracers) added to oil/gas. At leaks radiation is detected using a Geiger counter. 
  
  CIE IGCSE CHEMISTRY//9093  
  
 PAGE 6 OF 22 
- Electrons are arranged in electron shells.   Atoms want to have full outer shells (full set of valency electrons), this is why they react.  Noble gases have full outer shells so they have no need to react.   Electron shell structure: 2, 8, 8, 1
-#>
-<#
-[8. ]
+ Electrons are arranged in electron shells.   Atoms want to have full outer shells (full set of valency electrons), this is why they react.  Noble gases have full outer shells so they have no need to react.   Electron shell structure: 2, 8, 8, 18
+
  More reactive elements have a greater desire to have a full outer shell, so also form more stable compounds. 
 
 #>
@@ -444,23 +440,16 @@ Properties of Acids  An acid is a compound which when dissolved in water prod
 <#
 [8.2]
 Properties of Bases  Bases are insoluble substances which neutralize acids to form a salt and water only and are proton acceptors  Alkalis turn red litmus indicator paper (or solution) to blue.  Have pH 8 to 1
-#>
-<#
-[4. ]
+
  Base + acid → salt + water (+ CO2 when base is a metal carbonate)  Base + ammonium salt → salt + ammonia gas + water  Strong alkalis completely ionize in water producing lots of OH- ions   Weak alkalis partially ionize in water producing OH- ions 
  #>
  <#
 [8.3]
 Neutral  Neutral substances are pH 
 
-#>
-<#
-[7. ]
+
  Acidity in soil:  o Plants grow at a pH near 
- 
- #>
- <#
-[7. ]
+
 o If it is too acidic or alkaline they will not grow.  o Acidic soil is fixed by adding lime. 
  
  pH is the concentration of H+ ions per dm3 of solution 
@@ -560,11 +549,10 @@ PAGE 14 OF 22
 
 #>
 <#
-[9. ]
-HE PERIODIC TABLE  The Periodic table is a method of classifying elements.   They are arranged in order of increasing atomic number.   Made up of rows called periods and columns called groups  Metals are to the left and non-metals are to the right.   Elements in the same group have similar properties.   Group number tells us the number of valency electrons and the period number tells us about the number of electron shells 
-#>
-<#
 [9.1]
+HE PERIODIC TABLE  The Periodic table is a method of classifying elements.   They are arranged in order of increasing atomic number.   Made up of rows called periods and columns called groups  Metals are to the left and non-metals are to the right.   Elements in the same group have similar properties.   Group number tells us the number of valency electrons and the period number tells us about the number of electron shells 
+
+
 Periodic Trends  Non-metals are on the right side of the periodic table, and metals are on the left.   Down a period of metals they become more reactive  With non-metals, going down a period, the non-metal becomes less reactive 
  
  
@@ -686,9 +674,7 @@ Ores more difficult to decompose
  CIE IGCSE CHEMISTRY//9093  
  
 PAGE 17 OF 22 
- Chlorine gas is bubbled through the water to kill bacteria. This makes the water slightly acidic, so to reverse this appropriate amounts of sodium hydroxide (an alkali) is added.  Some countries also add fluorine #>
-<#
-[11. ]
+ Chlorine gas is bubbled through the water to kill bacteria. This makes the water slightly acidic, so to reverse this appropriate amounts of sodium hydroxide (an alkali) is added.  Some countries also add fluorine
  Use of Water AT HOME IN INDUSTRY  Drinking  Cooking  Washing   On farms for animals & crops  Dissolve  wash and cool things  In power stations where steam is used to turn turbines #>
  <#
 [11.4]

@@ -1,0 +1,898 @@
+<#
+[1.1]
+Kinetic Particle Theory 
+ 
+ 
+ When a solid is heated, particles vibrate faster about a fixed point causing particles to move further apart and so solid expands  When particles gain sufficient energy to overcome strong forces of attraction, they move out of their fixed position and can slide over each other in a continuous random motion – solid has melted.  Particles in liquid have energy to move around but are still close to each other and do not have enough energy to overcome the forces that hold them close to each other.  If more heat’s supplied, particles move faster until they have enough energy to overcome the forces of attraction. Particles escape the liquids surface and move around in continuous rapid motion – the liquid has boiled  In the vapor, the particles move in rapid random motion. This movement is due to collision of vapor particles with air particles. 
+#>
+<#
+[1.2]
+ States of Matter SOLID LIQUID GAS  Strong forces of attraction between particles  Fixed pattern (lattice)   Atoms vibrate but can’t change position ∴ fixed volume and shape  Weaker attractive forces than solids  No fixed pattern, liquids take up the shape of their container  Particles slide past each other.  Almost no intermolecular forces  Particles far apart, and move quickly  Collide with each other and bounce in all directions 
+ 
+ 
+PROCESS HEAT ENERGY EXO/ENDOTHERMIC Melting Gained Endothermic Boiling Gained Endothermic Condensing Lost Exothermic Freezing Lost Exothermic Sublimation Gained Endothermic Reverse sublimation Lost Exothermic 
+
+#>
+<#
+[1.3]
+ Heating Curve 
+ 
+ 
+
+#>
+<#
+[1.4]
+ Diffusion  Diffusion is the spreading of one substance through another from a region of high concentration to a region of low concentration due to the continuous random motion of particles.  Evidence for diffusion:  In liquids: potassium manganate (VII) in a beaker of water  In gases: a gas jar of air and a gas jar of bromine connected   Factors that affect the rate of diffusion:  Temperature increases → rate of diffusion increases  Lower density gas → rate of diffusion is higher 
+ 
+ 
+ 
+ 
+ 
+Heat increases  HEAT INCREASES 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 4 OF 22 
+
+
+#>
+<#
+[2.1]
+Measurement VARIABLE APPARATUS  Time  Stopwatch or Clock  Temperature  Thermomemeter (liquid in glass, thermistor or thermocouple)  Mass  Balance 
+ 
+Measuring Volume: 
+ 
+    
+Beaker Burette Pippette 
+Measuring Cylinder 
+Gas Syringe 
+
+#>
+<#
+[2.2]
+Critertia of Purity  Paper chromatography:  o Drop substance to center of filter paper and allow it to dry o Drop water on substance, one drop at a time o Paper + rings = chromatogram.  o Principle: Difference in solubility separates different pigments o Substances travel across paper at different rates which is why they separate into rings o Method works because different substances travel at different levels of attraction to it 
+ 
+ Stationary phase is material on which separation takes place   Mobile phase consists of the mixture you want to separate, dissolved in a solvent. 
+ 
+ Interpreting simple chromatograms: o Number of rings/dots = number of substances o If two dots travel the same distance up the paper they are the same substance. o You can calculate the Rf value to identify a substance, given by the formula: 
+𝑅𝑓 𝑉𝑎𝑙𝑢𝑒 = 
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑚𝑜𝑣𝑒𝑑 𝑏𝑦 𝑠𝑜𝑙𝑢𝑡𝑒 𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑚𝑜𝑣𝑒𝑑 𝑏𝑦 𝑠𝑜𝑙𝑣𝑒𝑛𝑡
+   To make colourless substances visible, use a locating agent:  o Dry paper in oven  o Spray it with locating agent o Heat it for 10 minutes in oven  Assesing purity from m.p./b.p: o Pure substances have a definite, sharp m.p./b.p. o Substance+impurity has lower m.p. and higher b.p. o More impurity means bigger change 
+ #>
+ <#
+ [2.3]
+ Filtration  Mixture goes in a funnel with filter paper, into a flask.  Residue is insoluble and stays at top.  Filtrate goes through 
+ 
+
+#>
+<#
+[2.4]
+Crystallization  Some water in the solution is evaporated so solution becomes more concentrated.   A drop is placed on a slide to check if crystals are forming.  Solution is left to cool and crystallise.   Crystals are filtered to remove solvent. 
+ 
+ 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 5 OF 22 
+
+#>
+<#
+[2.5]
+Simple Distillation  Impure liquid is heated  It boils, and steam rises into the condenser  Impurities are left behind 
+Condenser is cold so steam condenses to the pure liquid and it drops into the beaker 
+ 
+
+#>
+<#
+[2.6]
+Fractional Distillation  Removes a liquid from a mixture of liquids, because liquids have different b.p.s   Mixture is heated to evaporate substance with lowest b.p.  some of the other liquid(s) will evaporate too.   A mixture of gases condense on the beads in the fractional column.   So the beads are heated to the boiling point of the lowest substance, so that substance being removed cannot condense on the beads.   The other substances continue to condense and will drip back into the flask.  
+The beaker can be changed after every fraction 
+ 
+
+#>
+<#
+[2.7]
+Seperating Mixture of Two Solids  Can be done by dissolving one in an appropriate solvent  Then filter one and extract other from solution by evaporation 
+If one solid is magnetic, can use a magnet e.g. sand and iron fillings SOLVENT IT DISSOLVES… Water Some salts, sugar White spirit Gloss paint Propanone Grease, nail polish Ethanol Glues, printing inks, scented substances 
+
+#>
+<#
+[2.8]
+Choosing a Suitable Method METHOD OF SEPARATION USED TO SEPARATE Filtration A solid from a liquid Evaporation A solid from a solution Crystallization A solid from a solution Simple Distillation A solvent from a solution Fractional Distillation Liquids from each other Chromatography Different substances from a solution 
+
+
+
+
+#>
+<#
+[3.1]
+Atomic Structure and the Periodic Table 
+PARTICLE RELATIVE CHARGE 
+MASS (ATOMIC MASS ) Proton +1 1 Neutron 0 1 Electron -1 1 1837 ⁄  Proton number: number of protons in an atom (and number of electrons in an atom)  Nucleon number:  number of protons + neutrons in an atom.  In the periodic table o The proton number increases by 1 when you go to the right o When you go one element down, you increase proton number by 8 in the first 3 periods (transition elements not included)  Isotopes: atoms of same element with different no. of neutrons  o E.g. Carbon 12 and Carbon 1
+
+ Two types: non-radioactive isotopes and radioactiveisotopes which are unstable atoms that break down giving radiations o Medical use: cancer treatment (radiotherapy) – rays kill cancer cells using cobalt-60 o Industrial use: to check for leaks – radioisotopes (tracers) added to oil/gas. At leaks radiation is detected using a Geiger counter. 
+ 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 6 OF 22 
+ Electrons are arranged in electron shells.   Atoms want to have full outer shells (full set of valency electrons), this is why they react.  Noble gases have full outer shells so they have no need to react.   Electron shell structure: 2, 8, 8, 18
+
+ More reactive elements have a greater desire to have a full outer shell, so also form more stable compounds. 
+
+#>
+<#
+[3.2]
+Bonding: the Structure of Matter  Element: substance that cannot be split into anything simpler, in a chemical reaction. Each element has a unique proton number.  Mixture: two or more elements mixed together but not chemically combined  Compound: substance in which two or more different elements are chemically combined METALS NON-METALS Strong Brittle 
+Good conductors of heat & electricity 
+Poor conductors of heat & electricity (except graphite) 
+High m.p. and b.p. 
+Lower m.p. and b.p. than metals High density Low density Forms basic oxides Forms acidic oxides Forms cations in reactions Forms anions in reactions Malleable and ductile  Sonorous  Some are magnetic  
+  Alloy: Mixture of two or more metals or mixture of one or more metal with a non-metal, to improve its properties 
+ 
+ #>
+ <#
+ [3.3]
+ Ions and Ionic Bonds  Chemical bond formed by transfer of 𝑒 ̅s from one atom to another  Metals lose 𝑒 ̅s to form cations, non-metals gain 𝑒 ̅s to form anions  Positive cations & negative anions attract to each other  Strong electrostatic force of attraction between positive cations and negative anions is called ionic bonding 
+ 
+ 
+PROPERTY REASON Form giant lattice Cations and anions attract  High m.p. and b.p. Strong bonds between ions Don’t conduct electricity when solid Ions can’t move Conduct electricity when molten/aqueous Ions can move Usually soluble in water Not required 
+
+
+#>
+<#
+[3.4]
+Molecules and Covalent Bonds  When atoms share 𝑒 ̅s to obtain a noble gas electron structure  Covalent bonding takes place between non-metals only 
+SINGLE BOND DOUBLE BOND TRIPLE BOND 
+   
+2𝑒 ̅s shared (1 from each atom) 
+4𝑒 ̅s shared (2 from each atom) 
+6𝑒 ̅s shared (3 from each atom) 
+ PROPERTY REASON Low m.p. and b.p. Weak intermolecular forces of attraction between molecules Usually liquid, gas or low m.p solid Don’t conduct electricity No mobile ions/electrons Usually insoluble in water Not required  Example: 
+ 
+
+
+#>
+<#
+[3.5]
+Macromolecules DIAMOND GRAPHITE SILICON DIOXIDE 
+ 
+  
+ Four bonds  High m.p.  Doesn’t conduct  Used for cutting as is srongest known substance 
+ Three bonds  Made of flat sheets  Held together by weak forces so is soft used as a lubricant  Conducts electricity as it has one free e- 
+ Makes up sand  Each Si is bonded to 4 oxygen atoms, and each oxygen is bonded to 2 silicon atoms  it has a high m.p. and is hard, like diamond 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 7 OF 22 
+ Melting point: high - structure made up of strong covalent bonds  Electrical: don’t conduct electricity - have no mobile ions or electrons, except for graphite  Strength: hard - exists in tetrahedral structure but graphite is soft 
+
+#>
+<#
+[3.6]
+Metallic Bonding 
+ 
+Positive ions held together by electrons – acts like glue 
+
+#>
+<#
+[4.1]
+Valency Table 
+ 
+NAME FORMULA VALENCY Nitrate NO3- 1 Hydroxide OH- 1 Acetate/ ethanoate CH3COO- 1 Carbonate CO32- 2 Sulphate SO42- 2 Silicate SiO32- 2 Phosphate PO43- 3 
+
+#>
+<#
+[4.3]
+Ending of Names  Compound ending with -ide only contain two different elements  Compound ending with -ate contain oxygen 
+
+#>
+<#
+[4.4]
+Masses  Relative atomic mass (Ar): mass of one atom of an element relative to one twelfth of the mass of one atom of Carbon-12  Relative molecular mass (Mr): sum of relative atomic masses of all the atoms in one molecule of the compound 
+#>
+<#
+[4.5]
+The Mole Concept  A mole of a substance is the amount that contains the same number of units as the number of carbon atoms in 12 grams of carbon-12  A mole is the Ar or Mr expressed in grams e.g. 1 mole of Carbon-12 is equal to 12 grams.   It is equal to 
+6.0
+ × 1023 atoms, this number is called Avogadro’s constant. 
+ #>
+ <#
+ [4.6]
+ Number of Moles 𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑀𝑜𝑙𝑒𝑠 = 𝑚𝑎𝑠𝑠 𝑚𝑜𝑙𝑎𝑟 𝑚𝑎𝑠𝑠
+ 
+ #>
+ <#
+ [4.7]
+ Moles in Gases 𝑉𝑜𝑙𝑢𝑚𝑒 = 𝑁𝑜.𝑜𝑓 𝑀𝑜𝑙𝑒𝑠 × 24𝑑𝑚3 
+ #>
+ <#
+ [4.8]
+ Concentration 
+𝐶𝑜𝑛𝑐𝑒𝑛𝑡𝑟𝑎𝑡𝑖𝑜𝑛 =
+𝑛𝑜.𝑜𝑓 𝑚𝑜𝑙𝑒𝑠 𝑣𝑜𝑙𝑢𝑚𝑒
+ 
+ Moles per dm3 o 1mol/dm3 = 1M  Grams per dm3, g/dm3 
+#>
+<#
+[4.9]
+Molecular Formulae  The formula using the actual number of atoms in a molecule 
+#>
+<#
+[4.10]
+ Empirical Formulae  This is the simplest ratio of the atoms in a compound  For example: o Molecular formula of ethanol = C2H5OH o Empirical formula of ethanol = C2H6O  To find out the empirical formula you:  o Make the percent ratio into the simplest whole number ratio (NOTE: if given %s, use them as grams) o Divide the coefficients of each element symbol by the lowest coefficient 
+ #>
+ <#
+[4.11]
+ Percentages  𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝑝𝑢𝑟𝑖𝑡𝑦 = 𝑚𝑎𝑠𝑠 𝑜𝑓 𝑝𝑟𝑜𝑑𝑢𝑐𝑡 (𝑝𝑢𝑟𝑒) 𝑚𝑎𝑠𝑠 𝑜𝑓 𝑐𝑜𝑚𝑝𝑜𝑢𝑛𝑑 (𝑖𝑚𝑝𝑢𝑟𝑒) × 100  𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝑦𝑖𝑒𝑙𝑑 = 𝑎𝑐𝑡𝑢𝑎𝑙 𝑚𝑎𝑠𝑠 𝑜𝑏𝑡𝑎𝑖𝑛𝑒𝑑 𝑐𝑎𝑙𝑐𝑢𝑙𝑎𝑡𝑒𝑑 𝑚𝑎𝑠𝑠 × 100 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 8 OF 22 
+
+ 
+
+#>
+<#
+[5.1]
+Principle 
+ 
+ 
+
+#>
+<#
+[5.2]
+Examples ELECTROLYTE AT CATHODE 
+AT ANODE Molten lead(II) bromide Lead Bromine Concentrated hydrochloric acid Hydrogen Chlorine Concentrated aqueous sodium chloride Hydrogen Chlorine 
+
+#>
+<#
+[5.3]
+Electroplating  Coating one metallic object with another metal using electrolysis  For electroplating, you need: o Anode made of metal you want to electroplate object with o Ions of same metal as anode in solution o Object to be plated at cathode  Used to: o Make things look better  o Prevent corrosion 
+#>
+<#
+[5.4]
+Uses 
+ALUMINUM COPPER 
+PLASTIC & CERAMICS 
+ Used for electricity cables because: o Light o Noncorrosive o Good conductor o Cheaper than copper  Cables have steel core, for strength 
+ Used in electrical wires as it is: o A very good conductor (not best) o Ductile 
+ Used as insulators because they: o Don’t conduct electricity o Conduct heat poorly   Plastic used for casing in plugs  Ceramics used to support cables in electricity pylons 
+
+#>
+<#
+[5.6]
+Refining Metals  This is purifying impure metals  Rules: o Cathode: thin strip of pure metal o Anode: impure metal o Electrolyte: Aqueous Salt Solution of metal  Example: 
+ 
+Molten Electrolyte
+At the cathode
+Metal
+At the anode Non-metal
+Aqueous Electrolyte
+At the cathode
+Higher in reactivity then H+
+H2 formed
+Lower in reactivity then H+
+Metal formed
+At the anode
+Halide present
+Concentrated
+Halogen fomed
+Dilute
+Oxygen formed
+Halide not present
+Oxygen Formed
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 9 OF 22 
+ 
+ Reaction at Anode: Cu – 2e  Cu2+  (mass decreases)  Reaction at Cathode: Cu2+  + 2e  Cu  (mass increases) 
+#>
+<#
+[5.7]
+Basics  Electrolysis is a way to decompose compounds, using electricity.  Reduction of positive cations happens at the cathode  Oxidation of negative anions happens at the anode   For example: o At the anode: 2Cl- → Cl2 + 2e- o At the cathode: 2H+ + 2e- → H2 
+#>
+<#
+[5.8]
+Extraction of Aluminium  The main ore of aluminium is bauxite – high m.p.  Aluminium (III) oxide (alumina) is dissolved in molten cryolite (Na3AlF6) – this mixture has a lower m.p. (industrially preferred) 
+ 
+ During electrolysis aluminium is produced at the carbon cathode and oxygen at the carbon anode.  Due to the high temp. the oxygen reacts with the graphite anode to form CO2 and so anode had to be periodically replaced 
+#>
+<#
+[5.9]
+Electrolysis of Brine  Brine is concentrated NaCl solution  Ions present: Na+, H+, Cl- and OH- 
+ 
+AT THE ANODE AT THE CATHODE  Made of titanium  Chlorine gas evolved  Unreacted ions (Na+, H+ and OH-) move through porous membrane due to difference in liquid pressure   Net flow to the right  Made of steel  Hydrogen cations reduced to H2 molecules  Left Na+ and OH- which is aqueous sodium hydroxide 
+
+
+#>
+<#
+[6.1]
+Energetics of a Reaction  Exothermic reaction: one that releases heat energy into the surrounding  Endothermic reaction: one which absorbs heat energy from the surroundings  Bond breaking is endothermic  Bond making is exothermic 
+EXOTHERMIC REACTION ENDOTHERMIC REACTION  Energy given out to the surroundings  Surroundings become hot  Bond making – exothermic  Energy is taken in from the surroundings  Surroundings become cold  Bond breaking – endothermic 
+#>
+<#
+[6.2]
+Energy Level Diagrams 
+ 
+ 
+
+#>
+<#
+[6.3]
+Bond Energy  This is the amount of energy consumed or liberated when a bond is broken or formed in kJ/mol ∆𝐻 = 𝐵𝑜𝑛𝑑 𝐵𝑟𝑒𝑎𝑘𝑖𝑛𝑔 + 𝐵𝑜𝑛𝑑 𝐹𝑜𝑟𝑚𝑖𝑛𝑔  If overall heat energy is negative, reaction is exothermic  If overall heat energy is positive, reaction is endothermic 
+#>
+<#
+[6.4]
+Production of Energy  A fuel is a substance which can be conveniently used as a source of energy.   Burning fuels (like oil) to form oxides is an exothermic reaction.   The heat from burning fuels is used in power plants to create steam from water and turn turbines. 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 10 OF 22 
+ In order for any material to combust three things must be present: o Fuel o Heat o Oxygen  A good fuel would: o Be cheap o Be available in large quantities o Ba a liquid at room temperature o Produce a large amount of energy when combusted o Not produce polluting gases 
+#>
+<#
+[6.5]
+Hydrogen  Burns explosively with oxygen, so it is used in rockets.   In a fuel cell, it combines with oxygen without burning.  Produced by reacting methane gas with steam 
+ADVANTAGES DISADVANTAGES  Produces a lot of energy  Abundant on earth (sea)  Less pollutant  Renewable fuel  Difficult to transport as it is a gas at room temperature  Forms explosive mixture with air – very dangerous 
+#>
+<#
+[6.6]
+Simple Cells  A cell is a device which converts chemical energy into electrical energy and is composed of two metals of different reactivity connected by an external circuit and an electrolyte  The process works due to the different reactivity of metals  Consists of a negative pole (the more reactive metal) and a positive pole (less reactive metal) and an electrolyte.   The greater the difference in reactivity of the two metals, the greater the voltage will be.   The electrons flow because one metal is more reactive, so it has a stronger drive to give up its electrons.   The atoms give up electrons and enter the solution as ions. 
+ 
+
+#>
+<#
+[6.7]
+Radioactive Isotopes  Uranium-235 can be used in nuclear power stations to produce electricity  The radioactive isotope is bombarded by neutrons resulting in a lot of heat being produced  Small amount of radioactive fuel produces large amount of heat  Advantages: lots of energy is from a small amount and no CO2  Disadvantage: radioactive waste produced and nonrenewable 
+
+
+
+#>
+<#
+[7.1]
+Collision Theorey  Collisions are needed for a chemical reaction to take place  Successful collisions have enough activation energy at moment of impact to break preexisting bonds and form new bonds 
+
+#>
+<#
+[7.2]
+Rates of Reaction  Rate of a chemical reaction is the concentration of reactant used up or product made in a given time.  Unit = (mol/dm3)/s 
+
+#>
+<#
+[7.3]
+Concentration  Increasing concentration of reactants increases rate of reaction  This is because there are more particles per unit volume, so the collision rate between reacting particles increases, therefore the successful collision rate increases, which results in an increased rate of reaction. 
+ 
+
+
+#>
+<#
+[7.4]
+Temperature  Increasing temperature increases the rate of reaction  This is because average kinetic energy of particles increase which means they are moving faster & also more particles have an energy greater/equal to activation energy, therefore successful collision rate increases, resulting in increased rate of reaction 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 11 OF 22 
+ 
+
+
+#>
+<#
+[7.5]
+Particle Size  Decreasing the particle size (increasing surface area) increases the rate of reaction  This is because there are more reactant particles exposed to collide, so the collision rate increases, therefore the successful collision rate increases, resulting in an increased rate of reaction 
+ 
+ Large surface area can mean danger. For example, flour dust and wood dust have large surface areas, and are combustible. A spark from a machine, or a lit match, can cause an explosion. This also applies to gases from mines. 
+
+#>
+<#
+[7.6]
+Pressure in Gaseous System  Increasing the pressure in a gaseous system increases the rate of reaction  The distance between particles is reduced under pressure  There are more particles per unit volume, so the collision rate increases, therefore the successful collision rate increases, resulting in an increased rate of reaction. 
+
+#>
+<#
+[7.7]
+Catalyst  A catalyst is a substance (usually a transition metal) which speeds up a chemical reaction, but remains unchanged at the end  Adding a catalyst increases the rate of reaction  A catalyst allows the reaction to go by an alternative pathway with lower activation energy  More particles will have an energy greater than or equal to the activation energy, therefore successful collision rate increases resulting in increased rate of reaction 
+ For gaseous reactants, if catalyst is solid metal, the catalyst provides a surface for reaction to take place on  The larger the surface are of the metal catalyst, the larger the area for reaction to take place therefore higher rate of reaction 
+ 
+ Enzymes are protein molecules. They are biological catalysts which speed up reactions but remain chemically unchanged at the end  Enzymes function best at optimum temperature and pH level otherwise they may denature and completely stop functioning 
+
+#>
+<#
+[7.8]
+Measuring Rates of Reaction Experimentally GAS EVOLVED 
+ MASS LOSS 
+ COLOUR CHANGE 
+ 
+If a gas evolves, measure volume of gas produced per unit time using a gas syringe 
+If a gas evolves, measure loss in mass per unit time by placing on a balance then putting a cotton wool on top to allow gas to pass but not to enter 
+If a color change occurs we can measure the time taken to go cloudy 
+
+
+#>
+<#
+[7.9]
+Light Causing a Chemical Reaction  A photochemical reaction is one where light causes a reaction to occur. The higher the light intensity the higher the rate of the reaction.  Photosynthesis: light provides energy for the reaction and chlorophyll is a dye that absorbs light. carbon dioxide + water → (light + chlorophyll) → glucose + oxygen 6CO2 + 6H2O → (light + chlorophyll) → C6H12O6 + 6O2 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 12 OF 22 
+ Silver salts in photographic film: Silver bromide breaks down, where light strikes the film, so silver is reduced. Silver ions are reduced to silver. 2AgBr(s) →2Ag(s)+Br2(g) 
+
+
+#>
+<#
+[7.10]
+ Reversible Reactions  A reversible reaction is a reaction in which reactants form products and the product(s) can then react or decompose to form the reactants  Example: CuSO
+ #>
+ <#
+ [4.5]
+ 2O (blue) ⇌ CuSO4(white) + H2O  (to get anhydrous, heat it, & to get hydrated form, add water)  There are two types of equilibrium: static and dynamic.  At dynamic equilibrium: o Rate of forward reaction = rate of reverse reaction o Concentrations of all reactants and products remain constant o System is closed, and on large scale everything is constant 
+ 
+ #>
+ <#
+[7.11]
+ Equilibrium  Le Châtelier’s Principle: if conditions of an equilibrium are changed, the position of equilibrium moves to oppose change  Temperature: Temperature lowered; equilibrium moves in exothermic direction. Temperature raised; equilibrium moves in endothermic direction.  Pressure: Pressure raised; equilibrium moves to side with fewest gas molecules. Pressure lowered; equilibrium moves to side with most gas molecules.  Concentration: Decreasing reactant concentration or increasing product concentration; equilibrium moves to reactant side. Increasing reactant concentration or decreasing product concentration; equilibrium moves to product side. 
+ 
+ #>
+ <#
+[7.12]
+ Redox  A redox reaction is one in which one species has been oxidized and another species has been reduced OXIDATION MEANS: REDUCTION MEANS:  Loss of electrons  Gain of oxygen  Loss of hydrogen  Gain of electrons  Loss of oxygen  Gain of hydrogen OIL RIG  Reducing agents are oxidized and oxidizing agents are reduced  Potassium iodide is a reducing agent & will go from colorless to red-brown, so is oxidized to produce I2 H2O2 + 2KI + H2SO4→I2 + K2SO4 + 2H2O 
+ Potassium manganate is an oxidising agent and will go from purple to colourless  To test for an oxidising agent, add a reducing agent (KI) and to test for a reducing agent, add an oxidising agent (KMnO4) 
+
+
+#>
+<#
+[8.1]
+Properties of Acids  An acid is a compound which when dissolved in water produces hydrogen ions (H+) and are described as proton donors (H+)  Acids turn blue litmus indicator paper (or solution) red.  Have pH 1 to 6  Acid + metal → salt + hydrogen gas  Acid + base → salt + water  Acid + metal carbonate → salt + carbon dioxide + water  Strong acids completely ionize in water producing lots of H+ ions   Weak acids partially ionize in water producing few H+ ions 
+#>
+<#
+[8.2]
+Properties of Bases  Bases are insoluble substances which neutralize acids to form a salt and water only and are proton acceptors  Alkalis turn red litmus indicator paper (or solution) to blue.  Have pH 8 to 1
+
+ Base + acid → salt + water (+ CO2 when base is a metal carbonate)  Base + ammonium salt → salt + ammonia gas + water  Strong alkalis completely ionize in water producing lots of OH- ions   Weak alkalis partially ionize in water producing OH- ions 
+ #>
+ <#
+[8.3]
+Neutral  Neutral substances are pH 
+
+
+ Acidity in soil:  o Plants grow at a pH near 
+
+o If it is too acidic or alkaline they will not grow.  o Acidic soil is fixed by adding lime. 
+ 
+ pH is the concentration of H+ ions per dm3 of solution 
+ 
+ 
+ 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 13 OF 22 
+
+#>
+<#
+[8.4]
+Indicators 
+INDICATOR COLOR IN ACID 
+COLOR IN ALKALINE Phenolphthalein Colorless Pink Methyl orange Pink Yellow Methyl red Red Yellow Red litmus Red Blue Blue litmus Red Blue 
+
+#>
+<#
+[8.5]
+Types of Oxides  Metal oxides are basic e.g. iron oxide and magnesium oxide  Non-metal oxides are acidic e.g. sulphur oxide and carbon dioxide  Aluminum, zinc and lead form amphoteric oxides e.g. zinc oxide  Oxides which are neither acidic or basic are neutral e.g. water and carbon monoxide 
+#>
+<#
+[8.6]
+Preparation of Salts  A salt is a substance formed when all the replaceable hydrogen ions of an acid are replaced by metal ions or the ammonium ion o Salts can either be soluble or insoluble 
+SOLUBLE SALTS INSOLUBLE SALTS All sodium, potassium and ammonium salts 
+ All nitrates  Chlorides Except silver and lead 
+Sulphates 
+Except barium, lead and calcium 
+Potassium, sodium and ammonium carbonates 
+All other carbonates 
+
+#>
+<#
+[8.7]
+Type of Salts TYPE OF SALT REQUIRED ACID USED Sulphate Sulphuric acid Nitrate Nitric acid Chloride Hydrochloric acid Ethanoate Ethanoic acid 
+
+#>
+<#
+[8.8]
+Starting with a Metal  Add excess metal to an acid  When bubbling (hydrogen) stops the reaction is done  Filter off excess metal 
+
+#>
+<#
+[8.9]
+Starting with an Insoluble Base  Add insoluble base to acid and heat gently, it will dissolve  Keep adding until no more dissolves (reaction is done)  Filter out the insoluble (excess) base 
+#>
+<#
+[8.10]
+ Starting with an Alkali (Titration):  Put a certain amount alkali in a flask  Add phenolphthalein   Add acid from a burette, stirring, until it goes colorless  Find out how much acid you used  Repeat, to be more accurate  Evaporate water from neutral solution 
+ #>
+ <#
+[8.11]
+ Precipitation  Mix the two soluble salts, so they react together  Filter the mixture to separate the products produced (soluble and insoluble salt produced)  Wash the insoluble salt on the filter paper  Dry the insoluble salt in a warm oven 
+ #>
+ <#
+[8.12]
+ Test for Aqueous Cations 
+CATION 
+EFFECT OF AQ. NAOH 
+EFFECT OF AQ. AMMONIA 
+ALUMINUM (AL3+) 
+White soluble precipitate formed giving a colorless solution 
+White precipitate formed 
+AMMONIUM (NH4+) 
+Ammonium gas produced turns damp red litmus blue 
+ 
+CALCIUM (CA2+) 
+White precipitate formed 
+No precipitate/ slight white precipitate 
+COPPER (CU2+) 
+Light blue precipitate formed 
+Light blue soluble precipitate formed giving dark blue solution 
+IRON(II) (FE2+) 
+Green precipitate formed 
+Green precipitate formed 
+IRON(III) (FE3+) 
+Red-brown precipitate formed 
+Red-brown precipitate formed 
+ZINC (ZN2+) 
+White soluble precipitate formed giving a colorless solution 
+White soluble precipitate formed giving a colorless solution 
+ 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 14 OF 22 
+
+#>
+<#
+[8.1]
+ Test for Anions ANION TEST TEST RESULT CARBONATE (CO32-) Add dilute nitric acid Bubble gas through limewater–from colorless to cloudy CHLORIDE (CL-) Add nitric acid, then aqueous silver nitrate White precipitated formed BROMIDE (BR-) Add nitric acid, then aq. silver nitrate Cream precipitate formed IODIDE (I-) Add nitric acid, then aqueous silver nitrate Bright yellow precipitate formed NITRATE (NO3-) Add aqueous sodium hydroxide then add aluminum Gas produced turns damp red litmus paper blue SULPHATE (SO42-) Add dilute nitric acid, then add aq. barium nitrate White precipitate formed 
+
+#>
+<#
+[8.1]
+ Test for Gases GAS TEST AND TEST RESULT Ammonia (NH3) Damp red litmus paper turns blue Carbon dioxide (CO2) Bubble gas through–from colorless to cloudy Chlorine (Cl2) Bleaches red/blue litmus paper Hydrogen (H2) Place lighted splint, squeaky pop Oxygen (O2) Place glowing splint, splint relights 
+
+#>
+<#
+[9.1]
+HE PERIODIC TABLE  The Periodic table is a method of classifying elements.   They are arranged in order of increasing atomic number.   Made up of rows called periods and columns called groups  Metals are to the left and non-metals are to the right.   Elements in the same group have similar properties.   Group number tells us the number of valency electrons and the period number tells us about the number of electron shells 
+
+
+Periodic Trends  Non-metals are on the right side of the periodic table, and metals are on the left.   Down a period of metals they become more reactive  With non-metals, going down a period, the non-metal becomes less reactive 
+ 
+ 
+
+#>
+<#
+[9.2]
+Alkali Metals  Lithium, sodium and potassium 
+CHEMICAL PROPERTIES PHYSICAL PROPERTIES  Form ionic compounds  React violently with chlorine  Burst into flames when heated with oxygen: O A red flame for lithium O A yellow flame for sodium O A lilac flame for potassium  Produce soluble white compounds.  React with cold water.  Good conductors of heat and electricity.  Are soft, compared to other metals.  They have low densities for metals.  They have low melting and boiling points compared to most metals. 
+ 
+Patterns  Reactivity, density & softness increases down the group   Melting and boiling points decreases down the group.  Reactivity increases as more electron shells means there is weaker attraction between nucleus & valency electron so is lost more easily. 
+#>
+<#
+[9.3]
+Halogens PROPERTIES PATTERNS  Form colored gases, at RTP: o Fluorine is a yellow gas o Chlorine is a green gas o Bromine is a red liquid o Iodine is a black solid  Are poisonous  Brittle and crumbly when solid  Do not conduct electricity  Form diatomic molecules  Down the group; size, mass and density increases  Down the group, color darkens  Reactivity decreases down the group, because it has to gain an electron, so the closer the electron is to the positive nucleus the more easily it will be gained, so atoms with fewer shells  Will react more easily. 
+#>
+<#
+[9.4]
+Transition Metals  High melting points (except mercury)  Malleable and ductile  Good conductors of heat & electricity (silver is the best)  High density   Have no trend in reactivity 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 15 OF 22 
+ Can be used as catalysts  Form colored compounds  Can form complex ions as they have variable valences 
+#>
+<#
+[9.5]
+Noble Gases PROPERTIES USES  Density increases down the group  M.p. and b.p. increases down the group  Don’t conduct electricity  Don’t take part in chemical reactions  Helium- filling balloons and aircrafts because it is lighter than air and will not catch fire.  Argon – filling (tungsten) light bulbs to stop the filament reacting with oxygen.  Neon – is used in advertising signs because it glows red. 
+
+
+#>
+<#
+[10.1]
+Properties of Metals PHYSICAL CHEMICAL  High density  Shiny when polished  Malleable  Ductile  High m.p. And b.p.  Conductor of heat & electricity  Form basic oxides  Form positive ions 
+#>
+<#
+[10.2]
+Alloys  An alloy is two or more metals, or a metal and non-metal which have been made molten and then mixed together  Alloys are used because they have improved qualities for a particular job over the pure metals 
+ALLOY MADE FROM SPECIAL PROPERTIES 
+USES 
+Brass Copper and zinc 
+Stronger and more resistant to corrosion 
+Electrical fittings, car radiators 
+Bronze Copper and tin 
+Harder, stronger and sonorous 
+Statues, springs, coins 
+Stainless steel 
+Iron, chromium  and nickel 
+Does not rust Kitchen sinks, cutlery, chemical plant 
+ Metals are often used as alloys because they have an increased range of uses and mixture of atoms gives an irregular structure which stops layers sliding over each other easily; they are stronger  This is what the structure of an alloy (a) looks like, compared to a pure metal (b). 
+ 
+
+#>
+<#
+[10.3]
+Reactivity Series K - Potassium Na - Sodium Ca – Calcium Mg – Magnesium Al – Aluminum C – Carbon Zn – Zinc Fe – Iron Pb – Lead H – Hydrogen Cu – Copper Ag – Silver Au – Gold  This places metals in order of their readiness to take part in chemical reactions  Everything above hydrogen can displace hydrogen from its acid, and hydrogen cannot reduce their oxides.   Metals above carbon, their oxides cannot be reduced by carbon.   More reactive metals will react with cold water, and less reactive will react slowly or not react with steam.  Aluminum seems unreactive because it forms an oxide layer which protects it 
+
+#>
+<#
+[10.4]
+Displacement Reactions  These are reactions in which metals compete for oxygen or anions  The more reactive metal will displace the less reactive metal from oxygen or an anion.  If more reactive metal has oxygen or an anion, no reaction occurs  The bigger the difference in reactivity between the two metals, the faster the reaction 
+#>
+<#
+[10.5]
+Thermal Decomposition 
+GROUP 
+METAL CARBONATE 
+METAL HYDROXIDE 
+METAL NITRATE 
+Group I (except lithium) 
+Do not decompose 
+Do not decompose 
+Metal nitrite and oxygen 
+Group II, lithium & transition metals 
+Metal oxide and carbon dioxide 
+Metal oxide and water 
+Metal oxide, nitrogen dioxide and oxygen 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 16 OF 22 
+
+#>
+<#
+[10.6]
+Extraction of Metals METAL EXTRACTION METHOD K - Potassium Na - Sodium Ca – Calcium Mg – Magnesium Al – Aluminum Reduction via electrolysis CARBON Zn – Zinc Fe – Iron Pb – Lead Reducing via heating with Carbon or Carbon Monoxide HYDROGEN Cu – Copper Ag – Silver Au – Gold Occur naturally 
+
+#>
+<#
+[10.7]
+Extracting Iron  Ore = hematite (Fe2O3)  Uses of slag o To make roads o To make cement  Coke burns with air carbon + oxygen  carbon dioxide  Carbon dioxide reacts with coke carbon dioxide + carbon   carbon monoxide  Carbon monoxide reduces Iron(III) oxide to iron iron(III) oxide + carbon monoxide  iron + carbon dioxide  The limestone reacts with impurities to form slag calcium carbonate + silicon dioxide  calcium silicate + carbon dioxide 
+#>
+<#
+[10.8]
+Iron to Steel  Molten iron from blast furnace is poured into an oxygen furnace.  Calcium oxide is added, and a jet of oxygen is turned on.   The calcium oxide neutralizes acidic impurities, forming slag that is skimmed off and oxygen burns the other impurities away.  The carbon content is checked continually until it is just right then the oxygen is turned off. o Mild Steel (0.25% carbon) – Used in machinery and car bodies o Medium carbon steel (0.5%) – Used in railway lines o High carbon steel (
+#>
+<#
+[1.5]
+% carbon) – Used in knives and blades 
+ 
+
+#>
+<#
+[10.9]
+Extracting Zinc  Ore = Zinc Blende = Zinc Sulphide (ZnS)  Zinc blende is roasted in air to convert it to zinc oxide  Zinc oxide is reduced using coke to zinc and carbon monoxide in the furnace  As zinc is volatile, the gaseous metal is distilled leaving less-volatile impurities behind.  Zinc is condensed and liquid is run into mould. 
+#>
+<#
+[10.10]
+ Uses of Metal  Aluminum o Airplane/Cars (Strong/Low density/resistant to corrosion) o Cans/Foil (Resistant to corrosion/malleable) o Overhead cable (Good conductor of electricity/ductile)  Zinc o Galvanizes Iron = coats it to stop it rusting o Alloys – brass/bronze o Batteries o Sacrificial Protection   Copper o Electrical Wiring (Good conductor of electricity/Ductile) o Cooking utensils (Malleable/good conductor of heat) o Roofs (hard wearing against weather
+ 
+#>
+<#
+[11.1]
+Tests for Water TEST TYPE OF TEST POSITIVE RESULT Blue Cobalt(II) Chloride Paper Chemical Paper turns from blue to pink Anhydrous Copper(II) Sulphate powder Chemical From white powder to blue crystals Test m.p. and b.p. Physical m.p. at 0°C and b.p. at 100°C 
+#>
+<#
+[11.2]
+Purification of Water  Water is pumped into screens, which remove solid floating debris.  Aluminum sulfate is added to coagulate (stick together) small pieces of clay so that they are easily removed.  The water is then filtered through coarse sand to remove larger, insoluble debris.  The water encounters more flocculants (chemicals that make particles move down to bottom of tank) and is filtered again through fine sand. 
+More powerful/expensive method of extraction 
+Ores more difficult to decompose 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 17 OF 22 
+ Chlorine gas is bubbled through the water to kill bacteria. This makes the water slightly acidic, so to reverse this appropriate amounts of sodium hydroxide (an alkali) is added.  Some countries also add fluorine
+ Use of Water AT HOME IN INDUSTRY  Drinking  Cooking  Washing   On farms for animals & crops  Dissolve  wash and cool things  In power stations where steam is used to turn turbines #>
+ <#
+[11.4]
+Air  Clean air is composed of approximately  o 79% nitrogen o 20% oxygen  o Remainder: noble gases, water vapor & carbon dioxide #>
+<#
+[11.5]
+Pollutants in Air POLLUTANT SOURCE PROBLEMS CAUSED 
+Carbon Monoxide CO 
+Incomplete combustion of carbon-containing substances 
+Reacts with haemoglobin, preventing it from carrying oxygen; death due to oxygen starvation 
+Sulphur Dioxide SO2 
+From combustion of fossil fuels which contain sulfur 
+Irritates eyes and throat, causes respiratory problems and causes acid rain 
+Oxides of Nitrogen NOx 
+From car exhausts 
+Causes respiratory problems and forms acid rain 
+Lead compounds 
+From burning of petrol as lead is added to it for better performance 
+Causes damage to brain and nerve cells in young children 
+11,6 Fractional Distillation of Air  Air is filtered to remove dust  Water vapor and carbon dioxide removed, (because they would freeze and block the pipes): o air is cooled until water vapor condenses o then passes over absorbent beads to trap carbon dioxide 
+ It is compressed, causing it to heat up. Cooled by recycling cold air   The cold compressed air is passed through a jet, into a larger space. It expands rapidly, making it very cold.  This is repeated, cooling the air more. By -200°C it is liquid except for neon and helium. These gases are removed. They can be separated from each other by absorption on charcoal.  The liquid air is pumped into the fractioning column. There it is slowly warmed up. The gases boil off one by one, and are collected in tanks or cylinders.  Sources of methane: oil and natural gas, decomposition of vegetation, and waste gases from digestion in animals #>
+<#
+[11.7]
+Catalytic Convertor  In the combustion engine, insufficient amounts of oxygen lead to incomplete combustion of the carbon containing fuel  Gases produced: (a) carbon monoxide (b) oxides of nitrogen  A catalytic convertor catalyzes the reduction of NO2 to nitrogen gas N2 and catalyzes the oxidation of CO to CO2 #>
+<#
+[11.8]
+Rust Preventition  Coating with something to prevent contact with air and moisture  o Plastic, paint and grease  o Electroplating with tin or chromium  o Galvanising: dipping in molten zinc  Sacrificial protection: attaching a piece of metal that is more reactive that iron to object, commonly magnesium or zinc. This will corrode in the place of iron. #>
+<#
+[11.9]
+Fertilizer  NPK used in fertilizers because: o Nitrogen is needed for chlorophyll and other proteins.  o Phosphorus helps roots grow and crops ripen. o Potassium helps make proteins and resist diseases.   All alkalis (except ammonia) will react with ammonium compounds, removing ammonia, for example:  
+𝐶𝑎𝑙𝑐𝑖𝑢𝑚 ℎ𝑦𝑑𝑟𝑜𝑥𝑖𝑑𝑒 + 𝐴𝑚𝑚𝑜𝑛𝑖𝑢𝑚 𝑐ℎ𝑙𝑜𝑟𝑖𝑑𝑒 → 𝐶𝑎𝑙𝑐𝑖𝑢𝑚 𝐶ℎ𝑙𝑜𝑟𝑖𝑑𝑒 + 𝑊𝑎𝑡𝑒𝑟 + 𝐴𝑚𝑚𝑜𝑛𝑖𝑎 #>
+<#
+[11.10]
+ Greenhouse Gases  The greenhouse gases are: carbon dioxide and methane.   They stop heat escaping in to space.   Too much greenhouse gases leads to climate change.   This will cause the ice poles to melt, rising sea levels, more droughts, storms, floods and famine; global warming 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 18 OF 22 
+#>
+<#
+[11.11]
+ Formation of Carbon Dioxide  Carbon dioxide is produced whenever carbon or any of its compound are completely burned in excess oxygen  It is also formed as a product of respiration  It is produced as product of reaction between an acid and carbon  From the thermal decomposition of a carbonate #>
+ <#
+[11.12]
+ Haber Process  Industrial manufacture of ammonia NH3 
+N2 (g) + 3H2 (g) ⇌ 2NH3 (g)  Raw materials: o Nitrogen: from the air o Hydrogen: methane + steam → carbon dioxide + hydrogen  Essential conditions: o Temperature: 450°C o Pressure: 200atm o Catalyst: Iron #>
+<#
+[11.13]
+ Carbon Cycle 
+ 
+ 
+#>
+<#
+[12.1]
+ Sources  Found as an element, in large underground beds  Found around the rims of volcanoes.   It occurs in metal ores e.g. lead sulphide  Sulphur compounds also occur naturally in the fossil fuels e.g. coal 
+ 
+ 
+#>
+<#
+[12.2]
+ Uses SULFUR SULFUR DIOXIDE  As a food preserver; kills bacteria   As a bleach in the manufacture of wood pulp for paper  In car batteries as electrolyte   In manufacture of sulphuric acid (through Contact process)  Manufacture of sulphuric acid  To bleach wool, silk and wood pulp for making paper  As a sterilising agent in making soft drinks and jam, and in drying fruit; stops growth of bacteria and moulds. #>
+ <#
+[12.3]
+ Contact Process  Sulphur is first burned in air producing sulphur dioxide  It is then mixed with more air and passed over four separate beds of catalyst, Vanadium (V) oxide, at 450°C to form sulphur trioxide   It is then dissolved in concentrated sulphuric acid forming a thick fuming liquid called oleum   It is then mixed carefully with water to form concentrated sulphuric acid.  Essential conditions: o Catalyst: Vanadium (V) oxide o Temperature: 450°C o Pressure: 2atm #>
+ <#
+[12.4]
+ Properties of Sulfuric Acid  Forms salts called sulphates  When concentrated, it’s a dehydrating agent, and a thick oily liquid  It turns blue litmus red  It is a strong acid and has the properties of a typical strong acid: reacts with bases, low pH, high conductivity 
+#>
+<#
+[13]
+ 
+ Lime is manufactured by limestone by heating  CaC03 + heat → CaO + CO2 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 19 OF 22 
+ Uses of quick lime: o Making steel from iron o To neutralise acidity in soil o Drying agent in industry  Uses of slaked lime and lime: o Neutralise acidity in soil, and in lakes affected by acid rain,  o Neutralising acidic industrial waste products, e.g. flue gas desulphurisation  Uses of limestone: o Making cement: made by mixing limestone with clay, heating mixture strongly in a kiln, adding gypsum (calcium sulphate), and grinding up the final solid to give a powder  o Making iron from iron ore: limestone reacts with sand) forming slag (calcium silicate), which is then used for road building. 
+
+#>
+<#
+[14.1]
+Homologous Series  Homologous series: ‘family’ of similar compounds with similar properties due to the presence of the same functional group.  Characteristics of a homologous series: o all the compounds fit the same general formula o the chain length increases by 1 each time o as the chain gets longer, the compounds show a gradual change in properties  Structural isomers: have the same chemical formula, but different structures, they can be straight or branched #>
+<#
+[14.2]
+Fuels  Fuels to know: o Coal o Natural gas: main constituent is methane o Petroleum: a mixture of hydrocarbons which can be separated into fractions #>
+<#
+[14.3]
+Uses of Petroleum Fractions  Refinery gas: bottled gas for heating and cooking  Gasoline fraction: fuel (petrol) in cars  Naphtha fraction: making chemicals  Kerosene/paraffin fraction: jet fuel, lamps  Diesel oil/gas oil fraction: fuel in diesel engines  Fuel oil fraction: fuel in ships and home heating systems  Lubricating fraction: lubricants, waxes and polishes  Bitumen: making roads 
+#>
+<#
+[14.4]
+Name of Compounds Name ending → compound-type name  “ane” → alkane  “ene” → alkene  “ol” → alcohol  “oic acid” → carboxylic acid  “yl”, “oate” → ester #>
+<#
+[14.5]
+Alkanes General formula = CnH2n+2 
+METHANE (N=1) ETHANE (N=2) 
+  PROPANE (N=3) BUTANE (N=4) 
+   Each carbon atoms in an alkene has four covalent single bonds – this makes them quite unreactive. 
+Combustion:  Complete combustion: enough oxygen supply so water and carbon dioxide form.  e.g. CH4 + 2O2 → CO2 + 2H2O  Incomplete: is not enough oxygen to burn them cleanly so either carbon monoxide and water or carbon and water form. e.g. 2CH4 + 3O2 → 2CO + 4H2O                      or e.g. CH4 + O2 → C + 2H2O 
+Chlorine substitution:   Sunlight or light is necessary   A chlorine atom replaces a hydrogen atom  This can happen to all hydrogen atoms if there is enough chlorine. e.g. CH4 + Cl2 → (light) → HCl + CH3Cl / CH2Cl2 / CHCl3 / CCl4 Compounds = chloromethane / di/tri/tetrachloromethane 
+ 
+ 
+ 
+ 
+ 
+ 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 20 OF 22 
+#>
+<#
+[14.6]
+Alkenes 
+General formula = CnH2n Functional group: C=C bond 
+(N=1) ETHENE (N=2) N/A 
+ 
+PROPENE (N=3) BUT-1-ENE (N=4) 
+  
+Cracking:   Thermal decomposition reaction, in which an alkene (and sometimes hydrogen)  are produced from an alkane.   Cracking always produces short chain compound with a C=C bond e.g. Cracking of ethane will give ethene and hydrogen 
+ 
+ Butane → Ethane + Ethene ; C4H10 → C2H6 + C2H4 
+SATURATED HYDROCARBONS 
+UNSATURATED HYDROCARBONS 
+ Have NO double bonds  Do not react with aqueous bromine, so the mixture stays orange. 
+ Have double bonds  React with aqueous bromine, turning the mixture from orange to colourless. #>
+<#
+[14.7]
+Addition Polymerisation  A polymer is a compound with very long carbon chains made up of monomer units.  Poly(ethene) / Polythene: is a polymer produced from ethene by addition polymerization 
+ 
+Double bond splits and polymer is formed 
+#>
+<#
+[14.8]
+Alkenes’ Addition Reactions  With bromine: (the test for saturation) e.g. ethene (g) + bromine (aq) → 1,2-dibromomethane (l)  With steam: forms alcohols with heat, pressure and a catalyst  e.g. ethene (g) + steam (g) ⇌ ethanol (l)  With hydrogen: double bond breaks down to for an alkane with heat, pressure and a catalyst e.g. ethene (g) + hydrogen (g) → ethane (g) #>
+<#
+[14.9]
+Alcohols General formula = CnH2n+1OH Functional group: OH METHANOL (N=1) ETHANOL (N=2) 
+  PROPANOL (N=3) BUTANOL (N=4) 
+  
+Formed by: 
+FERMENTATION CATALYTIC ADDITION OF STEAM TO ETHENE  Enzymes in yeast break down glucose to ethanol and carbon dioxide, giving out heat  Can be done with substances that contain cellulose, starch or glucose  Done by grinding source (e.g. grapes) and adding enzymes to break down cellulose and starch into glucose.   Leave it to ferment.   Fractional distillation is used to get ethanol from the mixture  Ethene is obtained by cracking long-chain alkenes from oil.   The ethene reacts with steam (reversibly) in the following conditions:  o 570°C  o 60-70atm  o Catalyst = phosphoric acid  Low temperature gives a better yield, but high temperature is used to give a better rate of reaction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 21 OF 22 
+ 
+ADVANTAGES DISADVANATGES 
+FERMENTATION 
+ Renewable source  Good use of waste organic material 
+ Lots of material needed so big tanks needed  Fractional distillation is expensive  Slow process  Batch process 
+FROM ETHENE 
+ Fast  Continuous process  Pure ethanol  Smaller containers 
+ Oil is a non-renewable resource  Lot of energy to make steam and get right conditions  Lot of ethene is unreacted, (and then recycled) 
+  Ethanol burns well in oxygen, giving out plenty of heat, as well as carbon dioxide and water.  Ethanol is used as a: o Solvent: to dissolve things than water cannot. Evaporates easily, so used as solvent in glues, printing inks & perfumes  o Fuel: added to or instead of petrol, because it burns cleanly #>
+ <#
+ [14.10]
+  Carboxylic Acids General formula = CnH2n+1COOH Functional group: COOH 
+METHANOIC ACID (N=1) ETHANOIC ACID (N=2) 
+  PROPANOIC ACID (N=3) BUTANOIC ACID (N=4) 
+  Properties of Ethanoic Acid:  Weak acid with high pH and low dissociation  Formed by: o Oxidation of ethanol o With acidified potassium mangenate (VII)  Carboxylic acids react with alcohols to give esters, in a condensation reaction, for example:  Ethanoic acid + ethanol ⇌ ethyl ethanoate + water (alcohol = -yl & carboxylic acid = -oate) 
+ 
+ 
+#>
+<#
+[14.11]
+ Macromolecules  Large molecules built up from small units (monomers).  
+ Different macromolecules have different units and/or different linkages Example of: 
+SMALL UNITS (MONOMERS) 
+LINKAGES MACROMOLECULES 
+ glucose  amino acids  fatty acids and glycerol 
+ amide  ester 
+ protein  starch  lipids 
+ 
+ 
+USE STRUCTURE 
+POLYTHENE 
+ Plastic bags and gloves, clingfilm (low density), mugs, bowls, chairs, dustbins (high density)  
+POLYCHLOROE THANE (PVC) 
+ Water pipes, wellingtons, hoses, covering for electricity cables 
+ 
+POLYPROPENE 
+ Crates, ropes 
+ 
+POLYSTYRENE 
+ Used as expanded polystyrene in fastfood cartons, packaging, and insulation for roofs and walls 
+ 
+TEFLON 
+ Coated on frying pans to make them nonstick, fabric protector, windscreen wipers, flooring  
+ 
+ 
+ CIE IGCSE CHEMISTRY//9093  
+ 
+PAGE 22 OF 22 
+Making nylon:  Uses: ropes, fishing nets and lines, tents, curtains  Monomers are: 
+ 
+ 
+ No double bonds break, instead single bonds break, and new single bonds form.   The monomers are able to join to each other by eliminating a small molecule: hydrogen chloride.   This reaction continues at each the two monomers.   Thousands of molecules join together, giving a macromolecule: 
+ 
+Making terylene  Uses: clothing (especially mixed with cotton), thread  Monomers are: 
+ 
+ 
+ The monomers join by eliminating a water molecule. Thousands of molecules join up, giving a macromolecule 
+ 
+#>
+<#
+[14.12]
+ Pollution from Plastics  Choke birds, fish and other animals that try to eat them. Or they fill up the animals’ stomachs so that they can’t eat proper food, and starve to death.  They clog up drains and sewers and cause flooding. 
+ They collect in rivers, and get in the way of fish. Some river beds now contain a thick layer of plastic  They blow into trees and onto beaches. So the place looks a mess. Tourists become put off. #>
+<#
+[14.13]
+ Natural Macromolecules  Food’s main constituents are proteins, fats and carbohydrates. Proteins:  Proteins contain the same linkages (amide links) as nylon, but with different units. Their structure is: 
+ 
+ In digestion proteins are broken down into amino acids (hydrolysis). Fats:  Fats are esters possessing the same linkage as Terylene (ester links) but with different units.  Soap is a product of the hydrolysis of fat. It is done using sodium hydroxide (as opposed to acid, in digestion). The hydrolysis gives glycerol and the sodium salts of fatty acids. The salts are used as soaps. Carbohydrates:  Complex carbohydrates: are a large number of joined sugar units (monosaccharide like glucose). The sugar units are represented like this: 
+ 
+They join together in a condensation polymerization 
+ 
+ In digestion, the hydrolysis (Decomposition of a chemical compound by reaction with water) of starch happens in the mouth by the enzyme amylase to make glucose  Hydrolysis: o Starch → glucose o Proteins → amino acids o Fats → fatty acids and glycerol  But if hydrolysis is not complete, macromolecules are not completely broken down so you get a mixture of molecules of different sizes  Identification: o Chromatography can be used to identify products & substances o However, amino acids and sugars are colourless when dissolved in water, so a locating agent is used.  o Substances can be identified using Rf values or by matching them with spots which are horizontal 
+#>

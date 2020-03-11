@@ -60,7 +60,7 @@ def Content_Input_Offline():
     except:
         print("Please check the existance of files 'Instructor.mofish' and 'Text.txt' ")
         print("The program will be terminated in 10s")
-        Instructor = open('Instructor.mofish', 'w')
+        #Instructor = open('Instructor.mofish', 'w')
         time.sleep(10)
         os._exit(0)
     Chapter_List = []
