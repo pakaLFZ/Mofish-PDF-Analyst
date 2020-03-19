@@ -88,25 +88,14 @@ def Evaluate_File(File_Name, Content, Log):
     Chapter_Value = sorted(Chapter_Value)
     return [k for k,v in Chapter.items() if float(v) == float(Chapter_Value[-1])]
 
-def Record_Result():
-    Book = open('./Book.mofish', 'r').read()
-    Chapter_List = []
-    Location_1 = 0
-    while 1:
-        Location_1 = Book.find('***', Location_1)
-        if Location_1 == -1:
-            break
-        Location_2 = Book.find(':', Location_1)
-        Location_1 = Book.find('#', Location_2)
-        Chapter = Book[Location_2 + 1 : Location_1]
-        Chapter_List.append(Chapter)
-    #检查文件夹是否创建
-
 def Launcher():
     File_Storage = './Files'
     Log = open('./Log.txt', 'w')
     File_Name_List = Get_File_List(File_Storage)
     Bug_File = []
+    No1 = 0
+    No2 = 0
+    No3 = 0
     for Item in File_Name_List:
         Content = Get_File_Content(Item)['content']
         File_Name = Get_File_Content(Item)['file_name']
@@ -115,12 +104,36 @@ def Launcher():
         Log.flush()
         if len(Chapter) >= 4 or len(Chapter) == 0:
             Bug_File.append(File_Name)
+        if len(Chapter) == 1:
+            No1 += 1
+        if len(Chapter) == 2:
+            No2 += 2
+        if len(Chapter) == 3:
+            No3 += 3
+
+        
     Percentage = str(round((len(File_Name_List) - len(Bug_File)) / len(File_Name_List), 2) * 100) + '%'
     Log.write('\n\n###Bug File###\n')
     for Item in Bug_File:
         Log.write(str(Item) + '\n')
+
+    Log.write(Percentage + 'of files have been classified successfully\n')
+    Log.write(str(No1) + 'files has 1 topic distributed\n')
+    Log.write(str(No2) + 'files has 2 topic distributed\n')
+    Log.write(str(No3) + 'files has 3 topic distributed\n')
     Log.flush
+    
     print(Percentage + 'of files have been classified successfully')
+    print(str(No1) + ' files has 1 topic distributed')
+    print(str(No2) + ' files has 2 topic distributed')
+    print(str(No3) + ' files has 3 topic distributed')
+
+    
+    while 1:
+        print('Enter "/" to continue')
+        Answer = input()
+        if Answer == '/':
+            break
         
 Launcher()
 
