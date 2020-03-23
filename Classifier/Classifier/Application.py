@@ -1,4 +1,15 @@
-import re, os, time
+import re, os, time, json
+
+def Choose_Book(Name):
+    Chemistry = '0438, 0620, 5070'
+    Biology = '0610, 5090' 
+    Physics = '0625, 5054'
+    if Chemistry.find(Name) != -1:
+        return 'Chemistry'
+    if Biology.find(Name) != -1:
+        return 'Biology'
+    if Physics.find(Name) != -1:
+        return 'Physics'
 
 def Get_File_List(File_Storage):
     File_Name_List = []
@@ -48,7 +59,17 @@ def Get_File_Content(File_Name):
     return {"content":Content, "file_name":File_Name}
 
 def Evaluate_File(File_Name, Content, Log):
-    Book = open('./Book.mofish', 'r').read()
+    Chemistry_Book = open('./Chemistry.mofish', 'r').read()
+    Biology_Book = open('./Biology.mofish', 'r').read()
+    Physics_Book = open('./Physics.mofish', 'r').read()
+    Book = ''
+    if Choose_Book(File_Name[0 : 4]) == 'Chemistry':
+        Book = Chemistry_Book
+    if Choose_Book(File_Name[0 : 4]) == 'Biology':
+        Book = Biology_Book
+    if Choose_Book(File_Name[0 : 4]) == 'Physics':
+        Book = Physics_Book
+
     Chapter_List = []
     Chapter = {}
     for Item in Content:
@@ -91,15 +112,21 @@ def Evaluate_File(File_Name, Content, Log):
 def Launcher():
     File_Storage = './Files'
     Log = open('./Log.txt', 'w')
+    Result_Log = open('./Result.txt', 'w')
     File_Name_List = Get_File_List(File_Storage)
     Bug_File = []
+    Result = []
     No1 = 0
     No2 = 0
     No3 = 0
     for Item in File_Name_List:
-        Content = Get_File_Content(Item)['content']
-        File_Name = Get_File_Content(Item)['file_name']
+        Information = {"file": Item}
+        Data = Get_File_Content(Item)
+        Content = Data['content']
+        File_Name = Data['file_name']
         Chapter = Evaluate_File(File_Name, Content, Log)
+        Information["chapter"] = Chapter
+        Result.append(Information)
         Log.write('<#' + File_Name + ':' + str(Chapter) + '>\n')
         Log.flush()
         if len(Chapter) >= 4 or len(Chapter) == 0:
@@ -127,6 +154,10 @@ def Launcher():
     print(str(No1) + ' files has 1 topic distributed')
     print(str(No2) + ' files has 2 topic distributed')
     print(str(No3) + ' files has 3 topic distributed')
+
+    Result_Log.write(json.dumps(Result))
+    Result.flush()
+    
 
     
     while 1:

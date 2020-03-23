@@ -34,7 +34,7 @@ def Launcher():
 		File = open(File_Storage + '/' + Root, 'r', encoding='utf-8').read()
 		
 		Data = Locate_Questions(File, Length)
-		print('a')
+		#print('a')
 		if Data == None:
 			continue
 		if len(Data["Location_List"]) >= 9:
@@ -53,6 +53,7 @@ def Launcher():
 			Bottom = float(Data["Location_List"][Location + 1])
 			Content = Separate(File, Top, Bottom, Error, Font)
 			if Content == None:
+				Location += 1
 				continue
 			Product = open(Product_Storage + '/' + Root[:-4] + '@' + Data["Question_Number_List"][Location] + '.svg', 'w', encoding='utf-8')
 			Product.write('<svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">')
@@ -77,9 +78,9 @@ def Separate(File, Top, Bottom, Error, Font):
 		Location_3 = File.find('</svg:defs')
 		Content = File[Location_2 : Location_3] + '</svg:defs>'
 	while 1:
-		print(Location_1)
+		#print(Location_1)
 		Action = 0
-		Location_1 = File.find('<', Location_1)
+		Location_1 = File.find('<', Location_1, len(File) - 1)
 		if Location_1 == -1:
 			return Content
 
