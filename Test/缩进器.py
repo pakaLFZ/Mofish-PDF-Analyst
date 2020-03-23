@@ -2,7 +2,7 @@ import os
 import time
 
 # MHTML 选项
-File_Name = '1'
+File_Name = '0610_w18_qp_12-2'
 MHTML_File_Location = './' + File_Name + '.svg'
 MHTML_File_Open = open(MHTML_File_Location, 'r', encoding='utf-8')
 MHTML_File = MHTML_File_Open.read()
