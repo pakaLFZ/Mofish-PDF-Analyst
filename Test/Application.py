@@ -79,9 +79,11 @@ def Extract_Real_Coordinate(File, Coordinate, Location):
 	Y = float(Coordinate)
 	Location_1 = Location
 	Tag_List = []
+	Used_Tag = []
 	while 1:
 		Location_1 = File.rfind('<', 0, Location_1)
 		if Location_1 == -1 or Location_1 == 0:
+			#print(Used_Tag)
 			return round(Y, 4)
 		if File[Location_1 + 1] == '/':
 			Location_2 = File.find('>', Location_1)
@@ -94,6 +96,7 @@ def Extract_Real_Coordinate(File, Coordinate, Location):
 			del Tag_List[Location_2]
 			Location_1 += -1
 			continue
+		
 
 		Location_2 = File.find('>', Location_1)
 		Trans_Location = File.find(' transform="', Location_1, Location_2)
@@ -101,24 +104,38 @@ def Extract_Real_Coordinate(File, Coordinate, Location):
 			Location_1 += -1
 			continue
 
+		Location_2 = File.find(' ', Location_1)
+		Used_Tag.append(File[Location_1 + 1 : Location_2])
+
 		Location_3 = File.find('"', Trans_Location)
 		Location_4 = File.find('"', Location_3 + 1)
 		Transform_Content = File[Location_3 + 1 : Location_4]
 
-		if Transform_Content.find("matrix") != -1:
-			Location_2 = Transform_Content.find('matrix')
-			Location_3 = Transform_Content.find('(', Location_2)
-			Location_4 = Transform_Content.find(')', Location_3)
-			Matrix_Content = Transform_Content[Location_3 + 1 : Location_4].split(' ')
-			Y = Y + float(Matrix_Content[-1])
-		if Transform_Content.find("scale") != -1:
+		if Transform_Content.find('scale') != -1:
 			Location_2 = Transform_Content.find('scale')
 			Location_3 = Transform_Content.find('(', Location_2)
 			Location_4 = Transform_Content.find(')', Location_3)
 			Scale_Content = re.sub(r',','',Transform_Content[Location_3 + 1 : Location_4]).split(' ')
-			Y = Y * float(Scale_Content[1])
-		
+			Y = Y * float(Scale_Content[-1])
+
+		if Transform_Content.find('translate') != -1:
+			Location_2 = Transform_Content.find('translate')
+			Location_3 = Transform_Content.find('(', Location_2)
+			Location_4 = Transform_Content.find(')', Location_3)
+			Scale_Content = re.sub(r',','',Transform_Content[Location_3 + 1 : Location_4]).split(' ')
+			Y = Y + float(Scale_Content[-1])
+
+		if Transform_Content.find('matrix') != -1:
+			Location_2 = Transform_Content.find('matrix')
+			Location_3 = Transform_Content.find('(', Location_2)
+			Location_4 = Transform_Content.find(')', Location_3)
+			Matrix_Content = Transform_Content[Location_3 + 1 : Location_4].split(' ')
+			print(Matrix_Content)
+			if Matrix_Content[1] == '0' and Matrix_Content[2] == '0':
+				Y = Y * float(Matrix_Content[3])
+			Y = Y + float(Matrix_Content[5])	
 		Location_1 += -1
+	
 
 def Edge_Detection(File, Content, Book, Location):
 	#print(Content)
@@ -148,13 +165,6 @@ def Edge_Detection(File, Content, Book, Location):
 		return {"Action": 2}
 	return {"Action": 0}
 
-# def Sort(Data):
-# 	for i in range(len(Data) - 1): # 遍历 len(Data)-1 次
-# 			for j in range(len(Data) - i - 1): # 已排好序的部分不用再次遍历
-# 				if Data[j] > Data[j+1]:
-# 					Data[j], Data[j+1] = Data[j+1], Data[j] # Python 交换两个数不用中间变量
-# 	return Data
-
 def Path(Data):
 	Data = re.sub(r'[A-Z]','', Data).split(' ')
 	while ' ' in Data:
@@ -179,6 +189,7 @@ def Separate(File, Top, Bottom, Error):
 	Content = ''
 	while 1:
 		#print(Location_1)
+		Action = 0
 		Location_1 = File.find('<', Location_1)
 		if Location_1 == -1:
 			return Content
@@ -187,33 +198,39 @@ def Separate(File, Top, Bottom, Error):
 			Location_2 = File.find('>', Location_1)
 			Content = Content + File[Location_1 : Location_2 + 1]
 			Location_1 += 1
+			Action = 1
 
 		if File[Location_1 : Location_1 + 7] == '</svg:g':
 			Location_2 = File.find('>', Location_1)
 			Content = Content + File[Location_1 : Location_2 + 1]
 			Location_1 += 1
+			Action = 1
 
 		if File[Location_1 : Location_1 + 9] == '<svg:text':
 			Location_2 = File.find('>', Location_1)
 			Content = Content + File[Location_1 : Location_2 + 1]
 			Location_1 += 1
+			Action = 1
 
 		if File[Location_1 : Location_1 + 10] == '</svg:text':
 			Location_2 = File.find('>', Location_1)
 			Content = Content + File[Location_1 : Location_2 + 1]
 			Location_1 += 1
+			Action = 1
 
 		if File[Location_1 : Location_1 + 10] == '<svg:tspan':
 			Location_2 = File.find(" y=", Location_1)
 			Location_3 = File.find('"', Location_2)
 			Location_4 = File.find('"', Location_3 + 1)
 			Coordinate = File[Location_3 + 1 : Location_4]
-			Coordinate = Extract_Real_Coordinate(File, Coordinate, Location_2)
-			if Coordinate > Top - Error and Coordinate < Bottom + Error:
+			Coordinate = Extract_Real_Coordinate(File, Coordinate, Location_1 - 1)
+			if Coordinate >= Top - Error and Coordinate < Bottom - Error:
 				Location_2 = File.find('>', Location_1)
 				Location_2 = File.find('>', Location_2 + 1)
 				Content = Content + File[Location_1 : Location_2 + 1]
+				Action = 1
 			Location_1 += 1
+			
 
 		if File[Location_1 : Location_1 + 9] == '<svg:path':
 			Location_2 = File.find(" d=", Location_1)
@@ -221,31 +238,28 @@ def Separate(File, Top, Bottom, Error):
 			Location_4 = File.find('"', Location_3 + 1)
 			Coordinate = File[Location_3 + 1 : Location_4]
 			Data = Path(Coordinate)
-			Data["Minimun"] = Extract_Real_Coordinate(File, Data["Minimun"], Location_1)
-			Data["Maximun"] = Extract_Real_Coordinate(File, Data["Maximun"], Location_1)
-			if Data["Minimun"] > Top and Data["Maximun"] < Bottom:
+			Data["Minimun"] = Extract_Real_Coordinate(File, Data["Minimun"], Location_2)
+			Data["Maximun"] = Extract_Real_Coordinate(File, Data["Maximun"], Location_2)
+			#print(Data)
+			if float(Data["Minimun"]) >= (Top - Error) and float(Data["Maximun"]) <= (Bottom + Error):
 				Location_2 = File.find('>', Location_1)
-				Location_2 = File.find('>', Location_2)
+				Location_2 = File.find('>', Location_2 + 1)
 				Content = Content + File[Location_1 : Location_2 + 1]
+				Action = 1
 			Location_1 += 1
-		Location_1 += 1
 
-
-
-		
-
-
-
+		if Action == 0:
+			Location_1 += 1
 
 def Launcher():
-	Error = 2
+	Error = 1
 	File = open('./test.svg', 'r', encoding='utf-8').read()
 	print(Locate_Questions(File))
 	Data = Locate_Questions(File)
 	a = float(Data["Location_List"][1])
 	b = float(Data["Location_List"][2])
 	Content = Separate(File, a, b, Error)
-	Log = open('./1.svg', 'w')
+	Log = open('./1.svg', 'w', encoding='utf-8')
 	Log.write('<svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">')
 	Log.flush()
 	Log.write(Content)
