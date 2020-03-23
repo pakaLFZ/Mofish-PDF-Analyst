@@ -174,7 +174,7 @@ def Path(Data):
 		Location += 2
 	return {"Minimun": round(float(Minimun), 4), "Maximun": round(float(Maximun), 4)}
 
-def Separate(File, Top, Bottom):
+def Separate(File, Top, Bottom, Error):
 	Location_1 = 0
 	Content = ''
 	while 1:
@@ -182,6 +182,7 @@ def Separate(File, Top, Bottom):
 		Location_1 = File.find('<', Location_1)
 		if Location_1 == -1:
 			return Content
+
 		if File[Location_1 : Location_1 + 7] == '<svg:g ':
 			Location_2 = File.find('>', Location_1)
 			Content = Content + File[Location_1 : Location_2 + 1]
@@ -192,15 +193,26 @@ def Separate(File, Top, Bottom):
 			Content = Content + File[Location_1 : Location_2 + 1]
 			Location_1 += 1
 
+		if File[Location_1 : Location_1 + 9] == '<svg:text':
+			Location_2 = File.find('>', Location_1)
+			Content = Content + File[Location_1 : Location_2 + 1]
+			Location_1 += 1
+
+		if File[Location_1 : Location_1 + 10] == '</svg:text':
+			Location_2 = File.find('>', Location_1)
+			Content = Content + File[Location_1 : Location_2 + 1]
+			Location_1 += 1
+
 		if File[Location_1 : Location_1 + 10] == '<svg:tspan':
 			Location_2 = File.find(" y=", Location_1)
 			Location_3 = File.find('"', Location_2)
 			Location_4 = File.find('"', Location_3 + 1)
 			Coordinate = File[Location_3 + 1 : Location_4]
 			Coordinate = Extract_Real_Coordinate(File, Coordinate, Location_2)
-			if Coordinate > Top and Coordinate < Bottom:
+			if Coordinate > Top - Error and Coordinate < Bottom + Error:
 				Location_2 = File.find('>', Location_1)
-				Content = Content + File[Location_1 : Location_2 + 1] + '</svg:tspan>'
+				Location_2 = File.find('>', Location_2 + 1)
+				Content = Content + File[Location_1 : Location_2 + 1]
 			Location_1 += 1
 
 		if File[Location_1 : Location_1 + 9] == '<svg:path':
@@ -226,20 +238,19 @@ def Separate(File, Top, Bottom):
 
 
 def Launcher():
+	Error = 2
 	File = open('./test.svg', 'r', encoding='utf-8').read()
 	print(Locate_Questions(File))
 	Data = Locate_Questions(File)
-	a = float(Data["Location_List"][0])
-	b = float(Data["Location_List"][1])
-	Content = Separate(File, a, b)
-	Log = open('./loh.svg', 'w')
-	Log.write('<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">')
+	a = float(Data["Location_List"][1])
+	b = float(Data["Location_List"][2])
+	Content = Separate(File, a, b, Error)
+	Log = open('./1.svg', 'w')
+	Log.write('<svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">')
 	Log.flush()
 	Log.write(Content)
-	Log.write('</svg>')
+	Log.write('</svg:svg>')
 	Log.flush()
-	print(Separate(File, a, b))
-
 	
 	print('Done')
 
