@@ -12,8 +12,8 @@ Database = mysql.connector.connect(
 cursor = Database.cursor()
 
 def Send_Command(Instructor):
-  command = 'insert into API_paper_bank (paper_name, syllabus, year, month, paper_type, varient)value('
-  Counter = 0
+  command = 'insert into API_paper_bank (paper_name, syllabus, year, month, paper_type, variant)value('
+  Counter = 1
   while Counter <= len(Instructor) - 2:
     command = command + '"' + str(Instructor[Counter]) + '", '
     Counter += 1
@@ -32,7 +32,7 @@ Command = []
 Location_1 = 0
 
 
-'''paper_name, syllabus, year, month, paper_type, varient'''
+'''paper_name, syllabus, year, month, paper_type, variant'''
 while Location_1 <= len(Instructor) - 1:
   Command = []
   Location_1 = Instructor.find('{', Location_1)
@@ -41,7 +41,7 @@ while Location_1 <= len(Instructor) - 1:
     break
   Counter = 1
   Location_3 = Location_1
-  while Counter <= 6:
+  while Counter <= 7:
     Location_3 = Instructor.find('"', Location_3 + 1, Location_2)
     Location_4 = Instructor.find('"', Location_3 + 1, Location_2)
     Command.append(Instructor[Location_3 + 1 : Location_4])

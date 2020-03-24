@@ -4,7 +4,7 @@ def Launcher():
 	Error = 1 # 上下边框容错
 	Shift = 15 # 留边高度
 	Font = 1 #是否加入字体
-	Length = 8 #第一句话的判定长度
+	Length = 5 #第一句话的判定长度
 	File_Storage = './Files'
 	if not os.path.exists(File_Storage):
 		os.makedirs(File_Storage)
@@ -251,9 +251,18 @@ def Locate_Questions(File, Length):
 		if Feedback['Action'] == 2:
 			return None		
 		Question_Number = re.sub(r'[\s]', '', Content)
-		if not Question_Number.isdigit():
+		try:
+			if int(Question_Number) > 40:
+				Location_1 += 1
+				continue
+			if not Question_Number.isdigit():
+				Location_1 += 1
+				continue
+		except:
 			Location_1 += 1
 			continue
+
+		
 
 
 		Location_2 = File.find('<svg:tspan', Location_3) #-----------------< 题目检测

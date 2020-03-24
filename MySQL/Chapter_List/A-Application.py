@@ -14,16 +14,15 @@ cursor = Database.cursor()
 
 def Send_Command():
   # Instructor_File = open('./Instructor.mofish', 'r')
-  Instructor_File = open('/home/Python_MySQL/MCQ_Bank/Instructor.mofish', 'r')
+  Instructor_File = open('/home/Python_MySQL/MCQ_Bank_Chapter/Instructor.mofish', 'r')
   Instructor = json.loads(Instructor_File.read())
-  Command_Storage = 'insert into API_mcq_bank (svg_name, questionNo, answer, source_id)value("{svg_name}", "{question_no}", "{answer}", "{source_id}");'
+  Command_Storage = 'insert into API_chapter_list (syllabus, chapter_number)value("{syllabus}", "{chapter_number}");'
 
   for Instructions in Instructor:
-    svg_name = Instructions["File_Name"]
-    question_no = Instructions["Question_Number"]
-    answer = Instructions["Answer"]
-    source_id = Instructions["Source"]
-    Command = Command_Storage.format(svg_name=svg_name, question_no=question_no, answer=answer, source_id=source_id)
+    syllabus = Instructions["Syllabus"]
+    chapter_number = Instructions["Chapter"]
+
+    Command = Command_Storage.format(syllabus=syllabus, chapter_number=chapter_number)
     print(Command)
     cursor.execute(Command)
     cursor.execute('COMMIT;')
