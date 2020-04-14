@@ -5,17 +5,17 @@ def Launcher():
 	Shift = 15 # 留边高度
 	Font = 1 #是否加入字体
 	Length = 5 #第一句话的判定长度
-	File_Storage = './Files'
+	File_Storage = './allSVG'
 	if not os.path.exists(File_Storage):
 		os.makedirs(File_Storage)
-	Product_Storage = './Product'
+	Product_Storage = './B-Product'
 	if not os.path.exists(Product_Storage):
 		os.makedirs(Product_Storage)
-	Bug_Storage = './Bug'
+	Bug_Storage = './B-Bug'
 	if not os.path.exists(Bug_Storage):
 		os.makedirs(Bug_Storage)
 	
-	Log = open('./Log.txt', 'w')
+	Log = open('./B-Log.txt', 'w')
 	File_List = []
 
 	print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()) + '---Start')
@@ -207,7 +207,7 @@ def Space_Eliminator(Name):  # 在使用系统cmd复制bug文件的时候，会�
 	return(Name_Storage_2)
 
 def Bug_File_Copier(Root, File_Storage, Bug_Storage):  # 将有问题的文件复制到BugFile文件夹内
-	Service_Type = 0
+	Service_Type = 1
 	Command_Storage = ''
 	Bug = Space_Eliminator(Bug_Storage + '/' + Root)
 	File = Space_Eliminator(File_Storage + '/' + Root)
