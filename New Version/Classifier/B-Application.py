@@ -5,7 +5,7 @@ def Launcher():
 	File_Position = 'E:/0Mofish/PDF/Table-23/B-Product'
 	Problem_Positiom = './Problems'
 	Book_Location = './Book'
-	Instructor = open('./Source/Answer_Bank.txt', 'r').read()
+	Instructor = json.loads(open('./Source/Answer_Bank.json', 'r').read())
 	Chapter_List = json.loads(open('./Source/Chapter_List.mofish', 'r').read())
 	Safety_Instructor = open('./Source/Safety_Instructor.mofish', 'r').read()
 	Log = open('./Log.json', 'w')
@@ -205,50 +205,16 @@ def Match_Answer(File_Name_List, Instructor, File_Storage, Problem_Storage):
 		Location_2 = File_Name_List[0].find('.')
 		Question_Number = File_Name_List[0][Location_1 + 1 : Location_2]
 
-		Location_1 = File_Name_List[0].find('-')
 		Paper_Name = File_Name_List[0][0 : Location_1]
 		Paper_Name = Paper_Name.replace("qp", "ms")
 
-		Location_1 = Instructor.find(Paper_Name)
-		if Location_1 == -1:
-			Content["answer"] = '#File Missing'
+		try:
+			Answer = Instructor[Paper_Name][Question_Number]
+			Content["answer"] = Answer
 			Data.append(Content)
-			del File_Name_List[0]
-
-			Bug_File.append(Paper_Name)
-			Bug_File.append('Missing')
-			try:
-				Bug_File_Copier(File_Name_List[0], File_Storage, Problem_Storage)
-			except:
-				pass
-			continue
-
-		Location_1 = Instructor.find('%', Location_1)
-		Location_2 = Instructor.find('%', Location_1 + 1)
-		if Location_2 == -1:
-			Location_2 = len(Instructor) - 1
-		# print('>>' + Question_Number)
-		# input()
-		Location_3 = Instructor.find(Question_Number, Location_1, Location_2)
-		if Location_3 == -1:
-			Content["answer"] = '#Answer Missing'
+		except:
+			Content["answer"] = '#Bug'
 			Data.append(Content)
-			del File_Name_List[0]
-
-			Bug_File.append(Paper_Name)
-			Bug_File.append('Missing Question: '+ Question_Number)
-			try:
-				Bug_File_Copier(File_Name_List[0], File_Storage, Problem_Storage)
-			except:
-				pass
-			continue
-		Location_4 = Instructor.find(':', Location_3)
-		Location_5 = Instructor.find('>', Location_3)
-		Answer = Instructor[Location_4 + 1 : Location_5]
-		if Answer[0] != '#' and Answer[0] != 'A' and Answer[0] != 'B' and Answer[0] != 'C' and Answer[0] != 'D':
-			Answer = '##Bug--"' + Answer + '"##'
-		Content["answer"] = Answer
-		Data.append(Content)
 		del File_Name_List[0]
 	return Data
 

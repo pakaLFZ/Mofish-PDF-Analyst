@@ -7,17 +7,27 @@ def Launcher():
 		password="W8Lm&s^NCY41RtD0",
 		database="Mofish_Database"
 		)
+
 		cursor = Database.cursor()
 		Cursor = cursor
+		Command_List = [
+			"SET foreign_key_checks = 0",
+			"truncate table API_mcq_bank_chapter;",
+			"truncate table API_mcq_bank;",
+			"truncate table API_chapter_list;",
+			"truncate table API_paper_bank;",
+			"SET foreign_key_checks = 1",
+		]
+		for Command in Command_List:
+			print(Command)
+			cursor.execute(Command)
+		
+
 		Instructor = json.loads(open('./Log.json', 'r').read())
 		Paper(Instructor, Cursor)
-		input()
 		Chapter(Instructor, Cursor)
-		input()
 		MCQ_Bank(Instructor, Cursor)
-		input()
 		MCQ_Bank_Chapter_List(Instructor, Cursor)
-		input()
 
 
 def MCQ_Bank(Instructor, Cursor): #DOne
