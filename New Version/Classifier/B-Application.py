@@ -2,7 +2,7 @@ import os, re, time, json, sys
 
 def Launcher():
 	# File_Position = 'E:/0Mofish/PDF/Table-14_Q/Test' #'E:/0Mofish/PDF/Table-23/B-Product'
-	File_Position = 'E:/0Mofish/PDF/Table-23/B-Product'
+	File_Position = '../Spliter/B-Product-Done'
 	Problem_Positiom = './Problems'
 	Book_Location = './Book'
 	Instructor = json.loads(open('./Source/Answer_Bank.json', 'r').read())
@@ -130,11 +130,17 @@ def Get_Paper_List(File_List):
 	Id_Count = 1
 	Data = []
 	for Paper in Paper_List:
-		Syllabus = Paper[0 : 4]
-		Year = '20' + Paper[6 : 8]
-		Month = Paper[5]
-		Paper_type = 0
-		Variant = ''
+		Year = ''
+		Month = ''
+		Syllabus = ''
+		try:
+			Syllabus = Paper[0 : 4]
+			Year = '20' + Paper[6 : 8]
+			Month = Paper[5]
+			Paper_type = 0
+			Variant = ''
+		except:
+			pass
 
 		try:
 			if Paper[8 : 11] == '_2_':

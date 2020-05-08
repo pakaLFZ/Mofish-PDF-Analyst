@@ -1,50 +1,21 @@
 import os, re, json
 
 def Launcher():
-	File_Location = './Files'
+	File_Location = './'
 	Files = Get_File_List(File_Location)
 	Answer = {}
 	for File in Files:
 		File_Content = open(File_Location + '/' + File, 'r', encoding='utf-8').read()
-		# if File_Content.find('Teachers’ version') != -1 or File_Content.find('Number') != -1:
-		# 	Answer[File[0: -5]] = Find_Answer_Ver_2(File_Content)
-		# else:
-		# 	Answer[File[0: -5]] = Find_Answer_Ver_1(File_Content)
-		# if int(File[6 : 8]) >= 17:
-		# 	Answer_Storage = Method_1(File_Content)
-		# 	if len(Answer_Storage) < 30:
-		# 		Answer_Storage = Find_Answer_Ver_2(File_Content)
-		# 	Answer[File[0: -5]] = Answer_Storage
-		# else:
-		# 	Answer_Storage = Method_3(File_Content)
-		# 	if len(Answer_Storage) < 30:
-		# 		Answer_Storage = Find_Answer_Ver_2(File_Content)
-		# 		if len(Answer_Storage) < 30:
-		# 			Answer_Storage = Method_1(File_Content)
-		# 	Answer[File[0: -5]] = Answer_Storage
-		Answer[File[0: -5]] = Method_Switcher(File_Content, File)
+		if File_Content.find('Teachers’ version') != -1 or File_Content.find('Number') != -1:
+			Answer[File[0: -5]] = Find_Answer_Ver_2(File_Content)
+		else:
+			Answer[File[0: -5]] = Find_Answer_Ver_1(File_Content)
 	Log = open('./log.json', 'w')
 	Log.write(json.dumps(Answer))
 	Log.flush()
 	print(Answer)
 	print('Done')
 
-def Method_Switcher(File_Content, File):
-		Answer_Storage = Method_1(File_Content)
-		if len(Answer_Storage) >= 35:
-			Answer_Storage["method"] = "method 1"
-			return Answer_Storage
-		# Answer_Storage = Method_2(File_Content)
-		# if len(Answer_Storage) >= 35:
-		# 	Answer_Storage["method"] = "method 2"
-		# 	return Answer_Storage
-		Answer_Storage = Method_3(File_Content)
-		if len(Answer_Storage) >= 35:
-			Answer_Storage["method"] = "method 3"
-			return Answer_Storage
-		Answer_Storage = Method_4(File_Content)
-		Answer_Storage["method"] = "method 4"
-		return Answer_Storage
 
 def Get_File_List(File_Position):
 	Files = []
@@ -54,7 +25,7 @@ def Get_File_List(File_Position):
 				Files.append(os.path.join(name))
 	return Files
 
-def Method_4(File):
+def Find_Answer_Ver_1(File):
 	Location_1 = 0
 	File_Length = len(File) - 1
 	Answer_List = {}
@@ -87,13 +58,11 @@ def Method_4(File):
 
 def Find_Answer_Ver_2(File):
 	Answer = Method_1(File)
-	# Answer = Method_2(File)
 	if len(Answer) < 30:
 		Answer = Method_2(File)
-		# Answer = Method_1(File)
 	return Answer
 
-def Method_1(File): #10
+def Method_1(File):
 	Answer_List = {}
 	File_Length = len(File) - 1
 	Location_1 = 0
@@ -147,51 +116,26 @@ def Method_2(File):
 		Location_1 = File.find('<div', Location_1 + 1)
 		if Location_1 == -1:
 			break
-		Content_Q = Tag(File, Location_1, 1).replace(' ', '')
-		# Pinput(Content_Q)
-		if not Content_Q.isdigit():
-			Location_1 += 1
-			continue
-		Location_1 = File.find('<div', Location_1 + 1)
-		Content_A = Tag(File, Location_1, 1).replace(' ', '')
-		if not Content_A.isalpha() or not len(Content_A) == 1:
-			Location_1 += 1
-			continue
-		Answer_List[Content_Q] = Content_A
-		Location_1 = File.find('<div', Location_1 + 1)
-	return Answer_List
-
-def Method_3(File):
-	# Pinput("Method 3")
-	Answer_List = {}
-	File_Length = len(File) - 1
-	Location_1 = -1
-	while Location_1 <= File_Length:
-		Location_1 = File.find('<div', Location_1 + 1)
-		if Location_1 == -1:
-			break
 		Content_Q = Tag(File, Location_1, 1)
-		# Pinput("Content_Q " + Content_Q)
 		if not Content_Q.isdigit():
+			Location_1 += 1
 			continue
-		# Pinput('----')
 		Location_1 = File.find('<div', Location_1 + 1)
 		Content_A = Tag(File, Location_1, 1)
-		# Pinput("Content_A " + Content_A)
 		if not Content_A.isalpha() or not len(Content_A) == 1:
+			Location_1 += 1
 			continue
-		# Pinput('#####')
 		Answer_List[Content_Q] = Content_A
 	return Answer_List
 
 def Tag(File, Location, Type):
 	if Type == 0:
-		Location_A = File.find('>', Location)
-		return Location_A
+		Location_1 = File.find('>', Location)
+		return Location_1
 	if Type == 1:
-		Location_A = File.find('>', Location)
-		Location_B = File.find('<', Location_A)
-		Content = File[Location_A + 1 : Location_B].replace(' ', '')
+		Location_1 = File.find('>', Location)
+		Location_2 = File.find('<', Location_1)
+		Content = File[Location_1 + 1 : Location_2].replace(' ', '')
 		return Content
 
 def Pinput(content):

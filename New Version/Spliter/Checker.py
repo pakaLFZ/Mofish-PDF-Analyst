@@ -18,7 +18,7 @@ for Item in File_List:
 		Data.append({"paper": File_Name, "no": 1})
 Bug = []
 for Item in Data:
-	if Item["no"] != 40:
+	if Item["no"] <= 35:
 		Bug.append(Item)
 
 Log = open('./Checker.json', 'w')

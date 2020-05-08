@@ -1,12 +1,13 @@
 import os, re, time, sys
 
 def Launcher():
-	Error = 1 # 上下边框容错
+	Error = 1.2 # 上下边框容错
 	Shift = 15 # 留边高度
 	Font = 1 #是否加入字体
 	Length = 0 #第一句话的判定长度
 	Detect_Question_Content_Length = False
-	File_Storage = 'E:/0Mofish/PDF/Table-17/All-MCQ-Raw-PDF/svgdump'
+	# File_Storage = 'E:/0Mofish/PDF/Table-17/All-MCQ-Raw-PDF/svgdump'
+	File_Storage = './bin'
 	if not os.path.exists(File_Storage):
 		os.makedirs(File_Storage)
 	Product_Storage = './B-Product'
@@ -169,8 +170,8 @@ def Separate(File, Top, Bottom, Error, Font):
 			Data = Path(Coordinate)
 			Minimun = Extract_Real_Coordinate_Y(File, Data["Minimun"], Location_2)
 			Maximun = Extract_Real_Coordinate_Y(File, Data["Maximun"], Location_2)
-			if Minimun["Safe"] == 1 or Maximun["Safe"] == 1:
-				return None
+			# if Minimun["Safe"] == 1 or Maximun["Safe"] == 1:
+			# 	return None
 			if Minimun["Y"] >= (Top - Error) and Maximun["Y"] <= (Bottom + Error):
 				Location_2 = File.find('>', Location_1)
 				Location_2 = File.find('>', Location_2 + 1)

@@ -1,10 +1,10 @@
-import mysql.connector
+import mysql.connector #pip3 install mysql-connector
 import os, re, time, json
 def Launcher():
 		Database = mysql.connector.connect(
 		host="localhost",
-		user="mofish_root",
-		password="W8Lm&s^NCY41RtD0",
+		user="mofishRoot",
+		password="Jason1521",
 		database="Mofish_Database"
 		)
 
