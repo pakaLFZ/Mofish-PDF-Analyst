@@ -16,3 +16,7 @@ for item in bug:
 	print(item + '  ' + str(bug[item]))
 
 input()
+
+# def Launcher():
+# 	while 1:
+# 		print('Choose a mode \n"1" check answer\n "2" check bug')

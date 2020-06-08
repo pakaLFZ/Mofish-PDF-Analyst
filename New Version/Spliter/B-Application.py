@@ -6,18 +6,23 @@ def Launcher():
 	Font = 1 #是否加入字体
 	Length = 0 #第一句话的判定长度
 	Detect_Question_Content_Length = False
-	# File_Storage = 'E:/0Mofish/PDF/Table-17/All-MCQ-Raw-PDF/svgdump'
-	File_Storage = './bin'
+	File_Storage = 'E:/0Mofish/PDF/Table-17/All-MCQ-Raw-PDF/svgdump'
+	# File_Storage = './bin'
+	Log = open('./B-Log.txt', 'w')
+	Product_Storage = './B-Product'
+	Bug_Storage = './B-Bug'
+	debugIndicator = {
+		"switch": False,
+		"path": False,
+		"pathList": False,
+	}
+
 	if not os.path.exists(File_Storage):
 		os.makedirs(File_Storage)
-	Product_Storage = './B-Product'
 	if not os.path.exists(Product_Storage):
 		os.makedirs(Product_Storage)
-	Bug_Storage = './B-Bug'
 	if not os.path.exists(Bug_Storage):
 		os.makedirs(Bug_Storage)
-	
-	Log = open('./B-Log.txt', 'w')
 	File_List = []
 	Start_Time = time.perf_counter()
 	print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()) + '---Start')
@@ -52,29 +57,40 @@ def Launcher():
 			Bug_File_Copier(Root, File_Storage, Bug_Storage)
 			continue
 		Location = 0
+
+		if debugIndicator["switch"]:
+			PRINT("-----QUESTIONS-----", 1)
+			questionNumber = len(Data["Question_Number_List"])
+			counter = 0
+			while counter <= questionNumber - 1:
+				PRINT(str(Data["Question_Number_List"][counter]) + "---" + str(Data["Location_List"][counter]) + ", " + str(Data["Location_List"][counter + 1]), 1)
+				counter += 1
+			PRINT("-------------------", 1)
+
+
 		while Location <= len (Data["Location_List"]) - 2:
-			try:
-				Top = float(Data["Location_List"][Location])
-				Bottom = float(Data["Location_List"][Location + 1])
-				Content = Separate(File, Top, Bottom, Error, Font)
-				if Content == None:
-					Location += 1
-					continue
+			# try:
+			Top = float(Data["Location_List"][Location])
+			Bottom = float(Data["Location_List"][Location + 1])
+			Content = Separate(File, Top, Bottom, Error, Font, debugIndicator)
+			if Content == None:
+				Location += 1
+				continue
 
-				Location_1 = Root.find('-')
-				Paper_Name = Root[0 : Location_1]
+			Location_1 = Root.find('-')
+			Paper_Name = Root[0 : Location_1]
 
-				Product = open(Product_Storage + '/' + Paper_Name + '@' + Data["Question_Number_List"][Location] + '.svg', 'w', encoding='utf-8')
-				Product.write('<svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">')
-				Product.write('<svg:g transform="translate(0, -' + str(Top - Shift) + ')">')
-				Product.flush()
-				Product.write(Content)
-				Product.write('</svg:g>')
-				Product.write('</svg:svg>')
-				Product.flush()
-			except:
-				Log.write(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()) + '---BUG>>>' + Root)
-				Log.flush()
+			Product = open(Product_Storage + '/' + Paper_Name + '@' + Data["Question_Number_List"][Location] + '.svg', 'w', encoding='utf-8')
+			Product.write('<svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">')
+			Product.write('<svg:g transform="translate(0, -' + str(Top - Shift) + ')">')
+			Product.flush()
+			Product.write(Content)
+			Product.write('</svg:g>')
+			Product.write('</svg:svg>')
+			Product.flush()
+			# except:
+				# Log.write(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()) + '---BUG>>>' + Root)
+				# Log.flush()
 			Location += 1
 		Index += 1
 	print('Done')
@@ -89,7 +105,7 @@ def Print_Time(Start_Time, Index, Max_Index):
 	else:
 		PRINT('Average time left: ' + str(round(((time.perf_counter() - Start_Time) / Index) * (Max_Index - Index), 1)) + 's', 1)
 
-def Separate(File, Top, Bottom, Error, Font):
+def Separate(File, Top, Bottom, Error, Font, debugIndicator):
 	Location_1 = 0
 	Content = ''
 	if Font == 1:
@@ -167,11 +183,36 @@ def Separate(File, Top, Bottom, Error, Font):
 			Location_3 = File.find('"', Location_2)
 			Location_4 = File.find('"', Location_3 + 1)
 			Coordinate = File[Location_3 + 1 : Location_4]
-			Data = Path(Coordinate)
+			Data = Path(Coordinate, debugIndicator)
 			Minimun = Extract_Real_Coordinate_Y(File, Data["Minimun"], Location_2)
 			Maximun = Extract_Real_Coordinate_Y(File, Data["Maximun"], Location_2)
 			# if Minimun["Safe"] == 1 or Maximun["Safe"] == 1:
 			# 	return None
+			if debugIndicator["path"]:
+				# PRINT("Hello", 1)
+				dataStorage = Data["coordinateList"]
+				location = 0
+				while location <= len(dataStorage) - 2:
+					# Pinput(dataStorage[location])
+					dataStorage[location] = Extract_Real_Coordinate_X(File, dataStorage[location], Location_2)["X"]
+					location += 1
+					dataStorage[location] = Extract_Real_Coordinate_Y(File, dataStorage[location], Location_2)["Y"]
+					location += 1
+				location = 0
+				coordinateList = ''
+				while location <= len(dataStorage) - 2:
+					coordinateList += str(dataStorage[location]) + ' ' + str(dataStorage[location + 1]) + '\n'
+					location += 2
+				PRINT("coordinateList:\n" + coordinateList, 0)
+				PRINT(str(Coordinate) + "\nMin: " + str(Data["Minimun"]) + " : " + str(Minimun["Y"]) + " ->- " + str(Top - Error) + "\nMax: " + str(Data["Maximun"]) + " : " + str(Maximun["Y"]) + " -<- " + str(Bottom + Error), 1)
+				if Minimun["Y"] >= (Top - Error) and Maximun["Y"] <= (Bottom + Error):
+					PRINT("Picked", 1)
+					PRINT("---------------------", 1)
+				else:
+					PRINT("Passed", 1)
+					PRINT("---------------------", 1)
+
+
 			if Minimun["Y"] >= (Top - Error) and Maximun["Y"] <= (Bottom + Error):
 				Location_2 = File.find('>', Location_1)
 				Location_2 = File.find('>', Location_2 + 1)
@@ -489,7 +530,8 @@ def Edge_Detection(File, Content, Book, Location):
 		return {"Action": 2, "Safe": Safe}
 	return {"Action": 0, "Safe": Safe}
 
-def Path(Data):
+def Path(Data, debugIndicator):
+	rawData = Data
 	Data = re.sub(r'[A-Z]','', Data).split(' ')
 	while ' ' in Data:
 		Location = Data.index(' ')
@@ -497,16 +539,20 @@ def Path(Data):
 	while '' in Data:
 		Location = Data.index('')
 		del Data[Location]
+	
+	if debugIndicator["pathList"]:
+		PRINT("Raw:\n" + rawData + "\nList:\n"+ str(Data) + "\n-------------", 1)
+
 	Location = 1
 	Minimun = 99999999999999999
-	Maximun = 0
+	Maximun = -9999999999999999999999999999
 	while Location <= len(Data) - 1:
 		if float(Data[Location]) < float(Minimun):
 			Minimun = Data[Location]
 		if float(Data[Location]) > float(Maximun):
 			Maximun = Data[Location]
 		Location += 2
-	return {"Minimun": round(float(Minimun), 4), "Maximun": round(float(Maximun), 4)}
+	return {"Minimun": round(float(Minimun), 4), "Maximun": round(float(Maximun), 4), "coordinateList": Data}
 
 def Pinput(Content):
 	print(Content)
@@ -519,7 +565,6 @@ def PRINT(Content, Check):
 	else:
 		sys.stdout.write(Content)
 		sys.stdout.flush()
-
 
 Launcher()
 
