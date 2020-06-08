@@ -54,37 +54,6 @@ def Get_File_List(File_Position):
 				Files.append(os.path.join(name))
 	return Files
 
-def Method_4(File):
-	Location_1 = 0
-	File_Length = len(File) - 1
-	Answer_List = {}
-	while Location_1 <= File_Length:
-		Location_1 = File.find('<div', Location_1)
-		if Location_1 == -1:
-			break
-		Location_2 = File.find('>', Location_1 + 1)
-		Location_3 = File.find('<', Location_2 + 1)
-		Content = File[Location_2 + 1 : Location_3].split(' ')
-		# Pinput(Content)
-		if len(Content) >= 2:
-			if Content[0].isdigit():
-				if Content[1].isalpha() and len(Content[1]) == 1:
-					Answer_List[Content[0]] = Content[1]
-		if len(Content) == 1:
-			if str(Content[0]) == '1':
-				Location_2 = File.find('</div', Location_1)
-				Content = File[Location_1 : Location_2]
-				if Content.find('A </span>') != 0:
-					Answer_List['1'] = 'A'
-				if Content.find('B </span>') != 0:
-					Answer_List['1'] = 'B'
-				if Content.find('C </span>') != 0:
-					Answer_List['1'] = 'C'
-				if Content.find('D </span>') != 0:
-					Answer_List['1'] = 'D'
-		Location_1 += 1
-	return Answer_List
-
 def Find_Answer_Ver_2(File):
 	Answer = Method_1(File)
 	# Answer = Method_2(File)
@@ -183,6 +152,69 @@ def Method_3(File):
 		# Pinput('#####')
 		Answer_List[Content_Q] = Content_A
 	return Answer_List
+
+# def Method_4(File):
+# 	Location_1 = 0
+# 	File_Length = len(File) - 1
+# 	Answer_List = {}
+# 	while Location_1 <= File_Length:
+# 		Location_1 = File.find('<div', Location_1)
+# 		if Location_1 == -1:
+# 			break
+# 		Location_2 = File.find('>', Location_1 + 1)
+# 		Location_3 = File.find('<', Location_2 + 1)
+# 		Content = File[Location_2 + 1 : Location_3].split(' ')
+# 		# Pinput(Content)
+# 		if len(Content) >= 2:
+# 			if Content[0].isdigit():
+# 				if Content[1].isalpha() and len(Content[1]) == 1:
+# 					Answer_List[Content[0]] = Content[1]
+# 		if len(Content) == 1:
+# 			if str(Content[0]) == '1':
+# 				Location_2 = File.find('</div', Location_1)
+# 				Content = File[Location_1 : Location_2]
+# 				if Content.find('A </span>') != 0:
+# 					Answer_List['1'] = 'A'
+# 				if Content.find('B </span>') != 0:
+# 					Answer_List['1'] = 'B'
+# 				if Content.find('C </span>') != 0:
+# 					Answer_List['1'] = 'C'
+# 				if Content.find('D </span>') != 0:
+# 					Answer_List['1'] = 'D'
+# 		Location_1 += 1
+# 	return Answer_List
+
+def Method_4(File):
+	Location_1 = 0
+	File_Length = len(File) - 1
+	Answer_List = {}
+	while Location_1 <= File_Length:
+		Location_1 = File.find('<div', Location_1)
+		if Location_1 == -1:
+			break
+		Location_2 = File.find('>', Location_1 + 1)
+		Location_3 = File.find('<', Location_2 + 1)
+		Content = File[Location_2 + 1 : Location_3].split(' ')
+		# Pinput(Content)
+		if len(Content) >= 2:
+			if Content[0].isdigit():
+				if Content[1].isalpha() and len(Content[1]) == 1:
+					Answer_List[Content[0]] = Content[1]
+		# if len(Content) == 1:
+		# 	if str(Content[0]) == '1':
+		# 		Location_2 = File.find('</div', Location_1)
+		# 		Content = File[Location_1 : Location_2]
+		# 		if Content.find('A </span>') != 0:
+		# 			Answer_List['1'] = 'A'
+		# 		if Content.find('B </span>') != 0:
+		# 			Answer_List['1'] = 'B'
+		# 		if Content.find('C </span>') != 0:
+		# 			Answer_List['1'] = 'C'
+		# 		if Content.find('D </span>') != 0:
+		# 			Answer_List['1'] = 'D'
+		Location_1 += 1
+	return Answer_List
+
 
 def Tag(File, Location, Type):
 	if Type == 0:
