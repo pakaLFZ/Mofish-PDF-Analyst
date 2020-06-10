@@ -2,7 +2,7 @@ import os, re, time, json, sys
 
 def Launcher():
 	# File_Position = 'E:/0Mofish/PDF/Table-14_Q/Test' #'E:/0Mofish/PDF/Table-23/B-Product'
-	File_Position = '../Spliter/B-Product-Done'
+	File_Position = 'E:/0Mofish/PDF/Table-48/product'
 	Problem_Positiom = './Problems'
 	Book_Location = './Book'
 	Instructor = json.loads(open('./Source/Answer_Bank.json', 'r').read())
