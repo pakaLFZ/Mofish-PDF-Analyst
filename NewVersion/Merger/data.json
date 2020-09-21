@@ -14,17 +14,43 @@
             "group_3",
             11,
             15
+        ],
+        [
+            "group_4",
+            16,
+            20
+        ],
+        [
+            "group_5",
+            21,
+            25
+        ],
+        [
+            "group_6",
+            25,
+            30
         ]
     ],
-    "pageLength": 842,
+    "pageLength": 900,
     "source": true,
     "targetLocation": "D:/0dataBank/Pastpapers/Economics/B-Product",
     "productLocation": "./product",
-    "svgHeader": "<svg:svg xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:svg=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 595 842\"><svg:g transform='translate(0, 30)'>",
+    "svgHeader": "<svg:svg xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:svg=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 600 900\"><svg:g transform='translate(0, 30)'>",
     "svgTail":"</svg:g></svg:svg>",
     "initialPageLength":5,
     "debug": {},
     "shiftY": 5,
     "shiftX": 30,
-    "questionName": "<svg:g transform=\"translate({width}, {height})\"><svg:text font-size= \"12px\" font-weight=\"bold\">{name}</svg:text></svg:g>"
+    "fontSize":10.5,
+    "ban":1000,
+    "questionName": "<svg:g transform=\"translate({width}, {height})\"><svg:text font-size= \"{fontSize}px\" font-weight=\"bold\">{name}</svg:text></svg:g>",
+    "logo": {
+        "appendix": true,
+        "message": "Mofish developed the rearranging technology",
+        "x":380,
+        "y":10,
+        "fontSize":10,
+        "fontColor": "grey",
+        "font": "italic"
+    }
 }

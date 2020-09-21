@@ -46,6 +46,9 @@ def Merger(data, paperNameList, fileList):
     levelofshift_X = data["shiftX"]
     shift = '<svg:g transform="translate(0, {height})">'
     questionName = data["questionName"]
+    fontSize = data["fontSize"]
+    ban = data["ban"]
+    logo = data["logo"]
 
     if not os.path.exists(fileLocation):
         os.makedirs(fileLocation)
@@ -79,13 +82,16 @@ def Merger(data, paperNameList, fileList):
             if int(questionNo) >= start and int(questionNo) <= end:
                 questionLocation = fileLocation + '/' + question
                 File = open(questionLocation, 'r', encoding="utf-8").read()
+                if FileLengthObserver(File) > ban:
+                    continue
                 FileHeight = MeasureHeight(File)
 
                 
                 if currentPageLength + FileHeight + 5 * levelofshift_Y > pageLength:
                     pageLocation = groupLocation + "/" + str(pageNo) + ".svg"
                     pageOutput = open(pageLocation, "w", encoding="utf-8")
-                    svgOutput = svgHeader + outputData + svgTail
+                    logoMessage = LOGO(logo)
+                    svgOutput = svgHeader + logoMessage + outputData + svgTail
                     pageOutput.write(svgOutput)
                     pageOutput.flush()
                     pageOutput.close()
@@ -100,19 +106,21 @@ def Merger(data, paperNameList, fileList):
                 questionData = ExtractQuestionData(File)
                 name = ExtractQuestionName(question)
                 if source:
-                    outputData += questionName.format(width=levelofshift_X, height=currentPageLength + 2 * levelofshift_Y, name=name)
+                    outputData += questionName.format(width=levelofshift_X, height=currentPageLength + 2 * levelofshift_Y, name=name, fontSize=fontSize)
                 outputData += shift.format(height=currentPageLength + 3 * levelofshift_Y) + questionData + "</svg:g>"
                 currentPageLength += FileHeight + 5 * levelofshift_Y
 
         if len(outputData) != 0:
             pageLocation = groupLocation + "/" + str(pageNo) + ".svg"
             pageOutput = open(pageLocation, "w", encoding="utf-8")
-            svgOutput = svgHeader + outputData + svgTail
+            logoMessage = LOGO(logo)
+            svgOutput = svgHeader + logoMessage + outputData + svgTail
             pageOutput.write(svgOutput)
             pageOutput.flush()
             pageOutput.close()
             SVG2PDF(pageLocation)
             pdfList.append(pageNo)
+
         PRINT("    Merging")
         merger = PdfFileMerger()
         for item in pdfList:
@@ -250,24 +258,24 @@ def MeasureHeight(File):
     return maximun
  
 def Path(Data, debugIndicator):
-	rawData = Data
-	Data = re.sub(r'[A-Z]','', Data).split(' ')
-	while ' ' in Data:
-		Location = Data.index(' ')
-		del Data[Location]
-	while '' in Data:
-		Location = Data.index('')
-		del Data[Location]
-	Location = 1
-	Minimun = 99999999999999999
-	Maximun = -9999999999999999999999999999
-	while Location <= len(Data) - 1:
-		if float(Data[Location]) < float(Minimun):
-			Minimun = Data[Location]
-		if float(Data[Location]) > float(Maximun):
-			Maximun = Data[Location]
-		Location += 2
-	return {"Minimun": round(float(Minimun), 4), "Maximun": round(float(Maximun), 4), "coordinateList": Data}
+    rawData = Data
+    Data = re.sub(r'[A-Z]','', Data).split(' ')
+    while ' ' in Data:
+        Location = Data.index(' ')
+        del Data[Location]
+    while '' in Data:
+        Location = Data.index('')
+        del Data[Location]
+    Location = 1
+    Minimun = 99999999999999999
+    Maximun = -9999999999999999999999999999
+    while Location <= len(Data) - 1:
+        if float(Data[Location]) < float(Minimun):
+            Minimun = Data[Location]
+        if float(Data[Location]) > float(Maximun):
+            Maximun = Data[Location]
+        Location += 2
+    return {"Minimun": round(float(Minimun), 4), "Maximun": round(float(Maximun), 4), "coordinateList": Data}
 
 def ExtractQuestionData(File):
     data = File[
@@ -278,41 +286,69 @@ def ExtractQuestionData(File):
     return data
 
 def ExtractQuestionName(fileName):
-    name = "File   {name}, question {no}"
+    # name = "File   {name}, question {no}"
     no = fileName[ fileName.find("@") + 1 : fileName.find(".") ]
     paper = fileName[ : fileName.find("@") ]
-    return name.format(name=paper, no=no)
+    # return name.format(name=paper, no=no)
+    return fileName[ : fileName.find("@") ]
 
 def DATA():
     data = {
-            "questionGroup": [
-                [
-                    "group 1",
-                    1,
-                    5
-                ],
-                [
-                    "group 2",
-                    6,
-                    10
-                ],
-                [
-                    "group 3",
-                    11,
-                    15
-                ]
+        "questionGroup": [
+            [
+                "group_1",
+                1,
+                5
             ],
-            "pageLength": 720,
-            "source": True,
-            "targetLocation": "D:/0dataBank/Pastpapers/Economics/B-Product",
-            "productLocation": "./product",
-            "svgHeader": "<svg:svg xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:svg=\"http://www.w3.org/2000/svg\" version=\"1.1\"><svg:g transform='translate(0, 30)'>",
-            "svgTail":"</svg:g></svg:svg>",
-            "initialPageLength":5,
-            "debug": {},
-            "shiftY": 5,
-            "shiftX": 30
+            [
+                "group_2",
+                6,
+                10
+            ],
+            [
+                "group_3",
+                11,
+                15
+            ],
+            [
+                "group_4",
+                16,
+                20
+            ],
+            [
+                "group_5",
+                21,
+                25
+            ],
+            [
+                "group_6",
+                25,
+                30
+            ]
+        ],
+        "pageLength": 900,
+        "source": True,
+        "targetLocation": "D:/0dataBank/Pastpapers/Economics/B-Product",
+        "productLocation": "./product",
+        "svgHeader": "<svg:svg xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:svg=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 600 900\"><svg:g transform='translate(0, 30)'>",
+        "svgTail":"</svg:g></svg:svg>",
+        "initialPageLength":5,
+        "debug": {},
+        "shiftY": 5,
+        "shiftX": 30,
+        "fontSize":10.5,
+        "ban":1000,
+        "questionName": "<svg:g transform=\"translate({width}, {height})\"><svg:text font-size= \"{fontSize}px\" font-weight=\"bold\">{name}</svg:text></svg:g>",
+        "logo": {
+            "appendix": True,
+            "message": "Mofish developed the rearranging technology",
+            "x":380,
+            "y":10,
+            "fontSize":10,
+            "fontColor": "grey",
+            "font": "italic"
         }
+    }
     return data
 
 def RearrangeFileList(fileList):
@@ -343,8 +379,32 @@ def SVG2PDF(fileName):
     except:
         pass
 
+def FileLengthObserver(File):
+    Location_1 = 0
+    Content = ""
+    while 1:
+        Location_1 = File.find('tspan', Location_1)
+        if Location_1 == -1:
+            break
+        Location_2 = File.find('>', Location_1)
+        Location_1 = File.find('<', Location_1)
+        Sentence = File[Location_2 + 1 : Location_1]
+        Content = Content + Sentence
+    # Content = list(set(re.sub(r'[^\w\s]|\r|\n',' ',Content).split(' ')))
+    return len(Content)
+
+def LOGO(data):
+    message = data["message"]
+    fontSize = data["fontSize"]
+    fontColor = data["fontColor"]
+    x = data["x"]
+    y = data["y"]
+    font = data["font"]
+    content = '<svg:text x="{x}" y="{y}" font-size="{fontSize}" font-style="{font}" fill="{fontColor}">{message}</svg:text>'
+    return content.format(message=message, fontSize=fontSize, fontColor=fontColor, x=x, y=y, font=font)
+
 def PRINT(content):
-    print(content,flush=True)
+    print(content, flush=True)
 def PINPUT(content):
     print(content, flush=True)
     input()
