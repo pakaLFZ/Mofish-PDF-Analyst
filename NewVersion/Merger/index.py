@@ -1,4 +1,5 @@
-import re, os, json
+import re, os, json, subprocess
+from PyPDF2 import PdfFileMerger, PdfFileReader
 
 def GetFileList(location):
     fileList = []
@@ -44,7 +45,7 @@ def Merger(data, paperNameList, fileList):
     levelofshift_Y = data["shiftY"]
     levelofshift_X = data["shiftX"]
     shift = '<svg:g transform="translate(0, {height})">'
-    questionName = '<svg:g transform="translate({width}, {height})"><svg:text font-size= "15px" font-weight="bold">{name}</svg:text></svg:g>'
+    questionName = data["questionName"]
 
     if not os.path.exists(fileLocation):
         os.makedirs(fileLocation)
@@ -62,7 +63,9 @@ def Merger(data, paperNameList, fileList):
         pageNo = 0
         currentPageLength = initalPageLength
         outputData = ""
+        pdfList = []
 
+        PRINT(">>> " + groupName)
         if not os.path.exists(groupLocation):
             os.makedirs(groupLocation)
         
@@ -87,6 +90,9 @@ def Merger(data, paperNameList, fileList):
                     pageOutput.flush()
                     pageOutput.close()
 
+                    SVG2PDF(pageLocation)
+                    pdfList.append(pageNo)
+
                     pageNo += 1
                     currentPageLength = initalPageLength
                     outputData = ""
@@ -105,6 +111,15 @@ def Merger(data, paperNameList, fileList):
             pageOutput.write(svgOutput)
             pageOutput.flush()
             pageOutput.close()
+            SVG2PDF(pageLocation)
+            pdfList.append(pageNo)
+        PRINT("    Merging")
+        merger = PdfFileMerger()
+        for item in pdfList:
+            fileName = groupLocation + '/' + str(item) + '.pdf'
+            merger.append(PdfFileReader(open(fileName, 'rb')))
+        mergedFileName = productLocation + "/" + groupName + "-merged.pdf"
+        merger.write(mergedFileName)
 
 def Extract_Real_Coordinate(File, coordinate, location):
     Y = float(coordinate)
@@ -316,6 +331,17 @@ def RearrangeFileList(fileList):
         for item in list_storage:
             data.append(item)
     return data
+
+def SVG2PDF(fileName):
+    # PINPUT(fileName)
+    location = 'D:/0mofish/Mofish-PDF-Analyst/NewVersion/Merger'
+    command = 'inkscape {fileName} --export-type="pdf"'
+    fileLocation = location + fileName[1:]
+    # PINPUT(fileLocation)
+    try:
+        subprocess.check_output(command.format(fileName=fileLocation), shell=True)
+    except:
+        pass
 
 def PRINT(content):
     print(content,flush=True)
