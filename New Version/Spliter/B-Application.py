@@ -6,7 +6,7 @@ def Launcher():
 	Font = 1 #是否加入字体
 	Length = 0 #第一句话的判定长度
 	Detect_Question_Content_Length = False
-	File_Storage = 'E:/0Mofish/PDF/Table-17/All-MCQ-Raw-PDF/svgdump'
+	File_Storage = 'D:/0mofish/Mofish-PDF-Analyst/Old ver/PDF2SVG/svgdump'
 	# File_Storage = './bin'
 	Log = open('./B-Log.txt', 'w')
 	Product_Storage = './B-Product'

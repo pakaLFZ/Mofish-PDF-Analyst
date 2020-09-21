@@ -4,7 +4,8 @@ import win32api,win32con #需要Pip安装pywin
 import re
 
 #文件基础信息
-File_Storage = "./Files" 
+# File_Storage = "./Files" 
+File_Storage = "D:/0dataBank/Pastpapers/Economics/Economics (9708)"
 File_Location_List = []
 File_Name_List = []
 JS_File_Location = './'
