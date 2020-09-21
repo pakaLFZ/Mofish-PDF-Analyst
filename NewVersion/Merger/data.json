@@ -47,9 +47,9 @@
     "logo": {
         "appendix": true,
         "message": "Mofish developed the rearranging technology",
-        "x":380,
+        "x":375,
         "y":10,
-        "fontSize":10,
+        "fontSize":8.5,
         "fontColor": "grey",
         "font": "italic"
     }

@@ -342,9 +342,9 @@ def DATA():
         "logo": {
             "appendix": True,
             "message": "Mofish developed the rearranging technology",
-            "x":380,
+            "x":375,
             "y":10,
-            "fontSize":10,
+            "fontSize":8.5,
             "fontColor": "grey",
             "font": "italic"
         }
@@ -401,7 +401,10 @@ def LOGO(data):
     y = data["y"]
     font = data["font"]
     content = '<svg:text x="{x}" y="{y}" font-size="{fontSize}" font-style="{font}" fill="{fontColor}">{message}</svg:text>'
-    return content.format(message=message, fontSize=fontSize, fontColor=fontColor, x=x, y=y, font=font)
+    if data["appendix"]:
+        return content.format(message=message, fontSize=fontSize, fontColor=fontColor, x=x, y=y, font=font)
+    else:
+        return ""
 
 def PRINT(content):
     print(content, flush=True)
